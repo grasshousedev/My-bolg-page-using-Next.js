@@ -1,0 +1,81 @@
+{
+  "solutions": [
+    {
+      "name": "Analytics",
+      "description": "Get a better understanding of where your traffic is coming from.",
+      "href": "#",
+      "icon": "ChartBaricon",
+    },
+    {
+      "name": "Engagement",
+      "description": "Speak directly to your customers in a more meaningful way.",
+      "href": "#",
+      "icon": "CursorClickicon"
+    },
+    {
+      "name": "Security",
+      "description": "Your customers' data will be safe and secure.",
+      "href": "#",
+      "icon": "ShieldCheckicon"
+    },
+    {
+      "name": "Integrations",
+      "description": "Connect with third-party tools that you're already using.",
+      "href": "#",
+      "icon": "ViewGridicon",
+    }
+  ],
+  "callsToAction": [
+    {
+      "name": "Watch Demo", "href": "#", "icon": "Playicon"
+    },
+    {
+      "name": "View All Products", "href": "#", "icon": "CheckCircleicon"
+    },
+    {
+      "name": "Contact Sales", "href": "#", "icon": "Phoneicon"
+    }
+  ],
+  "company": [
+    {
+      "name": "About", "href": "#", "icon": "InformationCircleicon"
+    },
+    { "name": "Customers", "href": "#", "icon": "OfficeBuildingicon"
+    },
+    { "name": "Press", "href": "#", "icon": "Newspapericon"
+    },
+    { "name": "Careers", "href": "#", "icon": "Briefcaseicon"
+    },
+    { "name": "Privacy", "href": "#", "icon": "ShieldCheckicon"
+    }
+  ],
+  "resources": [
+    {
+      "name": "Community", "href": "#", "icon": "UserGroupicon"
+    },
+    { "name": "Partners", "href": "#", "icon": "GlobeAlticon"
+    },
+    { "name": "Guides", "href": "#", "icon": BookmarkAlt"icon"
+    },
+    { "name": "Webinars", "href": "#", "icon": DesktopComputer"icon"
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": 1,
+      "name": "Boost your conversion rate",
+      "href": "#",
+      "preview": "Eget ullamcorper ac ut vulputate fames nec mattis pellentesque elementum. Viverra tempor id mus.",
+      "imageUrl":
+        "https: //images.unsplash.com/photo-1558478551-1a378f63328e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2849&q=80"
+    },
+    {
+      "id": 2,
+      "name": "How to use search engine optimization to drive traffic to your site",
+      "href": "#",
+      "preview": "Eget ullamcorper ac ut vulputate fames nec mattis pellentesque elementum. Viverra tempor id mus.",
+      "imageUrl":
+        "https: //images.unsplash.com/1/apple-gear-looking-pretty.jpg?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80"
+    }
+  ]
+}

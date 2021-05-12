@@ -1,0 +1,8 @@
+{
+  "type": "info",
+  "content": "This is a message using a \n\n<TestComponent/>",
+  "link": {
+    "url": "#",
+    "text": "Find out more"
+  }
+}
