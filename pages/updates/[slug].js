@@ -5,6 +5,7 @@ import { serialize } from 'next-mdx-remote/serialize'
 import path from 'path'
 import Hero from '../../components/Hero'
 import Layout from '../../components/Layout'
+import ShareButtons from '../../components/ShareButtons'
 import { postFilePaths, POSTS_PATH } from '../../utils/mdxSections'
 import note from '../../_data/notification.json'
 
@@ -16,7 +17,7 @@ import shortcodes from '../../utils/shortcodes'
 
 const PAGE_DIR = '/updates'
 
-export default function PostPage({ source, data }) {
+export default function PostPage({ source, data, slug, url }) {
   const hero = {hero_image: data.featured_image ? data.featured_image : ''} //possibly add default image?
   return (
     <Layout>
@@ -33,7 +34,7 @@ export default function PostPage({ source, data }) {
           </div>
           <MDXRemote {...source} components={shortcodes} />
           <footer>
-              Share
+              <ShareButtons url={url} title={data.title}/>
           </footer>
         </article>
       </main>
@@ -52,6 +53,8 @@ export const getStaticProps = async (context) => {
   const pageSource = await serialize(content)
   return {
     props: {
+      slug: params.slug,
+      url: process.env.BASE_URL+PAGE_DIR+'/'+params.slug,
       note: note,
       source: pageSource,
       data: data,

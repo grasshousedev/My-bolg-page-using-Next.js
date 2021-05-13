@@ -78,6 +78,6 @@ NUA tax treatment is not available for all ESOP stock distributions. To qualify,
 
 The potential benefit of NUA tax treatment is that only the cost basis of the company stock is taxed at ordinary income rates. Any net unrealized appreciation of the stock (growth over time) is taxed at long-term capital gains tax rates, which is generally much lower than most participant’s ordinary income tax rate.
 
-### As you can see there is a lot to consider about ESOP distribution options. Make sure to account for your entire financial situation and consider your long term goals when making these important decisions.
+As you can see there is a lot to consider about ESOP distribution options. Make sure to account for your entire financial situation and consider your long term goals when making these important decisions.
 
-### Get personalized financial advice and help with rolling over your ESOP distribution. Call us today or [**click here to schedule**](https://calendly.com/navalign/esopconsult "Schedule a meeting") a meeting with one of our ESOP rollover specialists.
+Get personalized financial advice and help with rolling over your ESOP distribution. Call us today or [**click here to schedule**](https://calendly.com/navalign/esopconsult "Schedule a meeting") a meeting with one of our ESOP rollover specialists.

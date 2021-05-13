@@ -7,7 +7,9 @@ const CalendlyInline = ({event}) => {
     <InlineWidget
       url={`https://calendly.com/navalign/${event ? event : ''}`}
       styles={{
-        height: '1000px'
+        height: '1000px',
+        position: 'relative',
+        zIndex: 20,
       }}
      />
   );

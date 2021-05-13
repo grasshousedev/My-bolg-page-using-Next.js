@@ -1,10 +1,12 @@
-import EmoneyVideo from '../components/shortcodes/EmoneyVideo'
 import CalendyInline from '../components/shortcodes/CalendyInline'
+import EmoneyVideo from '../components/shortcodes/EmoneyVideo'
+import FeaturedContent from '../components/shortcodes/FeaturedContent'
 import Vimeo from '../components/shortcodes/Vimeo'
 const shortcodes = {
-  EmoneyVideo,
   CalendyInline,
-  Vimeo
+  EmoneyVideo,
+  FeaturedContent,
+  Vimeo,
 }
 
 export default shortcodes
