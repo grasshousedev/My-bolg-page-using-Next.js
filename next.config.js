@@ -3,6 +3,8 @@ module.exports = {
     domains: ['res.cloudinary.com'],
   },
   target: 'experimental-serverless-trace',
-  distDir: '.build',
+  distDir: 'out',
+  future: {
+    webpack5: true,
+  },
 };
-
