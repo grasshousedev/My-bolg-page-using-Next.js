@@ -2,7 +2,7 @@ module.exports = {
   images: {
     domains: ['res.cloudinary.com'],
   },
-  target: 'serverless',
+  // target: 'serverless',
   distDir: '.next-build',
 };
 
