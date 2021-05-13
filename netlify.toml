@@ -1,6 +1,6 @@
 [build]
   command = "npm run build"
-  publish = ".build"
+  publish = ".next"
 
 [[plugins]]
 package = "netlify-plugin-cache-nextjs"
@@ -9,7 +9,7 @@ package = "netlify-plugin-cache-nextjs"
 	# The path to the build directory
 	build_dir_path = "frontend"
 	# Custom build directory if you aren't using `.next` (https://nextjs.org/docs/api-reference/next.config.js/setting-a-custom-build-directory)
-	custom_build_dir_name = ".next-build"
+	# custom_build_dir_name = ".next"
 
 
 
