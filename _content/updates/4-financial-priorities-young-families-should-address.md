@@ -68,3 +68,5 @@ Three to six months of expenses may seem like an intimidating amount. However, i
 When you begin to enter the stage of life that you decide to plan for a family, be sure to include these important financial precautions. Addressing these priorities now will lower your chance of financial stress in the future and safeguard your family against unnecessary hardship.
 
 If you feel overwhelmed by these necessary steps, contact [a financial planner](https://navalign.com/what-we-do/fiduciary-financial-planning/). They will help you tackle the process of determining the best way forward for you and your family. Asking for help is the first step toward preparing for your future, and the best way to assure you’re protecting your most prized possessions – your loved ones.
+
+test
