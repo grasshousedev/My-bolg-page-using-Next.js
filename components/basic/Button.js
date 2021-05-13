@@ -3,6 +3,6 @@ export default function Button(props){
           onClick={props.onClick}
           onFocus={props.onFocus}
           role={props.role}
-          className="-mr-1 flex p-2 rounded-md hover:bg-brand-blue-500 focus:outline-none focus:ring-2 focus:ring-white sm:-mr-2"
-         >{props.text}</Button>
+          className="flex items-center justify-center px-4 py-2 border border-transparent rounded-md shadow-sm text-sm font-medium text-white hover:text-brand-blue bg-brand-blue hover:bg-white"
+          >{props.text}</Button>
 }

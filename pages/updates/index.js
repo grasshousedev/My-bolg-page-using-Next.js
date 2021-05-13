@@ -2,7 +2,6 @@ import fs from 'fs'
 import matter from 'gray-matter'
 import { MDXRemote } from 'next-mdx-remote'
 import Link from 'next/link'
-import Hero from '../../components/Hero'
 import path from 'path'
 import { serialize } from 'next-mdx-remote/serialize'
 import Layout from '../../components/Layout'
@@ -11,17 +10,13 @@ import { postFilePaths, POSTS_PATH } from '../../utils/mdxSections'
 import note from '../../_data/notification.json'
 import shortcodes from '../../utils/shortcodes'
 
-const PAGE_DIR = '/who-we-are/'
+const PAGE_DIR = '/updates/'
 
 
 export default function Index({posts,source,data,note,heroSource}) {
   // console.log(posts,source,data,note)
   return (
     <Layout note={note}>
-      <Hero
-        hero={data.hero}
-        heroSource={heroSource}
-        title={data.title}/>
         <ul>
         {posts.map((post) => (
           <li key={post.filePath}>
@@ -62,17 +57,12 @@ export async function getStaticProps(context){
   const { content, data } = matter(source)
 
   const pageSource = await serialize(content)
-  const heroSource = await serialize(data.hero.hero_text)
-  const heroVideo = await serialize(data.hero.video_emebed)
-  console.log(heroVideo)
   return {
     props: {
       note: note,
       posts: posts,
       source: pageSource,
       data: data,
-      heroSource: heroSource,
-      heroVideo: heroVideo
     },
   }
 }

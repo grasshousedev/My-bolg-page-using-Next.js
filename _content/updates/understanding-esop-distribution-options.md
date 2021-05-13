@@ -18,10 +18,7 @@ title: Understanding ESOP Distributions
 
 # Schedule to speak with an ESOP expert today
 
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/navalign/esopconsult?hide_event_type_details=1" style="min-width:320px;height:580px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->
+<CalendyInline event="esopconsult"/>
 
 ## When will I get a distribution from my ESOP?
 
@@ -84,13 +81,3 @@ The potential benefit of NUA tax treatment is that only the cost basis of the co
 ### As you can see there is a lot to consider about ESOP distribution options. Make sure to account for your entire financial situation and consider your long term goals when making these important decisions.
 
 ### Get personalized financial advice and help with rolling over your ESOP distribution. Call us today or [**click here to schedule**](https://calendly.com/navalign/esopconsult "Schedule a meeting") a meeting with one of our ESOP rollover specialists.
-
-<!-- Calendly badge widget begin -->
-
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-
-<script type="text/javascript">Calendly.initBadgeWidget({ url: 'https://calendly.com/navalign/esopconsult', text: 'Schedule a meeting', color: '#105388', textColor: '#ffffff', branding: false });</script>
-
-<!-- Calendly badge widget end -->

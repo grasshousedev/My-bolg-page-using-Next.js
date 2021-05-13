@@ -166,8 +166,7 @@ menu:
     parent: What We Do
     weight: 1
 meta_title: Fiduciary financial planning with a Certified Financial Planner
-page_description: Fiduciary financial planning for individuals, families and business
-  owners. Navalign's team of Certified Financial Planner professionals can help you
+page_description: Fiduciary financial planning for individuals, families and business owners. Navalign's team of Certified Financial Planner professionals can help you
   achieve your financial goals.
 slug: ""
 tags:

@@ -8,7 +8,7 @@ profile: []
 tags: []
 title: eMoney - Mobile App for iPhone and Android
 ---
-<div><div id='video-player-2056'></div><div id='video-player-disclaimer-part-2056' style='position:relative'></div></div><script src='https://content.jwplatform.com//libraries/ljXVSIQY.js'></script><script src='https://abm.emaplan.com/ABM/MediaServe/Embed?token=ada28dae14e644548ef9ae466f8e7cac'></script> 
+<EmoneyVideo/>
 
 ## Answers in the Palm of Your Hand
 

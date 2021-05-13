@@ -1,8 +1,8 @@
 {
   "type": "info",
-  "content": "This is a message using a \n\n<TestComponent/>",
+  "content": "Are you an advisor with a passion for building prosperity?",
   "link": {
-    "url": "#",
-    "text": "Find out more"
+    "url": "/careers",
+    "text": "Join the Team"
   }
 }

@@ -21,9 +21,9 @@ tags:
 - Personal Finance
 title: 4 Financial Priorities Young Families Should Address
 ---
-### As you start a family, your probably also going to [start thinking more about certain financial matters](https://navalign.com/updates/good-financial-steps-to-take-when-you-get-married/). Things change when you have kids, so the right kind of planning can assist in making the transition less stressful down the road.
+As you start a family, your probably also going to [start thinking more about certain financial matters](https://navalign.com/updates/good-financial-steps-to-take-when-you-get-married/). Things change when you have kids, so the right kind of planning can assist in making the transition less stressful down the road.
 
-### Parenting presents you with definite and sudden financial needs that must be addressed. If you choose to focus on those needs today, you will give yourself a head start on meeting critical financial goals in the future.
+Parenting presents you with definite and sudden financial needs that must be addressed. If you choose to focus on those needs today, you will give yourself a head start on meeting critical financial goals in the future.
 
 To adequately prepare for family life, we’ve assembled a to-do list, which can help jump-start your financial preparations. If you’re ready to start planning for your financial obligations as a parent, your list should include the following:
 

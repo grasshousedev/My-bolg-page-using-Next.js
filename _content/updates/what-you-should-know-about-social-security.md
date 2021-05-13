@@ -85,7 +85,4 @@ Depending on the type of Social Security benefits that you are applying for, you
 
 ### Social Security is a big part of your retirement. [Schedule to meet with a Chartered Retirement Planning Counselor™](https://calendly.com/navalign/social-security "Schedule to meet with us") to discuss how Social Security will affect your retirement, and plan with confidence.
 
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/navalign/social-security?hide_event_type_details=1" style="min-width:320px;height:580px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->
+<CalendyInline event="social-security"/>

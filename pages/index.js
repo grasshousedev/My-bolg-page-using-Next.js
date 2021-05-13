@@ -10,13 +10,13 @@ import note from '../_data/notification.json'
 
 const PAGE_DIR = '/'
 
-export default function Index({posts,source,data,note,heroSource}) {
-  // console.log(posts,source,data,note)
+export default function Index({posts,source,data,note,heroSource,heroVideo}) {
   return (
     <Layout note={note}>
       <Hero
         hero={data.hero}
-        heroSource={heroSource}/>
+        heroSource={heroSource}
+        heroVideo={heroVideo}/>
     </Layout>
   )
 }
@@ -44,7 +44,7 @@ export async function getStaticProps(context){
   const { content, data } = matter(source)
   const pageSource = await serialize(content)
   const heroSource = await serialize(data.hero.hero_text)
-  console.log(heroSource)
+  const heroVideo = await serialize(data.hero.video_emebed)
   return {
     props: {
       note: note,
@@ -52,6 +52,7 @@ export async function getStaticProps(context){
       source: pageSource,
       data: data,
       heroSource: heroSource,
+      heroVideo: heroVideo
     },
   }
 }

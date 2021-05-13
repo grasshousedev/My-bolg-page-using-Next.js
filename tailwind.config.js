@@ -23,7 +23,10 @@ module.exports = {
   variants: {
     extend: {},
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/typography'),
+    // ...
+  ],
 }
 // darkblue #0f5388
 // lightblue #CCEBFF

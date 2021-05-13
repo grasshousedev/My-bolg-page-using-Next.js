@@ -20,7 +20,8 @@ export default function CloudinaryImage({src,alt,width,height,layout,transform =
         alt={alt}
         width={width}
         height={height}
-        layout={layout ? layout : ''}/>
+        layout={layout ? layout : ''}
+        className="obejct-cover"/>
     </picture>
   )
 }

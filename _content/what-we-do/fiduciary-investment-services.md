@@ -157,9 +157,7 @@ menu:
     parent: What We Do
     weight: 2
 meta_title: Fiduciary wealth management and investing service | Navalign
-page_description: Fiduciary investment management services for individuals, families
-  and business owners. Navalign professionally manages custom portfolios to build
-  and preserve wealth.
+page_description: Fiduciary investment management services for individuals, families and business owners. Navalign professionally manages custom portfolios to build and preserve wealth.
 slug: ""
 tags:
 - Investment Management

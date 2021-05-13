@@ -1,6 +1,8 @@
 /* This example requires Tailwind CSS v2.0+ */
 import { Fragment } from 'react'
 import { Popover, Transition } from '@headlessui/react'
+import { useRouter } from 'next/router'
+
 import {
   BookmarkAltIcon,
   BriefcaseIcon,
@@ -20,29 +22,40 @@ import {
   ViewGridIcon,
   XIcon,
 } from '@heroicons/react/outline'
+
+import Icon401k from '../components/icons/Icon401k'
+import IconFinancialPlanning from '../components/icons/IconFinancialPlanning'
+import IconInvestmentServices from '../components/icons/IconInvestmentServices'
+import IconRetirement from '../components/icons/IconRetirement'
 import { ChevronDownIcon } from '@heroicons/react/solid'
+
 import Link from 'next/link'
+import NavagationLink from '../components/basic/NavigationLink'
 import LogoLink from './basic/LogoLink'
 
-const solutions = [
+const whatWeDo = [
   {
     name: 'Financial Planning',
-    description: 'Get a better understanding of finanicial journey.',
+    description: 'Fiduciary financial planning for individuals, families and business owners. Navalign\'s team of Certified Financial Planner professionals can help you.',
     href: '/what-we-do/fiduciary-financial-planning',
-    icon: ChartBarIcon,
+    icon: IconFinancialPlanning,
   },
   {
     name: 'Investment Services',
-    description: 'Speak directly to us in a more meaningful way.',
-    href: 'fiduciary-investment-services',
-    icon: CursorClickIcon,
+    description: 'Fiduciary investment management services for individuals, families and business owners. Navalign professionally manages custom portfolios to build and preserve wealth.',
+    href: '/what-we-do/fiduciary-investment-services',
+    icon: IconInvestmentServices,
   },
-  { name: 'Security', description: "Your customers' data will be safe and secure.", href: '#', icon: ShieldCheckIcon },
   {
-    name: 'Integrations',
-    description: "Connect with third-party tools that you're already using.",
-    href: '#',
-    icon: ViewGridIcon,
+    name: 'Retirement Strategies',
+    description: "Financial planning and advice for retirement. Navalign\'s team of Certified Financial Planner professionals can help you achieve your retirement goals.",
+    href: '/what-we-do/retirement-planning-strategies',
+    icon: IconRetirement },
+  {
+    name: '401(k) & Pension Plans',
+    description: "Fiduciary retirement plan advisor for 401(k) and Defined Benefit pension plans. Navalign helps businesses setup and manage successful retirement benefits plans for employees.",
+    href: '/what-we-do/401k-and-pension-plan-fiduciary',
+    icon: Icon401k,
   },
 ]
 const callsToAction = [
@@ -87,6 +100,8 @@ function classNames(...classes) {
 }
 
 export default function Example() {
+  const router = useRouter()
+
   return (
     <Popover className="relative bg-brand-blue">
       {({ open }) => (
@@ -114,7 +129,7 @@ export default function Example() {
                 {/** Dropdown */}
                 <Popover.Group as="nav" className="flex space-x-10">
                   <span
-                    className="text-base font-medium text-white hover:text-brand-blue-light"
+                    className={`${router.pathname === '/who-we-are' ? 'text-brand-blue-light' : 'text-white'} text-base font-medium hover:text-brand-blue-light`}
                   >
                   <Link
                     href={'/who-we-are'}
@@ -126,7 +141,7 @@ export default function Example() {
                         <Popover.Button
                           className={classNames(
                             open ? 'text-brand-blue-light' : 'text-white',
-                            'group bg-transparent rounded-md inline-flex items-center text`-white font-medium hover:text-brand-blue-light focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500'
+                            'group bg-transparent rounded-md inline-flex items-center text`-white font-medium hover:text-brand-blue-light focus:outline-none'
                           )}
                         >
                           <span>What We Do</span>
@@ -154,35 +169,37 @@ export default function Example() {
                             className="hidden md:block absolute z-10 top-full inset-x-0 transform shadow-lg bg-white"
                           >
                             <div className="max-w-7xl mx-auto grid gap-y-6 px-4 py-6 sm:grid-cols-2 sm:gap-8 sm:px-6 sm:py-8 lg:grid-cols-4 lg:px-8 lg:py-12 xl:py-16">
-                              {solutions.map((item) => (
+                              {whatWeDo.map((item) =>   {console.log(router.asPath,router.asPath === item.href)
+                              return (
+
                                 <span
                                   key={item.href}
-                                  className="text-base font-medium text-white hover:text-brand-blue-light"
+                                  className={`text-base font-medium hover:text-brand-blue`}
                                 >
                                 <a
                                   key={item.name}
                                   href={item.href}
-                                  className="-m-3 p-3 flex flex-col justify-between rounded-lg hover:bg-gray-50"
+                                  className={`${router.asPath === item.href ? 'ring-2 ring-brand-blue-light' : ''} -m-3 p-3 flex flex-col justify-between rounded-lg hover:bg-gray-50`}
                                 >
                                     <div className="flex md:h-full lg:flex-col">
                                       <div className="flex-shrink-0">
-                                        <span className="inline-flex items-center justify-center h-10 w-10 rounded-md bg-indigo-500 text-white sm:h-12 sm:w-12">
-                                          <item.icon className="h-6 w-6" aria-hidden="true" />
+                                        <span className="inline-flex items-center justify-center h-24 w-auto rounded-md sm:w-24 sm:w-24">
+                                          <item.icon className="block h-20 w-auto" aria-hidden="true" />
                                         </span>
                                       </div>
                                       <div className="ml-4 md:flex-1 md:flex md:flex-col md:justify-between lg:ml-0 lg:mt-4">
                                         <div>
-                                          <p className="text-base font-medium text-brand-blue-light">{item.name}</p>
-                                          <p className="mt-1 text-sm text-white">{item.description}</p>
+                                          <p className="text-base font-medium text-brand-blue">{item.name}</p>
+                                          <p className="mt-1 text-sm">{item.description}</p>
                                         </div>
-                                        <p className="mt-2 text-sm font-medium text-indigo-600 lg:mt-4">
+                                        <p className="mt-2 text-sm font-medium text-brand-blue lg:mt-4">
                                           Learn more <span aria-hidden="true">&rarr;</span>
                                         </p>
                                       </div>
                                     </div>
                                   </a>
                                 </span>
-                              ))}
+                              )})}
                             </div>
                             <div className="bg-gray-50">
                               <div className="max-w-7xl mx-auto space-y-6 px-4 py-5 sm:flex sm:space-y-0 sm:space-x-10 sm:px-6 lg:px-8">
@@ -204,11 +221,15 @@ export default function Example() {
                       </>
                     )}
                   </Popover>
-                  <a href="#" className="text-base font-medium text-white hover:text-brand-blue-light">
-                    Pricing
+                  <a
+                    href="/why-navalign"
+                    className={`${router.asPath === '/why-navalign' ? 'text-brand-blue-light' : 'text-white'} text-base font-medium hover:text-brand-blue-light`}>
+                    Why Navalign
                   </a>
-                  <a href="#" className="text-base font-medium text-white hover:text-brand-blue-light">
-                    Docs
+                  <a
+                    href="/updates"
+                    className={`${router.asPath === '/updates' ? 'text-brand-blue-light' : 'text-white'} text-base font-medium hover:text-brand-blue-light`}>
+                    Updates
                   </a>
                   <Popover>
                     {({ open }) => (
@@ -381,7 +402,7 @@ export default function Example() {
                   <div className="mt-6 sm:mt-8">
                     <nav>
                       <div className="grid gap-7 sm:grid-cols-2 sm:gap-y-8 sm:gap-x-4">
-                        {solutions.map((item) => (
+                        {whatWeDo.map((item) => (
                           <a
                             key={item.name}
                             href={item.href}
