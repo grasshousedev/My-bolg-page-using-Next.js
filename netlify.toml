@@ -1,9 +1,18 @@
 [build]
   command = "npm run build"
-  publish = "build"
+  publish = ".next-build"
 
 [[plugins]]
-  package = "@netlify/plugin-nextjs"
+package = "netlify-plugin-cache-nextjs"
+	# These options will cache the build directory at `${NETLIFY_BASE}/frontend/.next-build`
+	[plugins.inputs]
+	# The path to the build directory
+	build_dir_path = "frontend"
+	# Custom build directory if you aren't using `.next` (https://nextjs.org/docs/api-reference/next.config.js/setting-a-custom-build-directory)
+	custom_build_dir_name = ".next-build"
+
+
+
 
 [context.production.environment]
 NEXT_SERVERLESS = "true"

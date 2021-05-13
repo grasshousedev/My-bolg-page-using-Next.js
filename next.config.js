@@ -3,6 +3,6 @@ module.exports = {
     domains: ['res.cloudinary.com'],
   },
   target: 'serverless',
-  distDir: 'build',
+  distDir: '.next-build',
 };
 
