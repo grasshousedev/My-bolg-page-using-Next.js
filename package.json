@@ -8,6 +8,9 @@
     "start": "next start"
   },
   "dependencies": {
+  },
+  "license": "MIT",
+  "devDependencies": {
     "@headlessui/react": "^1.2.0",
     "@heroicons/react": "^1.0.1",
     "@tailwindcss/typography": "^0.4.0",
@@ -23,9 +26,5 @@
     "react-dom": "^17.0.2",
     "react-share": "^4.4.0",
     "tailwindcss": "^2.1.2"
-  },
-  "license": "MIT",
-  "devDependencies": {
-    "netlify-plugin-cache-nextjs": "^1.6.1"
   }
 }
