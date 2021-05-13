@@ -49,7 +49,6 @@ export const getStaticProps = async (context) => {
   const source = fs.readFileSync(postFilePath)
 
   const { content, data } = matter(source)
-  console.log(data)
   const pageSource = await serialize(content)
   return {
     props: {

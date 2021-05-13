@@ -15,7 +15,7 @@ const PAGE_DIR = '/who-we-are/'
 
 
 export default function Index({posts,source,data,note,heroSource}) {
-  // console.log(posts,source,data,note)
+  // //console(posts,source,data,note)
   return (
     <Layout note={note}>
       <Hero
@@ -46,7 +46,7 @@ export async function getStaticProps(context){
   const { params } = context
   // Get Posts
   const posts = postFilePaths(PAGE_DIR).map((filePath) => {
-    console.log('filePath',filePath)
+    //console('filePath',filePath)
     const source = fs.readFileSync(path.join(`${POSTS_PATH}${PAGE_DIR}`, filePath))
     const { content, data } = matter(source)
     return {
@@ -64,7 +64,7 @@ export async function getStaticProps(context){
   const pageSource = await serialize(content)
   const heroSource = await serialize(data.hero.hero_text)
   const heroVideo = await serialize(data.hero.video_emebed)
-  console.log(heroVideo)
+  //console(heroVideo)
   return {
     props: {
       note: note,

@@ -169,7 +169,7 @@ export default function Example() {
                             className="hidden md:block absolute z-10 top-full inset-x-0 transform shadow-lg bg-white"
                           >
                             <div className="max-w-7xl mx-auto grid gap-y-6 px-4 py-6 sm:grid-cols-2 sm:gap-8 sm:px-6 sm:py-8 lg:grid-cols-4 lg:px-8 lg:py-12 xl:py-16">
-                              {whatWeDo.map((item) =>   {console.log(router.asPath,router.asPath === item.href)
+                              {whatWeDo.map((item) =>   {//console(router.asPath,router.asPath === item.href)
                               return (
 
                                 <span

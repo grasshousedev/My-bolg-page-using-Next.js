@@ -14,7 +14,7 @@ const PAGE_DIR = '/updates/'
 
 
 export default function Index({posts,source,data,note,heroSource}) {
-  // console.log(posts,source,data,note)
+  // //console(posts,source,data,note)
   return (
     <Layout note={note}>
         <ul>
@@ -41,7 +41,7 @@ export async function getStaticProps(context){
   const { params } = context
   // Get Posts
   const posts = postFilePaths(PAGE_DIR).map((filePath) => {
-    console.log('filePath',filePath)
+    //console('filePath',filePath)
     const source = fs.readFileSync(path.join(`${POSTS_PATH}${PAGE_DIR}`, filePath))
     const { content, data } = matter(source)
     return {

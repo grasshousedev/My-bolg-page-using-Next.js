@@ -5,7 +5,7 @@ import 'tailwindcss/tailwind.css'
 
 export default function Layout(props) {
   const { children,note } = props
-  //console.log(children,note)
+  ////console(children,note)
   return (
     <>
       <Notifictation note={note}/>
