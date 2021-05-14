@@ -7,12 +7,14 @@ import { MDXRemote } from 'next-mdx-remote'
 import shortcodes from '../utils/shortcodes'
 import CloudinaryImage from '../components/CloudinaryImage'
 import HeroButtons from '../components/HeroButtons'
+import Vimeo from '../components/shortcodes/Vimeo'
 
 shortcodes.h1 = (props) => {
   return <h1 className="text-4xl font-bold mb-4 text-brand-blue">{props.children}</h1>
 }
 
 export default function Hero(props) {
+  console.log(props)
   return (
     <div className="relative bg-white overflow-hidden">
       <div className="max-w-7xl mx-auto">
@@ -35,7 +37,10 @@ export default function Hero(props) {
               <HeroButtons/>
             </div>
           </div>) : props.children }
-          { props.heroVideo ? <MDXRemote {...props.heroVideo} components={shortcodes}/> : 'not here'}
+          { props.video ?
+          <div className="mt-0 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28 relative z-20">
+            <Vimeo video_id={props.video}/>
+          </div> : ''}
         </div>
       </div>
       <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2 max-h-96">

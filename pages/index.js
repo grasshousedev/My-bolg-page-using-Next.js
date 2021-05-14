@@ -20,7 +20,7 @@ export default function Index({posts,source,data,note,heroSource,heroVideo}) {
       <Hero
         hero={data.hero}
         heroSource={heroSource}
-        heroVideo={heroVideo}/>
+        video={data.video}/>
       <LogoBlock/>
       <IconBlock/>
       <ImageBlock/>
@@ -52,7 +52,7 @@ export async function getStaticProps(context){
   const { content, data } = matter(source)
   const pageSource = await serialize(content)
   const heroSource = await serialize(data.hero.hero_text)
-  const heroVideo = await serialize(data.hero.video_emebed)
+  const heroVideo = await serialize(data.hero.video_embed)
   return {
     props: {
       note: note,

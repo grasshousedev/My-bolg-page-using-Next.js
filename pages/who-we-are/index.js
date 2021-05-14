@@ -15,7 +15,7 @@ import shortcodes from '../../utils/shortcodes'
 const PAGE_DIR = '/who-we-are/'
 
 
-export default function Index({posts,source,data,note,heroSource}) {
+export default function Index({posts,source,data,note,heroSource,pagePath}) {
   // //console(posts,source,data,note)
   // Order by Weight
   posts.sort(function (a, b) {
@@ -30,22 +30,25 @@ export default function Index({posts,source,data,note,heroSource}) {
         <main className="max-w-7xl mx-auto px-4 lg:px-8 py-4 lg:py-8">
         <ul className="mt-20 space-y-12 sm:grid sm:grid-cols-3 sm:gap-x-6 sm:gap-y-12 sm:space-y-0 lg:grid-cols-4 lg:gap-x-24">
             {posts.map((post) => {
+              console.log(post)
               const {featured_image,layout,title,email,twitter,linkedin,hero,position,draft} = post.data
 
               return layout === 'profile' && !draft?
               <li key={title}>
               <div className="space-y-4">
                 <div className="aspect-w-3 aspect-h-2">
-                  <CloudinaryImage
-                    className="object-cover shadow-lg"
-                    src={featured_image}
-                    alt=""
-                    height={500}
-                    width={500}
-                  />
-                  <img className="object-cover shadow-lg rounded-lg" src={featured_image} alt="" />
+                  <Link href={post.pagePath ? post.pagePath : "#"}>
+                    <a>
+                      <CloudinaryImage
+                        className="object-cover shadow-lg"
+                        src={featured_image}
+                        alt=""
+                        height={500}
+                        width={500}
+                      />
+                    </a>
+                  </Link>
                 </div>
-
                 <div className="space-y-2">
                   <div className="text-lg leading-6 font-medium space-y-1">
                     <h3>{title}</h3>
@@ -97,7 +100,7 @@ export async function getStaticProps(context){
     return {
       content,
       data,
-      filePath,
+      pagePath: `${PAGE_DIR}${filePath.replace(/\.(md|mdx)$/, '')}`
     }
   })
 
