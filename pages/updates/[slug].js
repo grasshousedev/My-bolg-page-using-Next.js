@@ -22,7 +22,7 @@ export default function PostPage({ source, data, slug, url }) {
   return (
     <Layout>
       <Hero hero={hero}>
-      <main className="prose prose-brand-blue">
+      <main className="prose prose-brand-blue relative z-20">
         <article>
           <header>
             <h1>{data.title}</h1>
@@ -43,6 +43,8 @@ export default function PostPage({ source, data, slug, url }) {
   )
 }
 
+
+
 export const getStaticProps = async (context) => {
   const {params} = context
   const postFilePath = path.join(`${POSTS_PATH}${PAGE_DIR}`, `${params.slug}.md`)
@@ -50,6 +52,7 @@ export const getStaticProps = async (context) => {
 
   const { content, data } = matter(source)
   const pageSource = await serialize(content)
+
   return {
     props: {
       slug: params.slug,

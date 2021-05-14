@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "react-markdown": "^6.0.2"
   },
   "license": "MIT",
   "devDependencies": {

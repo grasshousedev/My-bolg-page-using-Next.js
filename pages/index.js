@@ -5,6 +5,10 @@ import path from 'path'
 import { serialize } from 'next-mdx-remote/serialize'
 import Layout from '../components/Layout'
 import Hero from '../components/Hero'
+import LogoBlock from '../components/blocks/LogoBlock'
+import IconBlock from '../components/blocks/IconBlock'
+import ImageBlock from '../components/blocks/ImageBlock'
+import RecentPosts from '../components/blocks/RecentPosts'
 import { postFilePaths, POSTS_PATH } from '../utils/mdxSections'
 import note from '../_data/notification.json'
 
@@ -17,6 +21,10 @@ export default function Index({posts,source,data,note,heroSource,heroVideo}) {
         hero={data.hero}
         heroSource={heroSource}
         heroVideo={heroVideo}/>
+      <LogoBlock/>
+      <IconBlock/>
+      <ImageBlock/>
+      <RecentPosts/>
     </Layout>
   )
 }

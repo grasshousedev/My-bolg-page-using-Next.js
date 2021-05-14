@@ -10,7 +10,7 @@ export default function Layout(props) {
     <>
       <Notifictation note={note}/>
       <SiteHeader/>
-      <div className="max-w-7xl mx-auto pb-3 px-3 sm:px-6 lg:px-8">{children}</div>
+      <div className="">{children}</div>
       <Footer/>
     </>
   )

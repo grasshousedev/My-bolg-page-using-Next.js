@@ -15,10 +15,13 @@ module.exports = {
       yellow: colors.amber,
       blue: colors.blue,
       'brand-blue': '#0f5388',
-      'brand-blue-light': '#85d7ff',
+      'brand-blue-light': '#CCEBFF',
      },
-    extend: {
-    },
+     maxHeight: {
+       'hero': '700px',
+     },
+      extend: {
+      },
   },
   variants: {
     extend: {},
