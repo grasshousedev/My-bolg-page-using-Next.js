@@ -29,3 +29,17 @@
   "devDependencies": {
   }
 }
+
+1:49:12 PM: ────────────────────────────────────────────────────────────────
+1:49:12 PM:   Plugin "@netlify/plugin-nextjs" internal error
+1:49:12 PM: ────────────────────────────────────────────────────────────────
+1:49:12 PM: ​
+1:49:12 PM:   Error message
+1:49:12 PM:   Error: 'out/index.html' already exists
+1:49:12 PM: ​
+1:49:12 PM:   Plugin details
+1:49:12 PM:   Package:        @netlify/plugin-nextjs
+1:49:12 PM:   Version:        3.3.0
+1:49:12 PM:   Repository:     git+https://github.com/netlify/netlify-plugin-nextjs.git
+1:49:12 PM:   npm link:       https://www.npmjs.com/package/@netlify/plugin-nextjs
+1:49:12 PM:   Report issues:  https://github.com/netlify/netlify-plugin-nextjs/issues
