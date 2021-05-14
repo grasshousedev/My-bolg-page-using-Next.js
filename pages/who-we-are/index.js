@@ -30,9 +30,7 @@ export default function Index({posts,source,data,note,heroSource,pagePath}) {
         <main className="max-w-7xl mx-auto px-4 lg:px-8 py-4 lg:py-8">
         <ul className="mt-20 space-y-12 sm:grid sm:grid-cols-3 sm:gap-x-6 sm:gap-y-12 sm:space-y-0 lg:grid-cols-4 lg:gap-x-24">
             {posts.map((post) => {
-              console.log(post)
-              const {featured_image,layout,title,email,twitter,linkedin,hero,position,draft} = post.data
-
+              const {featured_image,layout,title,email,twitter,linkedin,hero,position,draft,degrees} = post.data
               return layout === 'profile' && !draft?
               <li key={title}>
               <div className="space-y-4">
@@ -51,11 +49,14 @@ export default function Index({posts,source,data,note,heroSource,pagePath}) {
                 </div>
                 <div className="space-y-2">
                   <div className="text-lg leading-6 font-medium space-y-1">
-                    <h3>{title}</h3>
+                    <h3>
+                      {title}
+                      <small className="block font-normal">{degrees}</small>
+                    </h3>
                     <p className="text-indigo-600">{position}</p>
                   </div>
-                  <ul className="flex space-x-5">
-                    <li>
+                  <ul className="flex space-x-5 list-none">
+                    <li className="list-none">
                       <a href={twitter} className="text-gray-400 hover:text-gray-500">
                         <span className="sr-only">Twitter</span>
                         <svg className="w-5 h-5" aria-hidden="true" fill="currentColor" viewBox="0 0 20 20">

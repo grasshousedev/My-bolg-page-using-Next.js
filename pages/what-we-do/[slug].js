@@ -1,6 +1,5 @@
 import fs from 'fs'
 import matter from 'gray-matter'
-import { MDXRemote } from 'next-mdx-remote'
 import { serialize } from 'next-mdx-remote/serialize'
 import dynamic from 'next/dynamic'
 import Head from 'next/head'
@@ -21,7 +20,6 @@ export default function PostPage({ source, data, heroSource }) {
         title={data.title}
         hero={data.hero}
         heroSource={heroSource}/>
-        <MDXRemote {...source} components={shortcodes} />
     </Layout>
   )
 }

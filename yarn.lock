@@ -2614,7 +2614,7 @@ next-sass@^1.0.3:
     "@zeit/next-css" "1.0.1"
     sass-loader "6.0.6"
 
-next@latest:
+next@^10.2.0:
   version "10.2.0"
   resolved "https://registry.yarnpkg.com/next/-/next-10.2.0.tgz#6654cc925d8abcb15474fa062fc6b3ee527dd6dc"
   integrity sha512-PKDKCSF7s82xudu3kQhOEaokxggpbLEWouEUtzP6OqV0YqKYHF+Ff+BFLycEem8ixtTM2M6ElN0VRJcskJfxPQ==

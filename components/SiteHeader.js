@@ -31,7 +31,7 @@ import { ChevronDownIcon } from '@heroicons/react/solid'
 
 import Link from 'next/link'
 import NavagationLink from '../components/basic/NavigationLink'
-import LogoLink from './basic/LogoLink'
+import LogoLink from './basic/LinkLogo'
 
 const whatWeDo = [
   {

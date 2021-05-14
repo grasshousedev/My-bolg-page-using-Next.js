@@ -16,6 +16,7 @@ module.exports = {
       blue: colors.blue,
       'brand-blue': '#0f5388',
       'brand-blue-light': '#CCEBFF',
+      'brand-secondary': '#519ED6',
      },
      maxHeight: {
        'hero': '700px',

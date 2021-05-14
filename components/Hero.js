@@ -14,7 +14,7 @@ shortcodes.h1 = (props) => {
 }
 
 export default function Hero(props) {
-  console.log(props)
+  //console.log(props)
   return (
     <div className="relative bg-white overflow-hidden">
       <div className="max-w-7xl mx-auto">
@@ -30,7 +30,8 @@ export default function Hero(props) {
             <polygon points="50,0 100,0 50,100 0,100" />
           </svg>
           { props.heroSource ?
-          (<div className="mt-0 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28 relative z-20">
+          (
+          <div className="mt-0 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28 relative z-20">
             <div className="sm:text-center lg:text-left">
               <h1>{props.title}</h1>
               <MDXRemote {...props.heroSource} components={shortcodes}/>
@@ -39,7 +40,7 @@ export default function Hero(props) {
           </div>) : props.children }
           { props.video ?
           <div className="mt-0 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28 relative z-20">
-            <Vimeo video_id={props.video}/>
+            {/* <Vimeo video_id={props.video}/> */}
           </div> : ''}
         </div>
       </div>
