@@ -4,7 +4,7 @@ categories:
 - Economy
 - Investing
 date: "2020-02-04T17:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1582606898/Market_Update_2020_fnw2mq.png
+featured_image: /v1582606898/Market_Update_2020_fnw2mq.png
 hero_text: ""
 keywords:
 - News

@@ -4,7 +4,7 @@ categories:
 - news
 - economy
 date: "2019-10-16T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1572381109/2019_Q4_thinking_image_crop2_dprjpg.jpg
+featured_image: /v1572381109/2019_Q4_thinking_image_crop2_dprjpg.jpg
 hero_text: ""
 keywords:
 - market commentary

@@ -3,13 +3,13 @@ accolades: []
 degrees: CFP®
 email: neal@navalign.com
 facebook: ""
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1569889765/Frankle_Neal_Headshot_ugnyfy.jpg
+featured_image: /v1569889765/Frankle_Neal_Headshot_ugnyfy.jpg
 first_name: Neal
 hero:
   color_options:
     bg_color: ""
     text_color: ""
-  hero_image: https://res.cloudinary.com/navalign/image/upload/v1569888978/Frankle_Neal_Headshot_swpujt.jpg
+  hero_image: /v1569888978/Frankle_Neal_Headshot_swpujt.jpg
   hero_text: Neal Frankle has been a [Certified Financial Planner™](https://certificates.cfp.net/mmh030tk  "Get
     more info on CFP's") professional since 1996. He has been featured in the Wall
     Street Journal, Forbes, Investors Business Daily, Huffington Post and more.
@@ -31,6 +31,7 @@ profile_key:
 - Neal Frankle
 title: Neal Frankle
 twitter: ""
+layout: profile
 ---
 For close to 30 years, Neal has provided comprehensive financial planning for individuals and families. He focuses on retirement and investment planning, tax planning and estate planning.
 

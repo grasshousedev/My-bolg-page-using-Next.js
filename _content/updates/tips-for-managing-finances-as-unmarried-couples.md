@@ -1,14 +1,14 @@
 ---
 categories: []
 date: "2020-09-18T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1600437694/aung-soe-min-f6UX-It1N7g-unsplash_kielvq.jpg
+featured_image: /v1600437694/aung-soe-min-f6UX-It1N7g-unsplash_kielvq.jpg
 hero_text: ""
 keywords: []
 profile: []
 tags: []
 title: Tips for Managing Finances as Unmarried Couples
 ---
-#### If you're in a committed, long-term relationship, you likely face the same financial challenges as married couples. This is especially true if you are living together. 
+#### If you're in a committed, long-term relationship, you likely face the same financial challenges as married couples. This is especially true if you are living together.
 
 However, as an unmarried couple, you fail to receive some legal advantages that married couples get due to your relationship status. Here are a few tips for you and your partner to ensure financial security.
 

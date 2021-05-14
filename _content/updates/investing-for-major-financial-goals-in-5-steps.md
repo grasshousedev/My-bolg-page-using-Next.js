@@ -1,14 +1,14 @@
 ---
 categories: []
 date: "2021-01-22T05:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1611347422/bulls-eye-1044725_1920_xxdlww.jpg
+featured_image: /v1611347422/bulls-eye-1044725_1920_xxdlww.jpg
 hero_text: ""
 keywords: []
 profile: []
 tags: []
 title: 'Investing for Major Financial Goals in 5 Steps '
 ---
-Everyone knows “what” they want, but when it comes to the “how,” we’re often at a loss. Whether it’s simply providing financially for your family without worry, your first home, or even a luxury trip, your dreams don’t have to hang out of reach. You can begin working towards the financial security you’ll need to achieve them starting today. However, you’ll need to identify your goals and make a step-by-step plan first. 
+Everyone knows “what” they want, but when it comes to the “how,” we’re often at a loss. Whether it’s simply providing financially for your family without worry, your first home, or even a luxury trip, your dreams don’t have to hang out of reach. You can begin working towards the financial security you’ll need to achieve them starting today. However, you’ll need to identify your goals and make a step-by-step plan first.
 
 ## Define goals
 
@@ -32,7 +32,7 @@ Though it’s always a good idea to start working toward your financial goals, a
 
 ## Factor life expectancies
 
-Another thing to keep in mind is to plan for a long life. As average life expectancies in this country have been [increasing](https://www.worldometers.info/demographics/life-expectancy/), expect to live even longer than those averages. Also, think about how much time you have until retirement, then invest accordingly. For instance, if retirement is a long way off and you can handle some risk, you might choose to put a larger percentage of your money in stock (equity) investments. Although it’s more volatile, it offers a higher potential for long-term return. 
+Another thing to keep in mind is to plan for a long life. As average life expectancies in this country have been [increasing](https://www.worldometers.info/demographics/life-expectancy/), expect to live even longer than those averages. Also, think about how much time you have until retirement, then invest accordingly. For instance, if retirement is a long way off and you can handle some risk, you might choose to put a larger percentage of your money in stock (equity) investments. Although it’s more volatile, it offers a higher potential for long-term return.
 
 Conversely, if you’re nearing retirement, a greater portion of your nest egg might be devoted to investments focused on income and preservation of your capital. Don’t forget to consider how inflation will affect your retirement savings.
 

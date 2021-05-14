@@ -6,7 +6,7 @@ categories:
 - 'saving '
 - 'investing '
 date: "2019-10-04T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1571172750/tied-up-1792237_1920_vzvgiq.jpg
+featured_image: /v1571172750/tied-up-1792237_1920_vzvgiq.jpg
 hero_text: ""
 keywords:
 - financial planner

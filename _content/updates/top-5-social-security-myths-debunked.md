@@ -5,7 +5,7 @@ categories:
 - Social Security
 - Personal Finance
 date: "2020-02-12T17:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1581035905/police-869216_1920_oivrxv.jpg
+featured_image: /v1581035905/police-869216_1920_oivrxv.jpg
 hero_text: ""
 keywords:
 - Financial Planning

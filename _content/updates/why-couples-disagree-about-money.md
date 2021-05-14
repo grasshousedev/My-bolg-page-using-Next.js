@@ -3,7 +3,7 @@ categories:
 - Personal Finance
 - Family
 date: "2019-09-16T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1569473805/Couples_disagree_about_money_nyzx6i.jpg
+featured_image: /v1569473805/Couples_disagree_about_money_nyzx6i.jpg
 hero_text: ""
 keywords:
 - Personal Finance

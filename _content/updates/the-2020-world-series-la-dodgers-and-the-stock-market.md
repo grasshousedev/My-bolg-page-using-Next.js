@@ -3,7 +3,7 @@ categories:
 - Economy
 - Investing
 date: "2020-10-28T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1603927635/WS2020_z9dfwe.jpg
+featured_image: /v1603927635/WS2020_z9dfwe.jpg
 hero_text: ""
 keywords:
 - Economy

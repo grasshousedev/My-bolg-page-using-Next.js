@@ -1,7 +1,7 @@
 ---
 categories: []
 date: "2021-03-18T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1616073222/huy-phan-QCF2ykBsC2I-unsplash_eg1fsd.jpg
+featured_image: /v1616073222/huy-phan-QCF2ykBsC2I-unsplash_eg1fsd.jpg
 hero_text: ""
 keywords: []
 profile: []
@@ -12,7 +12,7 @@ Whether you want to [leave work at 62](https://navalign.com/updates/should-i-sta
 
 ## How long do you think you will live?
 
-The longer you think you will live, the better it may be to claim later. If you start receiving Social Security benefits at or after your [Full Retirement Age (FRA),](https://fas.org/sgp/crs/misc/R44670.pdf) your monthly benefit will be larger than if you had claimed at 62. That is because age 62 is when you generally become eligible to collect [Social Security](https://navalign.com/updates/top-5-social-security-myths-debunked/), but only a partial amount. Receiving the total amount requires you to wait for your FRA, which is currently 66 and 10 months for those born in 1959. However, it will continue to rise to 67 in 2022 for anyone born during and after 1960. 
+The longer you think you will live, the better it may be to claim later. If you start receiving Social Security benefits at or after your [Full Retirement Age (FRA),](https://fas.org/sgp/crs/misc/R44670.pdf) your monthly benefit will be larger than if you had claimed at 62. That is because age 62 is when you generally become eligible to collect [Social Security](https://navalign.com/updates/top-5-social-security-myths-debunked/), but only a partial amount. Receiving the total amount requires you to wait for your FRA, which is currently 66 and 10 months for those born in 1959. However, it will continue to rise to 67 in 2022 for anyone born during and after 1960.
 
 If you file for benefits at that 67 or later mark, chances are you probably:
 
@@ -42,4 +42,4 @@ Visit [ssa.gov](https://www.ssa.gov/) to find out, and keep in mind that Social 
 
 ## Your claiming decision may be one of the major financial decisions of your life.
 
-Your choices should be evaluated years in advance, with insight from the financial professional who has helped you plan for retirement. If you need guidance regarding your Social Security benefits, we are [here to help](https://navalign.com/what-we-do/fiduciary-financial-planning/). Schedule a meeting today to discuss the intricacies of your financial plan. 
+Your choices should be evaluated years in advance, with insight from the financial professional who has helped you plan for retirement. If you need guidance regarding your Social Security benefits, we are [here to help](https://navalign.com/what-we-do/fiduciary-financial-planning/). Schedule a meeting today to discuss the intricacies of your financial plan.

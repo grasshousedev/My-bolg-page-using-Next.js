@@ -3,7 +3,7 @@ categories:
 - Retirement
 - Investing
 date: "2019-06-17T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1561220630/Marathon_tom-wheatley-1592963-unsplash.jpg
+featured_image: /v1561220630/Marathon_tom-wheatley-1592963-unsplash.jpg
 hero_text: ""
 keywords:
 - Retirement

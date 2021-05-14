@@ -1,7 +1,7 @@
 ---
 categories: []
 date: "2021-02-01T16:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1612232459/Virtual_Event_Watch_Live_mbp0lb.png
+featured_image: /v1612232459/Virtual_Event_Watch_Live_mbp0lb.png
 hero_text: ""
 keywords: []
 profile: []

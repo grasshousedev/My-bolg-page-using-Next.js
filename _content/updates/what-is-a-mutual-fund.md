@@ -1,7 +1,7 @@
 ---
 categories: []
 date: "2021-02-19T05:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1613751596/chronis-yan-1M4wYTqVD4o-unsplash_knn9g3.jpg
+featured_image: /v1613751596/chronis-yan-1M4wYTqVD4o-unsplash_knn9g3.jpg
 hero_text: ""
 keywords: []
 profile: []

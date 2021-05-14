@@ -1,7 +1,7 @@
 ---
 categories: []
 date: "2021-03-05T05:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1614972921/bianca-ackermann-5-UxjBoRun4-unsplash_edewiw.jpg
+featured_image: /v1614972921/bianca-ackermann-5-UxjBoRun4-unsplash_edewiw.jpg
 hero_text: ""
 keywords: []
 profile: []
@@ -18,7 +18,7 @@ Many investors make the mistake of putting all their eggs in one basket. For exa
 
 ## **Asset allocation: How many eggs in which baskets?**
 
-Asset allocation is one of the first steps in creating a diversified investment portfolio. Asset allocation means deciding how you should divide your investment dollars among broad investment classes, such as stocks, [bonds](https://navalign.com/updates/bond-investing-101-everything-you-need-to-know-about-bonds/), and cash alternatives. Rather than focusing on individual investments (such as which company's stock to buy), asset allocation approaches diversification from a more general viewpoint. For example, what percentage of your portfolio should be in stocks? The underlying principle is that different classes of investments have shown different rates of return and levels of price volatility over time. Also, since different asset classes often respond differently to the same news, your stocks may go down while your bonds go up, or vice versa. 
+Asset allocation is one of the first steps in creating a diversified investment portfolio. Asset allocation means deciding how you should divide your investment dollars among broad investment classes, such as stocks, [bonds](https://navalign.com/updates/bond-investing-101-everything-you-need-to-know-about-bonds/), and cash alternatives. Rather than focusing on individual investments (such as which company's stock to buy), asset allocation approaches diversification from a more general viewpoint. For example, what percentage of your portfolio should be in stocks? The underlying principle is that different classes of investments have shown different rates of return and levels of price volatility over time. Also, since different asset classes often respond differently to the same news, your stocks may go down while your bonds go up, or vice versa.
 
 Though neither diversification nor asset allocation can guarantee a profit or ensure against a potential loss, diversifying your investments over various asset classes can help you try to [minimize volatility](https://navalign.com/updates/strategies-for-navigating-market-volatility/) and maximize potential return.
 

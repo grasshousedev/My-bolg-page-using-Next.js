@@ -2,7 +2,7 @@
 date: "2019-01-01T08:00:00+00:00"
 degrees: CFA®
 email: david@navalign.com
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1550964197/Navalign_David.jpg
+featured_image: /v1550964197/Navalign_David.jpg
 first_name: David
 hero:
   hero_image: /v1548099264/Navalign_David.jpg
@@ -23,6 +23,7 @@ profile_key:
 - David Jacobs
 tags: []
 title: David Jacobs
+layout: profile
 ---
 In 1996 David began his career in financial services working for one of the largest investment management firms on Wall Street. While there he worked on an eight-person team that managed over $2 Billion in assets for wealthy families, foundations and retirement plans.
 

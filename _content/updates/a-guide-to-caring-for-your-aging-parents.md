@@ -1,7 +1,7 @@
 ---
 categories: []
 date: "2020-11-06T05:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1604587950/elora-allen-lyBxT3esFcQ-unsplash_ryw0bk.jpg
+featured_image: /v1604587950/elora-allen-lyBxT3esFcQ-unsplash_ryw0bk.jpg
 hero_text: ""
 keywords: []
 profile: []
@@ -22,8 +22,8 @@ The first step is to talk to your parents. Find out what their needs and wishes 
 
 \- **Resentment –** Your parents might resent you for bringing the conversation up because it is something they are not yet ready to confront.
 
-\- **Reluctance** – Your aging parents might not want to burden you with their problems. They're used to taking care of you, not being taken care of.   
-  
+\- **Reluctance** – Your aging parents might not want to burden you with their problems. They're used to taking care of you, not being taken care of.
+
 If your parents do not want to talk about how they want to be cared for as they age, you may need to do as much planning as you can without them. For example, you might want to start a savings account that you will use to cover their expenses as they age.
 
 However, if their safety or health is in danger, you may need to step in as a caregiver. If you're nervous about talking to your parents, make a list of topics you need to discuss. That way, you'll be less likely to forget anything. Here are some things that you may need to talk about:

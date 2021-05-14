@@ -5,7 +5,7 @@ categories:
 - Market Commentary
 - Economy
 date: "2021-03-10T16:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1615401590/SMS_EP_11_cover_htymec.png
+featured_image: /v1615401590/SMS_EP_11_cover_htymec.png
 hero_text: ""
 keywords:
 - Video

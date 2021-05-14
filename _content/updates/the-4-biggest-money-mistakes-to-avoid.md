@@ -2,7 +2,7 @@
 categories:
 - Personal Finance
 date: "2019-07-08T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1563634774/Wrong%20Way%20neonbrand--Cmz06-0btw-unsplash.jpg
+featured_image: /v1563634774/Wrong%20Way%20neonbrand--Cmz06-0btw-unsplash.jpg
 hero_text: ""
 keywords: []
 profile:

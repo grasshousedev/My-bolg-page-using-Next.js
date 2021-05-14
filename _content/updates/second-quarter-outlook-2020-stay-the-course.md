@@ -4,7 +4,7 @@ categories:
 - Investing
 - Market Commentary
 date: "2020-04-16T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1587133368/Compass_in_hand_-jamie-street-unsplash_ievcgx.jpg
+featured_image: /v1587133368/Compass_in_hand_-jamie-street-unsplash_ievcgx.jpg
 hero_text: ""
 keywords:
 - Economy
@@ -35,7 +35,7 @@ We’ve frequently said that recessions and bear markets are inevitable phases w
 
 It’s one thing to say it and another to actually live it. But we will get through this crisis period. Things will improve and recover. Most importantly, we sincerely hope you and yours are able to remain healthy and manage well through this challenging period.
 
-## The global economy suffered in the first quarter as a result of the novel coronavirus 
+## The global economy suffered in the first quarter as a result of the novel coronavirus
 
 The first quarter of 2020 has proven to be unprecedented for financial markets. U.S. stocks fell into a 20% bear market in the shortest time ever. They continued to drop and declined 30% in a record 30 days!
 
@@ -63,9 +63,9 @@ On March 27, Congress passed, and the president signed into law, a $2 trillion s
 
 ## Positioning your portfolio through the COVID-19 pandemic
 
-When stock prices—or any asset’s prices—_drop_, forward-looking returns _rise_. Therefore, our outlook for U.S. stock returns have improved with their cheaper valuations. As stocks soared in 2019 and the bull market became the longest in history, we suggested clients consider ratcheting down exposure to stocks. 
+When stock prices—or any asset’s prices—_drop_, forward-looking returns _rise_. Therefore, our outlook for U.S. stock returns have improved with their cheaper valuations. As stocks soared in 2019 and the bull market became the longest in history, we suggested clients consider ratcheting down exposure to stocks.
 
-Many clients that did so are now asking if it us time to unwind that strategy. Given the still-negative trajectory of the virus in the United States and the unknowable economic impact it will have, the answer is, as always, it depends on your specific circumstances. 
+Many clients that did so are now asking if it us time to unwind that strategy. Given the still-negative trajectory of the virus in the United States and the unknowable economic impact it will have, the answer is, as always, it depends on your specific circumstances.
 
 For those that did reduce exposure to stocks and have longer-term time horizons (and strong stomachs), it may be time to start dollar cost averaging back into the market on dips. For those that are still over-allocated to stocks, it may make sense to reduce stock exposure after rallies. And for most clients, the answer is likely do nothing; through the normal course of management we will eventually rebalance your account, either partially or entirely back to target, when we see fit.
 

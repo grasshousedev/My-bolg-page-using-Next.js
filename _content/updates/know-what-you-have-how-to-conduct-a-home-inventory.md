@@ -1,14 +1,14 @@
 ---
 categories: []
 date: "2020-09-02T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1599069834/martin-adams-zbPDL84kvRg-unsplash_hug64m.jpg
+featured_image: /v1599069834/martin-adams-zbPDL84kvRg-unsplash_hug64m.jpg
 hero_text: ""
 keywords: []
 profile: []
 tags: []
 title: 'Know What You Have: How to Conduct a Home Inventory'
 ---
-#### A home inventory is a complete and detailed written list of all your personal property that's located in your home and stored in other structures like garages and tool sheds. 
+#### A home inventory is a complete and detailed written list of all your personal property that's located in your home and stored in other structures like garages and tool sheds.
 
 It should include your possessions as well as those of family members and others living in your home. You should prepare an inventory whenever you move into a new home. To keep track of new additions and discarded items, be sure to update your inventory every year.
 
@@ -22,7 +22,7 @@ Omitting items or failing to include an adequate description of an item may prev
 
 Under the terms of your homeowners policy, your claim for the damaged or stolen property should show the quantity, description, actual cash value (i.e., the depreciated value of an item), and amount of loss associated with each item. You're also asked to provide copies of bills, receipts, and other documents that support the figures in your claim. If possible, keep copies of these documents off-site or in the cloud so that you have it available in case of a robbery or damage to your home. It's also important to include the purchase price and purchase date of every item and to note the serial numbers and model numbers of any appliances and electrical equipment.
 
-Listing the contents of each room and building separately promotes thoroughness and will help you organize your inventory. Make sure you catalog all the contents of every room, including rugs and carpets, wall hangings, curtains, blinds, and draperies. Be descriptive, refer to colors, dimensions, manufacturers, and composite materials whenever you can. 
+Listing the contents of each room and building separately promotes thoroughness and will help you organize your inventory. Make sure you catalog all the contents of every room, including rugs and carpets, wall hangings, curtains, blinds, and draperies. Be descriptive, refer to colors, dimensions, manufacturers, and composite materials whenever you can.
 
 Make sure you include parts and the contents of drawers, shelves, closets, storage boxes, and built-in cabinets. Describe not only the bed but also the headboard, mattress, and bedding. Try to identify every item that you would have to box or carry out if you were to move out of your home. The only things you should leave out of your inventory are the four walls, the ceiling, the floor, and the fixtures such as toilets and sinks.
 
@@ -44,6 +44,6 @@ Some insurance companies will provide home inventory apps for you. For example, 
 
 ## Keep your inventory safe
 
-Remember the purpose of your inventory. If there's a fire or catastrophic event, your inventory list will be worthless if it's burned up in the fire or washed away with the flood. Regardless of whether the inventory is recorded on film, videocassette, computer software, a sketch pad, or the back of an envelope, keep a copy of it stored somewhere safe. 
+Remember the purpose of your inventory. If there's a fire or catastrophic event, your inventory list will be worthless if it's burned up in the fire or washed away with the flood. Regardless of whether the inventory is recorded on film, videocassette, computer software, a sketch pad, or the back of an envelope, keep a copy of it stored somewhere safe.
 
 You may want to keep it in a safe-deposit box at a bank, or your desk at work. Another alternative is to keep your list uploaded to the cloud in Google Drive or another easy to access platform so you can access it from anywhere.

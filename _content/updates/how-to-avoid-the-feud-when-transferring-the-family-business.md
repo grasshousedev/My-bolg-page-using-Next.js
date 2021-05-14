@@ -1,7 +1,7 @@
 ---
 categories: []
 date: "2021-01-08T05:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1610133611/gladiator-1931077_1920_ut0s5l.jpg
+featured_image: /v1610133611/gladiator-1931077_1920_ut0s5l.jpg
 hero_text: ""
 keywords: []
 profile: []
@@ -48,6 +48,6 @@ A self-canceling installment note (SCIN) allows you to transfer the business to 
 
 ## Family limited partnerships
 
-A family limited partnership can also assist in transferring your business interest to family members. First, you establish a partnership with both general and limited partnership interests. Then, you transfer the business to this partnership. You retain the general partnership interest for yourself, allowing you to maintain control over the business’s day-to-day operation. Over time, you gift the limited partnership interest to family members. The gifts’ value may be eligible for valuation discounts as a minority interest and for lack of marketability. 
+A family limited partnership can also assist in transferring your business interest to family members. First, you establish a partnership with both general and limited partnership interests. Then, you transfer the business to this partnership. You retain the general partnership interest for yourself, allowing you to maintain control over the business’s day-to-day operation. Over time, you gift the limited partnership interest to family members. The gifts’ value may be eligible for valuation discounts as a minority interest and for lack of marketability.
 
 If so, you may successfully transfer much of your business to your heirs at significant transfer tax savings.

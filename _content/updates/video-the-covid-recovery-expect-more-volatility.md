@@ -5,7 +5,7 @@ categories:
 - investing
 - personal finance
 date: "2020-06-18T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1592930789/EP_7_Cover_uw8go7.png
+featured_image: /v1592930789/EP_7_Cover_uw8go7.png
 hero_text: EP7// THE SMART MONEY SHOW
 keywords:
 - video
@@ -36,7 +36,7 @@ Whenever there is a high level of uncertainty, let's face it we still have a hig
 
 Now outside of the uncertainty, which okay, I guess we can see the light at the end of the tunnel,  but we're in the tunnel still, what else is there, it's not just that we feel a little bit more confident today. What else is going on Chris?
 
-**Chris:** Yeah, one of the big reasons that the market has stabilized and recovered as much as it has is because of the Fed, because of the government intervention in the markets. 
+**Chris:** Yeah, one of the big reasons that the market has stabilized and recovered as much as it has is because of the Fed, because of the government intervention in the markets.
 
 We can save whether or not that's a good or bad thing and what it means long term for maybe a future episode. But for the purposes of stabilizing the stock market they absolutely did that by injecting liquidity into the markets, and really why that's important is because the credit markets can freeze up when there's an economic and stock market shock like we had.
 
@@ -74,7 +74,7 @@ I'm going to put up on the screen here real quick, the market as of this year. T
 
 So I think the moral of the story here is, uncertainty was a big reason why the market fell so fast, and having a little bit more certainty today is probably why we seen the recovery we have even though the economy and COVID-19 are still big question marks.
 
-Don't fight the Fed, right Chris, we were saying the Fed has stepped in, we don't want to fight the Fed, if anything you should probably follow the Fed. And it sounds like volatility is here to stay. 
+Don't fight the Fed, right Chris, we were saying the Fed has stepped in, we don't want to fight the Fed, if anything you should probably follow the Fed. And it sounds like volatility is here to stay.
 
 Anything else you think we should add to that for our viewers at home?
 

@@ -5,7 +5,7 @@ categories:
 - Personal Finance
 - Retirement
 date: "2020-03-30T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1585583356/CARES_Act_Cover_qqos8x.png
+featured_image: /v1585583356/CARES_Act_Cover_qqos8x.png
 hero_text: THE SMART MONEY SHOW
 keywords:
 - Video

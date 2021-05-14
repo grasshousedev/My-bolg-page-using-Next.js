@@ -1,14 +1,14 @@
 ---
 categories: []
 date: "2020-08-14T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1597424557/joshua-reddekopp-qLFJKFBppPM-unsplash_ndptii.jpg
+featured_image: /v1597424557/joshua-reddekopp-qLFJKFBppPM-unsplash_ndptii.jpg
 hero_text: ""
 keywords: []
 profile: []
 tags: []
 title: Financial Moves to Make When Expecting a Baby
 ---
-### So, you're going to have or adopt a baby. Congratulations! Parenthood may be one of the most rewarding experiences you'll ever have. 
+### So, you're going to have or adopt a baby. Congratulations! Parenthood may be one of the most rewarding experiences you'll ever have.
 
 As you prepare for life with your baby, here are a few things you should think about when it comes to your finances and lifestyle.
 
@@ -20,7 +20,7 @@ Discount stores or internet retailers may offer some items at lower prices than 
 
 Buying all the gear you need is pretty much a one-shot deal, but you'll also have many ongoing expenses that will affect your monthly budget. Some things may include daily needs like baby formula and food, diapers, and more. There are also items that your child will use for a short time like clothing. Finally, there are recurring expenses including childcare like daycare and babysitters and medical costs not covered by insurance like co-pays.
 
-Some families choose to move to a home with more space when their family expands. Therefore, you might want to factor in increased housing costs as well. This might mean saving for a down payment. 
+Some families choose to move to a home with more space when their family expands. Therefore, you might want to factor in increased housing costs as well. This might mean saving for a down payment.
 
 Redo [your budget](https://navalign.com/updates/emoney-spending-budgeting-tool/) to figure out how much your total monthly expenses will increase after the birth of your baby. Expenses might change each month, so be sure to set aside money for an emergency fund if possible. This will help you to manage any unforeseen expenses. If you've never created a budget before, now's the time to start. Chances are, you'll be spending at least an extra few hundred dollars a month. If it looks like the added expenses will strain your budget, you'll want to think about ways to cut back on your expenses.
 

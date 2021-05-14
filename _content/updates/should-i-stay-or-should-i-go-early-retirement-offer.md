@@ -1,14 +1,14 @@
 ---
 categories: []
 date: "2020-10-02T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1601915765/caleb-jones-J3JMyXWQHXU-unsplash_mcxuxb.jpg
+featured_image: /v1601915765/caleb-jones-J3JMyXWQHXU-unsplash_mcxuxb.jpg
 hero_text: ""
 keywords: []
 profile: []
 tags: []
 title: 'Should I Stay or Should I Go: Early Retirement Offer'
 ---
-#### In today's corporate environment, cost-cutting, restructuring, and downsizing are the norm, and many employers offer their employees early retirement packages. It can be challenging to know if a seemingly attractive offer you've received is a good one. 
+#### In today's corporate environment, cost-cutting, restructuring, and downsizing are the norm, and many employers offer their employees early retirement packages. It can be challenging to know if a seemingly attractive offer you've received is a good one.
 
 Additionally, it can be challenging to understand what your options for negotiating an early retirement are. Ensure that your early retirement package meets your needs by understanding the many ways early retirement can affect you.
 

@@ -3,7 +3,7 @@ categories:
 - Financial Planning
 - Retirement
 date: "2021-04-14T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1618412274/house-540796_1920_jh9ojy.jpg
+featured_image: /v1618412274/house-540796_1920_jh9ojy.jpg
 hero_text: ""
 keywords:
 - Financial Planning
@@ -33,7 +33,7 @@ If history is any barometer, your home's value may increase over time, and infla
 
 ## Making mortgage prepayments may not be the right choice
 
-It’s important to look at the math and examine the tradeoff between prepaying your mortgage and tax-deferred retirement savings. 
+It’s important to look at the math and examine the tradeoff between prepaying your mortgage and tax-deferred retirement savings.
 
 You save taxes on each dollar you direct into [IRAs, 401(k)s, and other tax-deferred investment](https://navalign.com/updates/taking-advantage-of-employer-sponsored-retirement-plans/) vehicles. Those invested dollars have the chance for tax-free growth. Like many people, you may enter a lower tax bracket in retirement, so your taxable income and federal tax rate could be lower when you withdraw the money out of that account.
 

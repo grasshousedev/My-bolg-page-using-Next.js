@@ -1,14 +1,14 @@
 ---
 categories: []
 date: "2020-08-28T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1598631183/pexels-benjamin-lehman-1436129_mwo4xl.jpg
+featured_image: /v1598631183/pexels-benjamin-lehman-1436129_mwo4xl.jpg
 hero_text: ""
 keywords: []
 profile: []
 tags: []
 title: How to Choose a Beneficiary for Your IRA or 401(k)
 ---
-#### Selecting beneficiaries for retirement benefits is different from choosing beneficiaries for other assets such as life insurance. 
+#### Selecting beneficiaries for retirement benefits is different from choosing beneficiaries for other assets such as life insurance.
 
 With retirement benefits, you need to know the impact of income tax and estate tax laws to select the right beneficiaries. Although taxes shouldn't be the sole determining factor in naming your beneficiaries, ignoring the impact of taxes could lead you to make an incorrect choice. Also, if you're married, beneficiary designations may affect the size of minimum required distributions to you from your individual retirement accounts (IRAs) and retirement plans while you're alive.
 

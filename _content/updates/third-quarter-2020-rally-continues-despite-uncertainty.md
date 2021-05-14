@@ -4,7 +4,7 @@ categories:
 - Market Commentary
 - Investing
 date: "2020-10-16T16:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1602886368/Globe_w_Mask_qgnteu.jpg
+featured_image: /v1602886368/Globe_w_Mask_qgnteu.jpg
 hero_text: ""
 keywords:
 - Economy

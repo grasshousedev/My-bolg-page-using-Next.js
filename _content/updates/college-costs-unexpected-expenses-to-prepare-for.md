@@ -4,7 +4,7 @@ categories:
 - Financial Planning
 - Saving
 date: "2021-04-23T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1619182713/tobias-rademacher-a9G7rGbKgQs-unsplash_gexkxi.jpg
+featured_image: /v1619182713/tobias-rademacher-a9G7rGbKgQs-unsplash_gexkxi.jpg
 hero_text: ""
 keywords:
 - Family
@@ -17,7 +17,7 @@ tags:
 - Saving
 title: 'College Costs: Unexpected Expenses to Prepare For'
 ---
-##### Adults aren’t the only ones who have put in a hard year’s work. Many high school students are finishing up their senior years on the tail end of a pandemic. 
+##### Adults aren’t the only ones who have put in a hard year’s work. Many high school students are finishing up their senior years on the tail end of a pandemic.
 
 They’ve had to make adjustments and lost out on some significant milestones. But, with vaccinations on the way and safety protocols easing up, many graduates want to spend the upcoming summer unwinding. The relieved rising freshmen want nothing more than to sleep in late and spend their free time having fun with friends. However, the work doesn’t end with graduation for these former high school students or those returning to college for another year.
 
@@ -35,10 +35,10 @@ Aside from the tuition, room, and board, which most would consider the highest c
 
 ### School Expenses
 
-· **Books** – yes, textbooks can cost up to $1,000 per semester. Whew! Read up and find ways to cut those costs ahead of time.  
-  
-· **Technology and connectivity** – there will be ongoing costs for cellular phones and plans, computers, internet access, and all other gadgets and services.   
-  
+· **Books** – yes, textbooks can cost up to $1,000 per semester. Whew! Read up and find ways to cut those costs ahead of time.
+
+· **Technology and connectivity** – there will be ongoing costs for cellular phones and plans, computers, internet access, and all other gadgets and services.
+
 · **Major requirements** – each major rings up its own unique set of charges. It's wise to research what your studies might demand, like specific papers for art majors or lab fees for those earning chem degrees.
 
 ### Welfare Expenses
@@ -51,7 +51,7 @@ Aside from the tuition, room, and board, which most would consider the highest c
 
 · **Food and entertainment** – it’s a dream to think any college student will simply sit in a dorm room or apartment, always eat at the cafeteria or a meal plan station, and never go out with friends. Plotting out some manageable but fun opportunities to eat out or enjoy entertainment is the only realistic way to do this.
 
-· **Clothing and personal items** – the need to update the wardrobe does not end at the door of the university campus. Personal items such as shampoo, toothpaste, and razors are still needed, and there must be a plan to ensure these items are accessible to the student. Watching for sales and coupons may help in this particular area with some additional effort. Maybe the family can “gift” monthly store or VISA cards to purchase these items. 
+· **Clothing and personal items** – the need to update the wardrobe does not end at the door of the university campus. Personal items such as shampoo, toothpaste, and razors are still needed, and there must be a plan to ensure these items are accessible to the student. Watching for sales and coupons may help in this particular area with some additional effort. Maybe the family can “gift” monthly store or VISA cards to purchase these items.
 
 And don’t forget that holidays and special occasions requiring at least a greeting card and maybe a gift go on while in college. Rummaging around for cash at the holidays or when Mother’s Day approaches has its own special stress related to it. Friends and family keep on having annual or surprise moments, so it’s important to include everyone.
 

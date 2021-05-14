@@ -4,7 +4,7 @@ date: "2019-01-01T08:00:00+00:00"
 degrees: CFP®, CRPC®
 email: stephen@navalign.com
 facebook: ""
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1550964299/Navalign_Stephen.jpg
+featured_image: /v1550964299/Navalign_Stephen.jpg
 first_name: Stephen
 hero:
   hero_image: /v1548098821/Navalign_Stephen.jpg
@@ -32,6 +32,7 @@ twitter: ""
 video_embed: <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/kIBtqXj3Ftk"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
+layout: profile
 ---
 By the age of thirteen Stephen began learning how to invest using his own money. This sparked his passion for personal finance which continued through college where he studied business finance and earned a special honors commendation for his role in managing the University Corporation Student Investment Fund. Soon after graduating, he joined a national brokerage firm to begin his career in financial services. Several years later he made the conscious decision to exit the brokerage business to become an independent, fiduciary financial planner.
 

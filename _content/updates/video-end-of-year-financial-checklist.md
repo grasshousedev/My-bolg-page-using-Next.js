@@ -6,7 +6,7 @@ categories:
 - Video
 - Retirement
 date: "2020-11-23T16:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1606148181/SMS_EP_10_Cover_zcedvh.png
+featured_image: /v1606148181/SMS_EP_10_Cover_zcedvh.png
 hero_text: EP10// THE SMART MONEY SHOW
 keywords:
 - Financial Planning

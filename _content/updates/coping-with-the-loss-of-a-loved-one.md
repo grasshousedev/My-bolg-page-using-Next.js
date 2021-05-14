@@ -3,7 +3,7 @@ categories:
 - Personal Finance
 - Family
 date: "2019-06-10T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1561221832/Coping%20with%20loss%20kylli-kittus-1100607-unsplash.jpg
+featured_image: /v1561221832/Coping%20with%20loss%20kylli-kittus-1100607-unsplash.jpg
 hero_text: ""
 keywords:
 - Personal Finance

@@ -3,7 +3,7 @@ categories:
 - economy
 - personal finance
 date: "2020-05-14T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1589464100/floriane-vita-FyD3OWBuXnY-unsplash_wzfmvv.jpg
+featured_image: /v1589464100/floriane-vita-FyD3OWBuXnY-unsplash_wzfmvv.jpg
 hero_text: ""
 keywords:
 - economy
@@ -15,7 +15,7 @@ tags:
 - personal finance
 title: Is Now The Right Time To Switch Jobs?
 ---
-### The global pandemic has caused a huge shift in the job market. Jobs have been eliminated, either because they are ‘nonessential’ or due to other layoffs. [According to the Bureau of Labor Statistics](https://www.bls.gov/news.release/pdf/empsit.pdf), unemployment has jumped from about 3.8% to over 14.7% in the last three months. 
+### The global pandemic has caused a huge shift in the job market. Jobs have been eliminated, either because they are ‘nonessential’ or due to other layoffs. [According to the Bureau of Labor Statistics](https://www.bls.gov/news.release/pdf/empsit.pdf), unemployment has jumped from about 3.8% to over 14.7% in the last three months.
 
 The effects on the economy leave a lot of room for opportunity and personal growth. Therefore, whether you're considering or transitioning to a new job or career path, here are a few things to consider.
 

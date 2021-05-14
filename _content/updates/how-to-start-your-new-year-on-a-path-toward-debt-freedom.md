@@ -2,7 +2,7 @@
 categories:
 - Personal Finance
 date: "2019-11-27T05:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1574778915/d9ea6280-61f8-4c0a-a8e1-119768baff05_kulqe3.jpg
+featured_image: /v1574778915/d9ea6280-61f8-4c0a-a8e1-119768baff05_kulqe3.jpg
 hero_text: ""
 keywords:
 - Personal Finance

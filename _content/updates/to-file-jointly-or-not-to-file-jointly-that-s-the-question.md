@@ -4,7 +4,7 @@ categories:
 - Marriage
 - Personal Finance
 date: "2020-03-06T05:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1583520451/nathan-dumlao-5BB_atDT4oA-unsplash_dugaa1.jpg
+featured_image: /v1583520451/nathan-dumlao-5BB_atDT4oA-unsplash_dugaa1.jpg
 hero_text: ""
 keywords:
 - Financial Planning
@@ -18,7 +18,7 @@ tags:
 - Personal Finance
 title: To File Jointly or Not to File Jointly, That’s the Question
 ---
-### **For many married couples, filing a joint tax return is a good idea, but there are exceptions.** 
+### **For many married couples, filing a joint tax return is a good idea, but there are exceptions.**
 
 Over 90% of married couples file a joint federal tax return, but it's still a good idea to evaluate if filing jointly is the most advantageous option for your family. Filing jointly can be convenient and often there’s a financial advantage, but that doesn’t mean it is the best option for everyone.
 

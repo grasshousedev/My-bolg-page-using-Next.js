@@ -5,7 +5,7 @@ categories:
 - Retirement
 - Economy
 date: "2020-01-02T16:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1578069162/WM_chairs_0_aqyzdg.png
+featured_image: /v1578069162/WM_chairs_0_aqyzdg.png
 hero_text: ""
 keywords:
 - News
@@ -20,7 +20,7 @@ tags:
 - Economy
 title: The SECURE Act of 2019
 ---
-![](https://res.cloudinary.com/navalign/image/upload/v1578068830/House_Ways_Means_full_banner_kcke1b.png)
+![](/v1578068830/House_Ways_Means_full_banner_kcke1b.png)
 
 # The Setting Every Community Up for Retirement Enhancement (SECURE) Act of 2019
 

@@ -4,7 +4,7 @@ categories:
 - family
 - personal finance
 date: "2020-07-10T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1594391230/nathan-anderson-J3Xjyg5m8kY-unsplash_rzuoul.jpg
+featured_image: /v1594391230/nathan-anderson-J3Xjyg5m8kY-unsplash_rzuoul.jpg
 hero_text: ""
 keywords:
 - financial planning
@@ -20,7 +20,7 @@ title: 'Financial Planning for Your Child with Special Needs '
 ---
 ### As the parent of a child with special needs, you will face many of the same obstacles that other parents face, plus you’ll cope with some unique challenges as well. These unique scenarios will impact your child’s education, [your family’s finances](https://navalign.com/updates/4-financial-priorities-young-families-should-address/), and more.
 
-If you have a child with special needs, here are some things you may want to consider. 
+If you have a child with special needs, here are some things you may want to consider.
 
 ## Where do you start?
 

@@ -4,7 +4,7 @@ categories:
 - Retirement
 - Saving
 date: "2020-02-03T17:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1580501464/boating-adventures-with-friends_dwixsz.jpg
+featured_image: /v1580501464/boating-adventures-with-friends_dwixsz.jpg
 hero_text: ""
 keywords:
 - Financial Planning

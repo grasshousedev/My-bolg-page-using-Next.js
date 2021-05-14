@@ -5,7 +5,7 @@ categories:
 - News
 - Personal Finance
 date: "2020-02-04T17:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1582604834/Financial_planning_image2_heucop.png
+featured_image: /v1582604834/Financial_planning_image2_heucop.png
 hero_text: ""
 keywords:
 - Economy

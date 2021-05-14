@@ -2,7 +2,7 @@
 categories:
 - Personal Finance
 date: "2019-08-05T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1569471287/Pay_credit_card_with_another_hen9sh.jpg
+featured_image: /v1569471287/Pay_credit_card_with_another_hen9sh.jpg
 hero_text: ""
 keywords:
 - Personal Finance

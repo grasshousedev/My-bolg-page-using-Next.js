@@ -5,7 +5,7 @@ categories:
 - investing
 - personal finance
 date: "2020-04-10T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1585407041/Smart_Money_Show_EP_COVER_1920x1080_1_tiknim.png
+featured_image: /v1585407041/Smart_Money_Show_EP_COVER_1920x1080_1_tiknim.png
 hero_text: EP5// THE SMART MONEY SHOW
 keywords:
 - video
@@ -42,11 +42,11 @@ If this is money that you are saving for a home purchase, and you're going to be
 
 If it's a longer-term goal, like a wealth accumulation goal, or retirement. If you're investing for at least the next three to five years, you can feel a little more confident about that.
 
-**David:** Definitely, I mean we usually tell people money invested in stocks, you shouldn't have to touch for at least five years. Right now with the market down between 20% and 30% it seems like a relatively good entry point. 
+**David:** Definitely, I mean we usually tell people money invested in stocks, you shouldn't have to touch for at least five years. Right now with the market down between 20% and 30% it seems like a relatively good entry point.
 
 Of course, not knowing what's going to happen the next 5-days, 5-weeks, or 5-months. But we're pretty confident that 5-years from now, the stock market is going to be much higher. So you have to keep that long-term perspective.
 
- 
+
 
 **Stephen:** That brings us to another thing that's really important with any investment decision, really anything we're deciding to do with our money, which is how comfortable are you with risk.
 
@@ -54,13 +54,13 @@ No matter what we do with our money there is risk involved. Even putting our mon
 
 A big part of this puzzle is figuring out how much risk you're comfortable with. You need to know how much of a downfall you can stomach in the short run so you don't ultimately resent this really good long-term decision.
 
-**David:** I'm going to say this is the first time in my career, with a Bear Market this severe, where I've had more phone calls than not where clients are interested in actually getting more aggressive. 
+**David:** I'm going to say this is the first time in my career, with a Bear Market this severe, where I've had more phone calls than not where clients are interested in actually getting more aggressive.
 
 I'm not sure what that means, because usually the average investor is wrong, or we're just really good advisers and have been training our clients well, but you definitely have to have a strong stomach and be very unemotional when it comes to getting into the market.
 
-This could be a great opportunity, but if you're worried about what happens next month or this summer, then it may not be right for you to do at this point. 
+This could be a great opportunity, but if you're worried about what happens next month or this summer, then it may not be right for you to do at this point.
 
-**Stephen:** I think that's really great advice, that it's not necessarily for everybody. Everyone's situation is unique. 
+**Stephen:** I think that's really great advice, that it's not necessarily for everybody. Everyone's situation is unique.
 
 Here's the last question that I think we really need to answer on this topic. So let's say you've checked off all those boxes, right. You've got good cash reserves, you feel good about your income situation and your expenses. Your time horizon is a bit longer and you're comfortable stomaching the risk. The next thing is, how do you actually invest the money?
 
@@ -70,7 +70,7 @@ What do you think David? Should be doing this in a lump sum, one time, or should
 
 If you've got a million-dollar account and we're investing $10,000 which is 1% of it, I would say let's just invest all of it right now and not miss this opportunity
 
-If you just inherited a million-dollars in cash, and we're investing it all right now, I'd say we should probably invest this conservative money right away, whether it's bonds, or CD's, etc. The stock portion I'd probably be investing in different tranches, maybe 25% right now, 25% if the market falls a little bit further, and dollar cost average into the market. 
+If you just inherited a million-dollars in cash, and we're investing it all right now, I'd say we should probably invest this conservative money right away, whether it's bonds, or CD's, etc. The stock portion I'd probably be investing in different tranches, maybe 25% right now, 25% if the market falls a little bit further, and dollar cost average into the market.
 
 That's basically the plan we've been putting together for each client, based on their specific circumstances.
 

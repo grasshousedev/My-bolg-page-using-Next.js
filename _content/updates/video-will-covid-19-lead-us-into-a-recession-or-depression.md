@@ -5,7 +5,7 @@ categories:
 - Investing
 - Podcast
 date: "2020-03-23T01:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1584943870/gratisography-depressed_woman_ndmgry.png
+featured_image: /v1584943870/gratisography-depressed_woman_ndmgry.png
 hero_text: EP3// THE SMART MONEY SHOW
 keywords:
 - Video

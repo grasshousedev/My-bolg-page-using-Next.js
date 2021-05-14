@@ -2,7 +2,7 @@
 categories:
 - News
 date: "2020-07-25T07:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1595685443/TD_and_Schwab_image_a13wft.jpg
+featured_image: /v1595685443/TD_and_Schwab_image_a13wft.jpg
 hero_text: ""
 keywords:
 - News

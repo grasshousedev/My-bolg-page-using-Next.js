@@ -1,14 +1,14 @@
 ---
 categories: []
 date: "2021-05-07T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1620400148/pexels-proxyclick-visitor-management-system-2451568_bwptyu.jpg
+featured_image: /v1620400148/pexels-proxyclick-visitor-management-system-2451568_bwptyu.jpg
 hero_text: ""
 keywords: []
 profile: []
 tags: []
 title: Tax Planning for the Self-Employed
 ---
-#### For some, self-employment is the American dream. An opportunity to be your own boss, maintain a flexible work schedule, and, oh yes, establish a lifelong relationship with your accountant and other financial professionals. 
+#### For some, self-employment is the American dream. An opportunity to be your own boss, maintain a flexible work schedule, and, oh yes, establish a lifelong relationship with your accountant and other financial professionals.
 
 While there’s plenty of upside to working for yourself, you’ll ultimately have more responsibilities. Whether it’s paying additional taxes or taking charge of [saving for your retirement](https://navalign.com/updates/cracking-the-nest-egg-before-it-hatches/), here are some tax planning tips for every entrepreneur.
 
@@ -22,7 +22,7 @@ Suppose you file a Schedule C as a sole proprietor. In that case, independent co
 
 Employees generally have an income tax, [Social Security](https://navalign.com/updates/before-you-claim-social-security-read-this/) tax, and Medicare tax withheld from their paychecks. But if you’re self-employed, it’s your job to make sure taxes are withheld from your income. You’ll need to make quarterly estimated tax payments to cover your federal income tax and self-employment tax liability. Depending on where you live and work, you may also have to make state estimated tax payments. What happens if you don’t make estimated tax payments? Well… you may be subject to penalties, interest, and a big tax bill at the end of the year, so be careful! Keep in mind that if you have employees, you’re going to have additional tax and reporting responsibilities for them too.
 
-Many [small business owners](https://navalign.com/updates/how-to-avoid-the-feud-when-transferring-the-family-business/) hire family members. Having family members work for your business could potentially create tax savings, depending on the situation. Businesses can take a deduction for reasonable compensation paid to employees, which in turn reduces the amount of taxable business income that flows through to the owner. Beware, the IRS can question compensation paid to a family member if the amount doesn’t seem reasonable, considering the services actually performed. 
+Many [small business owners](https://navalign.com/updates/how-to-avoid-the-feud-when-transferring-the-family-business/) hire family members. Having family members work for your business could potentially create tax savings, depending on the situation. Businesses can take a deduction for reasonable compensation paid to employees, which in turn reduces the amount of taxable business income that flows through to the owner. Beware, the IRS can question compensation paid to a family member if the amount doesn’t seem reasonable, considering the services actually performed.
 
 As is the case with wages paid to all employees, wages paid to family members are subject to withholding of federal income and employment taxes, and other taxes in some states. Business owners are responsible for paying FICA (Social Security and Medicare) taxes on wages paid to all employees. The good news is, payment of these taxes will be a deductible business expense for tax purposes.
 

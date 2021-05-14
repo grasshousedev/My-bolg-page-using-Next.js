@@ -4,7 +4,7 @@ categories:
 - 'retirement '
 - wealth
 date: "2019-10-21T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1572379401/Rubber_Ducky_How_much_to_save_by_20_30_40_hfaory.jpg
+featured_image: /v1572379401/Rubber_Ducky_How_much_to_save_by_20_30_40_hfaory.jpg
 hero_text: ""
 keywords:
 - 'retirement '

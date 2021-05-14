@@ -2,7 +2,7 @@
 date: "2019-01-01T08:00:00+00:00"
 degrees: CFA®
 email: chris@navalign.com
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1550964138/Navalign_Chris.jpg
+featured_image: /v1550964138/Navalign_Chris.jpg
 first_name: Chris
 hero:
   hero_image: /v1548099377/Navalign_Chris.jpg
@@ -25,6 +25,8 @@ profile_key:
 tags: []
 title: Chris Carter
 twitter: ""
+layout: profile
+
 ---
 Before launching his own practice in 2002, Chris was a financial advisor working for some of the largest investment banks and financial firms on Wall Street. During this time, he honed his skills advising the firm's wealthiest clients on retirement, philanthropic planning and multi-generational wealth transfers. Chris enjoys helping his clients as a lifelong trusted advisor, advocating for their goals and simplifying complex financial situations.
 

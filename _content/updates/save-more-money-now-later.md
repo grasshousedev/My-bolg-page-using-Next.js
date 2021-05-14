@@ -1,7 +1,7 @@
 ---
 categories: []
 date: "2020-10-14T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1602676638/danist-8Gg2Ne_uTcM-unsplash_bfnmmm.jpg
+featured_image: /v1602676638/danist-8Gg2Ne_uTcM-unsplash_bfnmmm.jpg
 hero_text: ""
 keywords: []
 profile: []
@@ -14,7 +14,7 @@ Every month, you could be missing out on ways to save money. Some money-saving m
 
 ## Try using cash to manage everyday expenses
 
-Paying for things in cash instead of using a credit card could help you save money. An average U.S. household carries [$6,849 in revolving debt](https://www.census.gov/topics/families/families-and-households.html). And, in the third quarter of 2020, credit cards had a [14.58%](https://www.federalreserve.gov/releases/g19/HIST/cc_hist_tc_levels.html) average annual interest rate. This means that Americans are spending hundreds of dollars on interest without even knowing it. 
+Paying for things in cash instead of using a credit card could help you save money. An average U.S. household carries [$6,849 in revolving debt](https://www.census.gov/topics/families/families-and-households.html). And, in the third quarter of 2020, credit cards had a [14.58%](https://www.federalreserve.gov/releases/g19/HIST/cc_hist_tc_levels.html) average annual interest rate. This means that Americans are spending hundreds of dollars on interest without even knowing it.
 
 However, when people can see the money they are spending, they are less likely to overspend. Therefore, it might be wise to use cash instead of [credit cards](https://navalign.com/updates/can-i-pay-off-one-credit-card-with-another/) when purchasing everyday items such as groceries, gas, and more.
 

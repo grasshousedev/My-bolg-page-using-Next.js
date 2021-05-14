@@ -1,7 +1,7 @@
 ---
 categories: []
 date: "2020-06-12T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1591972917/dices-over-newspaper-2656028_1920_cy9m8i.jpg
+featured_image: /v1591972917/dices-over-newspaper-2656028_1920_cy9m8i.jpg
 hero_text: ""
 keywords: []
 profile: []

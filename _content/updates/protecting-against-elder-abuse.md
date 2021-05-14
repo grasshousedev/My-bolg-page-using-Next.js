@@ -3,7 +3,7 @@ categories:
 - Retirement
 - Personal Finance
 date: "2019-07-01T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1563632670/Older%20Lady%20Hands%20cristian-newman-CeZypKDceQc-unsplash.jpg
+featured_image: /v1563632670/Older%20Lady%20Hands%20cristian-newman-CeZypKDceQc-unsplash.jpg
 hero_text: ""
 keywords: []
 profile:
@@ -13,7 +13,7 @@ tags:
 - Personal Finance
 title: Protecting Against Elder Abuse
 ---
-### We’ve all heard stories about financial abuse targeting elders and the bad news is it’s only getting worse. Elder financial abuse includes scams and other exploitation targeting [the savings of people ages 60 and older](https://navalign.com/what-we-do/retirement-planning-strategies/). 
+### We’ve all heard stories about financial abuse targeting elders and the bad news is it’s only getting worse. Elder financial abuse includes scams and other exploitation targeting [the savings of people ages 60 and older](https://navalign.com/what-we-do/retirement-planning-strategies/).
 
 Many of us may think, “it won’t happen to my family” or “my relative is too smart to fall into that trap”, but watch out because it’s happening more often than you may think.
 

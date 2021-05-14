@@ -3,7 +3,7 @@ categories:
 - Personal Finance
 - Wealth
 date: "2019-05-14T17:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1558670837/Money%20in%20case%20on%20table.jpg
+featured_image: /v1558670837/Money%20in%20case%20on%20table.jpg
 hero_text: Making money is the easy part. Holding onto it and making smart decisions
   along the way is the challenge. Here's what you need to know about making your first
   million and the five biggest pitfalls to avoid.
@@ -25,7 +25,7 @@ Over the years we’ve seen it all and we can tell you first hand, it’s not ho
 
 ## These are the five biggest pitfalls to avoid after you make your first million:
 
-### ![Don't spend money on an expensive car before saving](https://res.cloudinary.com/navalign/image/upload/v1551657970/Rolls%20royce%20interior.jpg "Keeping up with the Jones's")  
+### ![Don't spend money on an expensive car before saving](/v1551657970/Rolls%20royce%20interior.jpg "Keeping up with the Jones's")
 **1. Keeping up with the Jones’s**
 
 It’s not a competition. Treating it like one will not only eat away at your wealth, but also your self-esteem. That said, it’s awfully tempting to compare yourself to someone whose financial situation you believe to be similar to your own. If they can afford the expensive jewelry, cars, and vacations, shouldn’t you be able to afford the same?
@@ -38,7 +38,7 @@ You really need to ask yourself what’s important to _you_. Financial growth ca
 
 Think about it. Does the way you spend your money align with your values and life goals?
 
-### ![Accomplish your financial goals take the first step](https://res.cloudinary.com/navalign/image/upload/v1551657985/Top%20of%20mountain%20goal.jpg "Accomplish goals top of mountain")  
+### ![Accomplish your financial goals take the first step](/v1551657985/Top%20of%20mountain%20goal.jpg "Accomplish goals top of mountain")
 **2. Not setting the _next_ goal**
 
 Making your first million feels good, especially if you have something to show for it – savings, investments, businesses and experiences that have enriched your life. But you cannot afford to rest on your laurels. If you don’t have plans in place to make your _next_ million, then you may be closer to sitting idly by watching your first million dwindle away than you think.
@@ -55,7 +55,7 @@ When you’re ready, make a list and begin to prioritize your different near-ter
 
 Include personal development goals, business goals, lifestyle goals, family goals. Achieve one, move onto the next, and be sure to review this list and make updates over time as your priorities change.
 
-### ![Growth and protect your wealth](https://res.cloudinary.com/navalign/image/upload/v1551658004/Safe%20in%20wall.jpg "Protect your wealth")  
+### ![Growth and protect your wealth](/v1551658004/Safe%20in%20wall.jpg "Protect your wealth")
 **3. Not protecting your wealth**
 
 Don’t get greedy. The more money you accumulate, the more comfortable you might begin to feel about taking bigger risks for higher potential returns. Of course, you want to keep growing your wealth, but not at the risk of losing it all. You need to be smart about how you both Grow _and_ Protect your wealth along the way.
@@ -68,7 +68,7 @@ Another fundamental way to protect your wealth is directly related to your cash 
 
 Balancing risk and reward in your investment portfolio is key to building, and keeping, long term wealth.
 
-### ![Save before your spend](https://res.cloudinary.com/navalign/image/upload/v1551658066/Piggy%20bank%20hands.jpg "Saving before spedning")  
+### ![Save before your spend](/v1551658066/Piggy%20bank%20hands.jpg "Saving before spedning")
 **4. Spending before saving**
 
 Always pay yourself first. This hopefully isn’t the first time you’ve heard this, and it certainly won’t be the last. Because it’s true. Paying yourself first does not mean you can’t do and buy the things you want. You work hard for your money and should definitely enjoy spending it too. What paying yourself first means is having a strategy in place to always be saving a portion of the money you are earning.
@@ -79,7 +79,7 @@ For longer term savings and investing wealth, you may be more comfortable taking
 
 Your specific financial situation will dictate how much you should set aside for at least the next six months; what matters most is that you are saving _something_. Because the last thing you want to do is support your lifestyle on cash flow alone – you can’t grow your wealth like that long term. Save money on regular basis, make it a habit, and invest wisely.
 
-### ![Diversify your investments with an investment plan](https://res.cloudinary.com/navalign/image/upload/v1551658051/Financial%20plan%20report%20on%20table.jpg "Diversify your investments")  
+### ![Diversify your investments with an investment plan](/v1551658051/Financial%20plan%20report%20on%20table.jpg "Diversify your investments")
 **5. Not diversifying**
 
 Don’t put all your eggs in one basket. Different types of investments react differently to changing markets and economic conditions. That’s why having a diverse investment portfolio is so important for building wealth long term. If one asset class takes a hit, having investments across many asset classes reduces your risk and concentrated exposure.

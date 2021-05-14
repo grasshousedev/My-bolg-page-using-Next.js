@@ -4,7 +4,7 @@ categories:
 - Financial Planning
 - Personal Finance
 date: "2020-02-20T17:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1582305953/boy-child-clouds-kid-346796_epk945.jpg
+featured_image: /v1582305953/boy-child-clouds-kid-346796_epk945.jpg
 hero_text: ""
 keywords:
 - Family
@@ -38,7 +38,7 @@ The key to effective money management is keeping track of the money you spend. H
 
 ## You pay interest when you borrow money
 
-Understanding the concept of debt and borrowing can be simple. As adults, we understand that [credit cards](https://navalign.com/updates/can-i-pay-off-one-credit-card-with-another/), mortgages, and loans bear interest. One way to teach your children this concept is by borrowing money from them. For example, borrow $2. Tell them that you want to borrow the money for a week and that when you return it to them you will pay interest so they will receive back more than what you borrowed. 
+Understanding the concept of debt and borrowing can be simple. As adults, we understand that [credit cards](https://navalign.com/updates/can-i-pay-off-one-credit-card-with-another/), mortgages, and loans bear interest. One way to teach your children this concept is by borrowing money from them. For example, borrow $2. Tell them that you want to borrow the money for a week and that when you return it to them you will pay interest so they will receive back more than what you borrowed.
 
 A week later give the $3 back and explain how the interest grew over the past week, and that this made it so you had to pay them back more than what you borrowed. Learning the relationship between time, money and borrowing can be powerful, especially at a young age.
 
@@ -52,4 +52,4 @@ It's also important for kids to understand income taxes. While they may not need
 
 Children are often inclined to want to help others. Therefore, you may want to teach your children that they can donate a part of their allowance or other money they earn to charity. They need to understand that donating to charity is a choice and that the money they donate can help those in need. Money can be used to do more than just "buy" things. It doesn’t matter if you can only give a small amount, every little bit helps.
 
-Teaching your children these important money lessons will make them little money masters in no time. The more you encourage conversations about finances, the more comfortable your children will become when it comes to handling their own money matters. 
+Teaching your children these important money lessons will make them little money masters in no time. The more you encourage conversations about finances, the more comfortable your children will become when it comes to handling their own money matters.

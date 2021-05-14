@@ -32,6 +32,7 @@ profile_key:
 - Kevin Hawley
 title: Kevin Hawley
 twitter: ""
+layout: profile
 ---
 Growing up outside of Chicago, Kevin graduated from the University of Iowa with a degree in Finance and a focus on Entrepreneurship. During his senior year, he started his career in financial services working with one of the leading retirement plan service providers for government and public employees. He garnered a lot from this experience, and over time, decided to shift his focus towards financial planning. Today Kevin uses his retirement planning expertise to help young families and small business owners navigate important financial decisions to plan for their future.
 

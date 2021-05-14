@@ -1,7 +1,7 @@
 ---
 categories: []
 date: "2021-01-15T05:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1610745501/beach-2178625_1920_pxymh1.jpg
+featured_image: /v1610745501/beach-2178625_1920_pxymh1.jpg
 hero_text: ""
 keywords: []
 profile: []
@@ -68,4 +68,4 @@ Nothing is impossible if you have a realistic plan and put forth the best effort
 
 No parent wants to put their child or their needs second. When it comes to some financial decisions, the only way to help them, though, is to be in a secure place on your own first. It may not be easy to juggle saving for your retirement and your child’s college education; you’ll have to be flexible in the choices you make and look for any opportunities that come. However, by starting now, you are already set on the right path to balancing both you and your child’s future.
 
-If you need further guidance, consult with your [financial planner](). Your financial planner can help you create a plan to juggle both financial goals. 
+If you need further guidance, consult with your [financial planner](). Your financial planner can help you create a plan to juggle both financial goals.

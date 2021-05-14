@@ -1,14 +1,14 @@
 ---
 categories: []
 date: "2021-03-12T05:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1615566091/hinge-3658983_1920_u7jsu3.jpg
+featured_image: /v1615566091/hinge-3658983_1920_u7jsu3.jpg
 hero_text: ""
 keywords: []
 profile: []
 tags: []
 title: 'The Cardinal Rule: Never Invest Emotions in Investments'
 ---
-##### Emotions and relationships go hand in hand. Feelings drive a couple’s purpose and success; without those emotions, the relationship is bound to fail. 
+##### Emotions and relationships go hand in hand. Feelings drive a couple’s purpose and success; without those emotions, the relationship is bound to fail.
 
 But when it comes to investments, it’s the exact opposite. [If you tie money and emotions together, you’re doomed.](https://navalign.com/updates/beware-of-emotions-affecting-your-money-decisions/) You’re bound to fail as an investor.
 
@@ -16,7 +16,7 @@ But when it comes to investments, it’s the exact opposite. [If you tie money a
 
 The best instance of emotional investment is seen in stock trading. For example, say your uncle is a regular investor in the stock market. That might sound impressive, but he hasn’t always made profits. In fact, it’s just the opposite. He has made lots of bad investments in the past and incurred heavy losses as a result. Still, he can’t stop himself from investing in the stock market.
 
-It’s like a game you can’t quit – an addiction and thrilling adventure all rolled into one experience. Even though it’s risky, your uncle keeps investing in the stock market because he doesn’t want to miss out on that excitement factor. His need to take part in investing based off the adrenaline rush is just part of his overly-emotional investing strategy. 
+It’s like a game you can’t quit – an addiction and thrilling adventure all rolled into one experience. Even though it’s risky, your uncle keeps investing in the stock market because he doesn’t want to miss out on that excitement factor. His need to take part in investing based off the adrenaline rush is just part of his overly-emotional investing strategy.
 
 Often, he buys stocks of the companies that he likes. You can even say he is emotionally attached to that company. However, when you look at the company in a practical sense, you can see that it’s no blue-chip company. Despite that, my uncle buys the stock all the same and hopes its price will increase in the future. Sometimes, it does. But, most of the time, his hopes are destroyed.
 

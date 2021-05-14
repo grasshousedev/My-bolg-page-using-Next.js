@@ -1,33 +1,33 @@
 ---
 categories: []
 date: "2020-09-10T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1599745402/nguyen-minh-NUXaBFKlHKs-unsplash_yeskyv.jpg
+featured_image: /v1599745402/nguyen-minh-NUXaBFKlHKs-unsplash_yeskyv.jpg
 hero_text: ""
 keywords: []
 profile: []
 tags: []
 title: What You Should Know About Social Security Disability Benefits
 ---
-##### Like most people, you probably don't expect to become disabled. However, [one in four](https://www.ssa.gov/disabilityfacts/facts.html) 20-year-olds will become disabled before they retire. As a result, many Americans will rely on Social Security benefits for financial support.   
- 
+##### Like most people, you probably don't expect to become disabled. However, [one in four](https://www.ssa.gov/disabilityfacts/facts.html) 20-year-olds will become disabled before they retire. As a result, many Americans will rely on Social Security benefits for financial support.
+
 
 The Social Security Administration (SSA) administers two programs to aid those who have disabilities. The Social Security Disability Insurance (SSDI) program pays out benefits to individuals under [full retirement age](https://navalign.com/updates/what-expenses-should-i-expect-to-change-in-retirement/), no matter how much they make. Whereas, the Supplemental Security Income (SSI) program pays benefits to qualified individuals with limited income. Everything you need to know about the SSDI program is discussed here.
 
 ## To qualify for benefits, you must meet a strict definition of disability
 
-Because SSA requirements are strict, it's challenging to qualify for Social Security disability benefits. According to the SSA, you must have a physical or mental impairment that has lasted or is expected to last for at least 12 months or is likely to result in your death to qualify. 
+Because SSA requirements are strict, it's challenging to qualify for Social Security disability benefits. According to the SSA, you must have a physical or mental impairment that has lasted or is expected to last for at least 12 months or is likely to result in your death to qualify.
 
-Additionally, your impairment must be severe enough to prevent you from performing any "substantial gainful activity." "Substantial gainful activity" typically means that you can no longer complete both the work you were doing when you became disabled and any other work.  
-   
-The SSA has a [list of impairments](https://www.ssa.gov/disability/professionals/bluebook/AdultListings.htm) that they consider severe and automatically define you as disabled. If your condition is not on the list, the SSA will decide if your situation is severe enough.  
-   
-The SSA will consider your ability to work by assessing your medical condition, age, education, past work experience, and transferable skills. If you're currently employed, the SSA will also take your income into account. 
+Additionally, your impairment must be severe enough to prevent you from performing any "substantial gainful activity." "Substantial gainful activity" typically means that you can no longer complete both the work you were doing when you became disabled and any other work.
+
+The SSA has a [list of impairments](https://www.ssa.gov/disability/professionals/bluebook/AdultListings.htm) that they consider severe and automatically define you as disabled. If your condition is not on the list, the SSA will decide if your situation is severe enough.
+
+The SSA will consider your ability to work by assessing your medical condition, age, education, past work experience, and transferable skills. If you're currently employed, the SSA will also take your income into account.
 
 If you make more than the maximum benefit amount, you may not be considered disabled by SSA standards. But, if you're blind, special rules and income limits apply.
 
 ## You'll also need sufficient work credits to qualify
 
-To qualify for Social Security benefits, you must work and pay Social Security taxes. By doing so, you earn credits that enable you to be eligible for Social Security benefits. You can earn up to four credits per year, depending on your income and work status. The number of credits you need depends on how old you are when you become disabled. 
+To qualify for Social Security benefits, you must work and pay Social Security taxes. By doing so, you earn credits that enable you to be eligible for Social Security benefits. You can earn up to four credits per year, depending on your income and work status. The number of credits you need depends on how old you are when you become disabled.
 
 For instance, if you're age 31 to 42, you'll need to have earned 20 credits within the last ten years, ending with the year in which you became disabled. If you're younger than 31, you'll need fewer credits; if you're older than 42, you'll need more.
 

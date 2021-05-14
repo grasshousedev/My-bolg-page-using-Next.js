@@ -2,7 +2,7 @@
 date: "2019-01-01T08:00:00+00:00"
 degrees: AIF®, CRPC®
 email: matt@navalign.com
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1550964257/Navalign_Matt.jpg
+featured_image: /v1550964257/Navalign_Matt.jpg
 first_name: Matt
 hero:
   hero_image: /v1548100854/Navalign_Matt.jpg
@@ -25,6 +25,7 @@ profile_key:
 - Matt Stadelman
 tags: []
 title: Matt Stadelman
+layout: profile
 ---
 Matt is known for being a particularly good listener, with the ability to help clients prioritize their objectives and visualize the future. What holds true for success, whether a contractor or a financial planner, is the importance of establishing clear goals and developing a path to make them happen. Matt has valuable insight on how to successfully run a small business, which is critical in his work helping business owners and executives navigate important life decisions.
 

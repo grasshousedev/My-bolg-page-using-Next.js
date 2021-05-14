@@ -4,7 +4,7 @@ categories:
 - Investing
 - News
 date: "2020-01-30T08:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1582570131/Coronavirus_image_rtpkzk.jpg
+featured_image: /v1582570131/Coronavirus_image_rtpkzk.jpg
 hero_text: ""
 keywords:
 - Economy

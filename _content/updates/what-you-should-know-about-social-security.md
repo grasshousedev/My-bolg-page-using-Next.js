@@ -3,7 +3,7 @@ categories:
 - Social Security
 - Retirement
 date: "2019-06-04T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1560305797/Old%20Couple%20on%20bench%20matthew-bennett-425573-unsplash.jpg
+featured_image: /v1560305797/Old%20Couple%20on%20bench%20matthew-bennett-425573-unsplash.jpg
 hero_text: ""
 keywords:
 - Social Security
@@ -51,24 +51,24 @@ There is also a waiting period of six full months after the onset of your disabi
 
 ## Social Security Family Benefits
 
-If you [begin receiving retirement](https://www.ssa.gov/planners/retire/applying7.html) or disability benefits, your family members may also be eligible to receive benefits based on your earnings record. Eligible family members may include:  
-• Your spouse age 62 or older, if married at least 1 year  
-• Your former spouse age 62 or older, if married at least 10 years  
-• Your spouse or former spouse at any age, if caring for your child who is under age 16 or disabled  
-• Your children under age 18, if unmarried  
-• Your children under age 19, if full-time students (through grade 12) or disabled  
+If you [begin receiving retirement](https://www.ssa.gov/planners/retire/applying7.html) or disability benefits, your family members may also be eligible to receive benefits based on your earnings record. Eligible family members may include:
+• Your spouse age 62 or older, if married at least 1 year
+• Your former spouse age 62 or older, if married at least 10 years
+• Your spouse or former spouse at any age, if caring for your child who is under age 16 or disabled
+• Your children under age 18, if unmarried
+• Your children under age 19, if full-time students (through grade 12) or disabled
 • Your children older than 18, if severely disabled
 
 Each family member may receive a benefit that is as much as 50 percent of your benefit. However, the amount disbursed each month to family has a limit. The maximum total benefit that your family can receive is between 150% to 180% of your full retirement benefit amount. If the total family benefit exceeds this limit, each family member's benefit will receive a proportionate deduction. Your benefit is not impacted.
 
 ## Social Security Survivor's Benefits
 
-When you die, your family members may qualify for survivor's benefits based on your earnings record. These family members include:  
-• Your widow(er) or ex-spouse age 60 or older (age 50 or older if disabled)  
-• Your widow(er) or ex-spouse at any age, if caring for your child who is under 16 or disabled  
-• Your children under 18, if unmarried  
-• Your children under age 19, if full-time students (through grade 12) or disabled  
-• Your children older than 18, if severely disabled  
+When you die, your family members may qualify for survivor's benefits based on your earnings record. These family members include:
+• Your widow(er) or ex-spouse age 60 or older (age 50 or older if disabled)
+• Your widow(er) or ex-spouse at any age, if caring for your child who is under 16 or disabled
+• Your children under 18, if unmarried
+• Your children under age 19, if full-time students (through grade 12) or disabled
+• Your children older than 18, if severely disabled
 • Your parents, if they depended on you for at least half of their support
 
 Your widow(er) or children may also receive a one-time $255 death benefit immediately after you die.

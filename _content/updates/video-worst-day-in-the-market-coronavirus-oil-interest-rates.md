@@ -5,7 +5,7 @@ categories:
 - Podcast
 - Video
 date: "2020-03-10T03:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1583898021/Traders-work-on-the-floor-of-the-New-York-Stock-Exchange_psbhp6.png
+featured_image: /v1583898021/Traders-work-on-the-floor-of-the-New-York-Stock-Exchange_psbhp6.png
 hero_text: EP2// THE SMART MONEY SHOW
 keywords:
 - Economy
@@ -44,11 +44,11 @@ So you know, some people are asking is the economy falling apart or what's going
 
 **Neal:** Before we get to that, lets talk about the health fallout for a second here. So far there have been about 4,000 deaths from COVID-19. Most of those have been in China. Also, most of the people who've died were over 60 years old and had a serious pre-existing health condition. Not 100%, but mostly, and most people who contract COVID-19 will never even know they had it.
 
-The odds of you or me dying from this are pretty low, even though I'm 60, I'm 62 actually, but still the odds of either of us dying from this disease are extremely low. If you believe the numbers that are coming out of China, there are fewer cases of infection and death that are being reported everyday in China. If that's true, it's possible that after another month or so the number of reported cases and fatalities around the world could start dropping as well. 
+The odds of you or me dying from this are pretty low, even though I'm 60, I'm 62 actually, but still the odds of either of us dying from this disease are extremely low. If you believe the numbers that are coming out of China, there are fewer cases of infection and death that are being reported everyday in China. If that's true, it's possible that after another month or so the number of reported cases and fatalities around the world could start dropping as well.
 
 **Stephen:** Right it's definitely good news, but I meant, there's plenty of things out there that could kill you.
 
-**Neal:** Right, unfortunately the list is endless. But here's something that might surprise you Stephen, did you know that about 1 million people die every year from HIV and AIDS? 
+**Neal:** Right, unfortunately the list is endless. But here's something that might surprise you Stephen, did you know that about 1 million people die every year from HIV and AIDS?
 
 **Stephen:** Wow, I actually had no clue the number was still that high.
 
@@ -56,7 +56,7 @@ The odds of you or me dying from this are pretty low, even though I'm 60, I'm 62
 
 But you know why people don't freak out about any of those three things, it's because the news doesn't cover them 24/7. If every time you open up the TV, you know, and it said "here is how many people died in car accidents this morning" and then an hour later it said   "here's how many died in the last hour". You might think twice, or three times before you get back in your car right?
 
-So today you can't listen to the radio, or watch TV, for more than like 10 minutes, before getting some catastrophic news about COVID-19. And that's part of the problem. You probably don't think about these other health risks because they're just not in your face all day long. 
+So today you can't listen to the radio, or watch TV, for more than like 10 minutes, before getting some catastrophic news about COVID-19. And that's part of the problem. You probably don't think about these other health risks because they're just not in your face all day long.
 
 But it's really important to put things in perspective, because the odds are very very low that it will impact you. Now the odds of dying from COVID-19 are much much lower than the three things we just talked about. But people are a lot more afraid.
 
@@ -64,7 +64,7 @@ But it's really important to put things in perspective, because the odds are ver
 
 We've been having people ask us, sending us emails, asking us questions like, is the economy going to implode?
 
-I don't know what you think Neal, but look, I was out over the weekend. I'll give you an example, I went to the grocery store this weekend down the street, not the stock up on supplies, I've already got my earthquake kit, glad to see everyone else is stocking up now, and what did I see? Tons of people at the grocery store, it was busy. 
+I don't know what you think Neal, but look, I was out over the weekend. I'll give you an example, I went to the grocery store this weekend down the street, not the stock up on supplies, I've already got my earthquake kit, glad to see everyone else is stocking up now, and what did I see? Tons of people at the grocery store, it was busy.
 
 People are buying food maybe some are stocking up on supplies, lots of everything, but they were buying food and groceries, they were using their credit credit, and swiping that to buy these goods, making transactions.
 
@@ -78,9 +78,9 @@ You know, for those of us that are working from home, alright we're using email,
 
 Some are definitely taking a bigger hit than others. It's pretty obvious to see anything related to travel and transportation to some degree has been hit pretty hard. Cruise Lines, Airlines, Hotels, Rental Cars, they all got crushed so far this year. Not the greatest situation, and it might take them longer to get out of this this hole.
 
-**Neal:** I agree with you, I also don't think the economy is falling apart. As of the end of February, the economy added 273,000 jobs. Unemployment went down to 3.5%. Wage growth came in at 3%, and they're really good numbers. 
+**Neal:** I agree with you, I also don't think the economy is falling apart. As of the end of February, the economy added 273,000 jobs. Unemployment went down to 3.5%. Wage growth came in at 3%, and they're really good numbers.
 
-But you know what? It doesn't matter. The market and investors are scared to death. The market isn't looking at what's going on right now, it's looking at what might or what could happen, and that's why the market has tanked since the beginning of February.  
+But you know what? It doesn't matter. The market and investors are scared to death. The market isn't looking at what's going on right now, it's looking at what might or what could happen, and that's why the market has tanked since the beginning of February.
 
 **Stephen:** That's a fair point. You know what really surprised me, and I think it surprised a lot of people. Seeing interest rates here in the U.S. drop. It dropped by half a percent, that's a really really big number, as far as US interest rates are concerned.
 
@@ -112,7 +112,7 @@ And you know who's really ticked off? Actually it's my dad, he's not going to se
 
 But a recession could happen, but it's not inevitable. Stephen you've done a little research, so let's assume a worst case, let's say there is a recession. Does that mean that all of our investments are going to just evaporate?
 
-**Stephen:** I definitely think the answer to that is no. I think we're going to be just fine. What we are looking at here is a chart of the S&P 500 since 1900. So a very, very long time. In those gray shaded areas we can see all the different recessionary periods. 
+**Stephen:** I definitely think the answer to that is no. I think we're going to be just fine. What we are looking at here is a chart of the S&P 500 since 1900. So a very, very long time. In those gray shaded areas we can see all the different recessionary periods.
 
 Some of those were linked to major historical events like World War II and the Korean War. We had the .com boom and then the bust, obviously more recently we had the global financial crisis. None of these were good situations. But time and time again, humanity and the global economy have prevailed. We made it out of all these situations.
 
@@ -122,11 +122,11 @@ What you're saying, if I'm hearing you right, is that in the past, which of cour
 
 **Stephen:** I would say so. Let's turn to one of our favorite long-term investors and see what he has to say. Warren Buffett if you've ever heard of this gentleman, I think we all have, you might remember back in 2008, it was October 16th 2008, I put the article on the screen by the way, you should read this article, it's still very poignant and timely for today.
 
-Warren Buffett wrote this op-ed in the New York Times called "Buy American. I am." He basically goes on to share with everybody that he believes, that with his own money he is changing a lot of his investments from Bonds to Stocks. This, as you know was as the global  financial crisis was really gripping the the economy. He said, hey I'm going to invest in the stock market, now is a really good time to get in. 
+Warren Buffett wrote this op-ed in the New York Times called "Buy American. I am." He basically goes on to share with everybody that he believes, that with his own money he is changing a lot of his investments from Bonds to Stocks. This, as you know was as the global  financial crisis was really gripping the the economy. He said, hey I'm going to invest in the stock market, now is a really good time to get in.
 
 Let me show you actually what happened, the next few months after he did that. Here's what happened, for the next 5 months after Warren Buffett posted that op-ed, and said he was moving his money into the stock market, he got his butt kicked.
 
-I mean he was down over -27%, the stock market was down over -27%, so obviously that didn't turn out so well. But we're talking about long-term investing, and long-term investing isn't 5 months, so let's look at a five-year period. 
+I mean he was down over -27%, the stock market was down over -27%, so obviously that didn't turn out so well. But we're talking about long-term investing, and long-term investing isn't 5 months, so let's look at a five-year period.
 
 Instead of 5 months we're looking at 5 years now, after October 16th 2008 to October 16th 2013, and if you look at that period of time, you know Warren, yeah he lost some money up front, you can see that dip in the beginning. But he more than made it back and and then goes on to almost double it, up over 81%, the S&P 500 was up 81.9% over the next five years there.
 
@@ -138,6 +138,6 @@ The odds of this leading to a global recession, you know it's still relatively l
 
 Last but not least, long-term investors, who don't get spooked, and stick to a disciplined long-term investment approach, they tend to do much, much better in the market than those that get antsy and think they can time the market, and try their best to get in and out. That usually doesn't end well.
 
-If you have questions about your portfolio and about your Investments, give us a call, send us an email, let's set up a time to meet and discuss what's going on with your finances today. 
+If you have questions about your portfolio and about your Investments, give us a call, send us an email, let's set up a time to meet and discuss what's going on with your finances today.
 
 If you learned something new in this video, or you thought it was interesting, be sure to share it with your friends and your family members because they probably have the same concerns and questions that you do.

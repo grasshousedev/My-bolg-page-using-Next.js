@@ -4,7 +4,7 @@ date: "2019-01-01T08:00:00+00:00"
 degrees: CFA®
 email: steve@navalign.com
 facebook: ""
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1550964332/Navalign_Steve.jpg
+featured_image: /v1550964332/Navalign_Steve.jpg
 first_name: Steve
 hero:
   color_options:
@@ -33,6 +33,7 @@ profile_key:
 - Steve Trinh
 title: Steve Trinh
 twitter: ""
+layout: profile
 ---
 Steve earned his Business Economics degree from the University of California, Riverside. Upon graduating, he worked for one of the most reputable engineering firms in Los Angeles designing traffic plans. After years of engineering work he transitioned careers and became a Financial Advisor at a large Wall Street investment firm. He soon realized the many conflicts of interest working in the brokerage environment and decided to align himself with a fiduciary financial firm that focused on clients first.
 

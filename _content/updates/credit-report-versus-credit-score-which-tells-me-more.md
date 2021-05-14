@@ -2,7 +2,7 @@
 categories:
 - Personal Finance
 date: "2019-08-19T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1569427525/Credit_Report_vs_Credit_Score_nrtips.jpg
+featured_image: /v1569427525/Credit_Report_vs_Credit_Score_nrtips.jpg
 hero_text: ""
 keywords: []
 profile:
@@ -39,7 +39,7 @@ There are three separate credit reporting agencies which we’ll mention in a mo
 
 [TransUnion](http://www.transunion.com/ "TransUnion")
 
-  
+
  Some people prefer to access their credit reports all at once. Others like to review them separately at different times throughout the year. If you choose to view them at different times, consider checking one every four months. This will give you a “rolling” view of this information throughout the year.
 
 Think of these reports as the story of your credit life. Monitoring these reports on a regular basis will assure they're telling the truth about your financial behavior. To learn more about accessing your free credit report, visit the Federal Trade Commission’s [website](https://www.ftc.gov/faq/consumer-protection/get-my-free-credit-report). Don’t be fooled into thinking you have to use a third-party vendor, pay or sign up for a separate service to retrieve your credit reports.

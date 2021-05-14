@@ -5,7 +5,7 @@ categories:
 - Personal Finance
 - Economy
 date: "2020-07-19T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1595289574/SMS_Q2_Update_Cover_hsurp5.png
+featured_image: /v1595289574/SMS_Q2_Update_Cover_hsurp5.png
 hero_text: THE SMART MONEY SHOW
 keywords:
 - Video

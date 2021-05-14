@@ -4,7 +4,7 @@ categories:
 - retirement
 - personal finance
 date: "2020-07-03T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1593789620/person-731423_1920_cduxbb.jpg
+featured_image: /v1593789620/person-731423_1920_cduxbb.jpg
 hero_text: ""
 keywords:
 - financial planning
@@ -36,13 +36,13 @@ Additionally, in retirement, you may have paid off your home and other major deb
 
 Although your insurance costs may decrease, you can likely expect your medical expenses to increase, even if you’re in good health. The amount will vary per household, but perhaps you have read some of the latest estimates. According to [Fidelity Investments](https://www.fidelity.com/viewpoints/personal-finance/plan-for-rising-health-care-costs#:\~:text=According%20to%20the%20Fidelity%20Retiree,and%20how%20long%20you%20live.), a 65-year-old couple who retired in 2019 will need around $285,000 to cover future health care costs. This estimate assumes they live 20-22 years after they retire.
 
-Long-term care coverage was not included in that projection. Long-term care costs an average of $4,250 per month per person for in-home care and $4,051 per month in an assisted living facility. These numbers are expected to increase in the coming years by about 3% per year. If you are 40 years old now and go into assisted living at age 70, your monthly costs will likely exceed $10,000 per month. A long-term care policy that covers three years of care at $6,000 a month would cost the couple just over $3,000 per year if they start paying at age 55. This means that they will pay $45,000 for their insurance over time, rather than paying hundreds of thousands of dollars for long-term care at the end of their life. 
+Long-term care coverage was not included in that projection. Long-term care costs an average of $4,250 per month per person for in-home care and $4,051 per month in an assisted living facility. These numbers are expected to increase in the coming years by about 3% per year. If you are 40 years old now and go into assisted living at age 70, your monthly costs will likely exceed $10,000 per month. A long-term care policy that covers three years of care at $6,000 a month would cost the couple just over $3,000 per year if they start paying at age 55. This means that they will pay $45,000 for their insurance over time, rather than paying hundreds of thousands of dollars for long-term care at the end of their life.
 
 ## How about your income taxes?
 
 If you live on 70-80% of your end salary in retirement – which is not unusual – then you may find yourself in a lower income tax bracket. Yes, your Social Security income may be taxed – but, even in the worst-case scenario, no more than 85% of it will be taxed.
 
-If you have invested using a [Roth IRA](https://navalign.com/updates/traditional-vs-roth-ira-which-one-is-right-for-you/), you will be looking at some tax-free retirement income – provided, of course, you have owned the IRA for at least five years and are older than 59½ when you start making withdrawals. 
+If you have invested using a [Roth IRA](https://navalign.com/updates/traditional-vs-roth-ira-which-one-is-right-for-you/), you will be looking at some tax-free retirement income – provided, of course, you have owned the IRA for at least five years and are older than 59½ when you start making withdrawals.
 
 ## Will your housing costs fall?
 

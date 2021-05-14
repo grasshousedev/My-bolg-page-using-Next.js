@@ -4,7 +4,7 @@ categories:
 - Retirement
 - Saving
 date: "2021-04-09T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1617977107/jon-sailer-_s10fRUwJG8-unsplash_puplod.jpg
+featured_image: /v1617977107/jon-sailer-_s10fRUwJG8-unsplash_puplod.jpg
 hero_text: ""
 keywords:
 - Financial Planning
@@ -17,7 +17,7 @@ tags:
 - Saving
 title: Cracking the Nest Egg Before it Hatches
 ---
-#### If you have a 401(k) plan at work and need some cash, you might be tempted to borrow or withdraw money from it. But keep in mind: the purpose of a 401(k) is to save for retirement. 
+#### If you have a 401(k) plan at work and need some cash, you might be tempted to borrow or withdraw money from it. But keep in mind: the purpose of a 401(k) is to save for retirement.
 
 Use the funds now, and you’ll risk running out of money during your golden years. You may also face stiff tax consequences and penalties for withdrawing money before age 59½. Still, if you’re facing a financial emergency--for instance, your child’s [college tuition](https://navalign.com/updates/how-to-prioritize-between-your-retirement-and-children-s-education/) is almost due, and your 401(k) is the only source of available funds--borrowing money from your 401(k) may be your only option.
 
@@ -59,7 +59,7 @@ Make sure you follow your loan’s repayment requirements. If you don’t repay 
 
 ## Hardship withdrawals
 
-Your 401(k) plan may have a provision that allows you to withdraw money from the plan while you’re still employed. However, you have to demonstrate "heavy and immediate" financial need and possess no other resources you can use to meet that need (e.g., you can’t borrow from a commercial lender or from a retirement account, and you have no other available savings). It’s up to your employer to determine which financial needs qualify. 
+Your 401(k) plan may have a provision that allows you to withdraw money from the plan while you’re still employed. However, you have to demonstrate "heavy and immediate" financial need and possess no other resources you can use to meet that need (e.g., you can’t borrow from a commercial lender or from a retirement account, and you have no other available savings). It’s up to your employer to determine which financial needs qualify.
 
 Many employers allow hardship withdrawals only to cover the following costs:
 

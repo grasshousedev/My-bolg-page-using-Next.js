@@ -3,7 +3,7 @@ categories:
 - News
 - Economy
 date: "2020-02-04T17:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1582606981/Election_year_2020_xkrkd2.png
+featured_image: /v1582606981/Election_year_2020_xkrkd2.png
 hero_text: ""
 keywords:
 - News

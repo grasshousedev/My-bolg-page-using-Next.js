@@ -5,7 +5,7 @@ categories:
 - Personal Finance
 - Retirement
 date: "2020-01-03T14:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1578070037/US_Capitol_Building_Crop_itcpe5.png
+featured_image: /v1578070037/US_Capitol_Building_Crop_itcpe5.png
 hero_text: ""
 keywords:
 - Economy

@@ -3,7 +3,7 @@ categories:
 - Personal Finance
 - Wealth
 date: "2019-09-02T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1569472423/Money_Personality_tlxcws.jpg
+featured_image: /v1569472423/Money_Personality_tlxcws.jpg
 hero_text: ""
 keywords:
 - Personal Finance

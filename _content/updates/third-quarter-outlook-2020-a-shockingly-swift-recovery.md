@@ -4,7 +4,7 @@ categories:
 - Investing
 - Market Commentary
 date: "2020-07-15T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1594913324/shocking-man-in-brown-leather-jacket-using-binoculars-3811807_hzjnon.png
+featured_image: /v1594913324/shocking-man-in-brown-leather-jacket-using-binoculars-3811807_hzjnon.png
 hero_text: ""
 keywords:
 - Economy
@@ -43,7 +43,7 @@ In our view, the key risk to the economy and financial markets is the potential 
 
 ## Monetary and fiscal policy are also key
 
-While we view the progression of COVID-19 as the most important driver of the short-term economic and market outlook, monetary and fiscal policy are second-most in importance. After the Federal Open Market Committee (FOMC) meeting in June, Fed chair Jerome Powell made it very clear the Fed intends to keep monetary policy extremely accommodative for the foreseeable future. 
+While we view the progression of COVID-19 as the most important driver of the short-term economic and market outlook, monetary and fiscal policy are second-most in importance. After the Federal Open Market Committee (FOMC) meeting in June, Fed chair Jerome Powell made it very clear the Fed intends to keep monetary policy extremely accommodative for the foreseeable future.
 
 At the June meeting Powell said, “We are strongly committed to use our tools to do whatever we can, and for as long as it takes, to provide some relief and stability, to ensure the recovery will be as strong as possible and to limit lasting damage to the economy. … We are not thinking about raising rates. We are not even _thinking about_ thinking about raising rates.” As the saying on Wall Street goes, “don’t fight the Fed!”
 
@@ -51,15 +51,15 @@ The Fed is leading the way for other global central banks to enact their own ext
 
 ## Given all this stimulus, is inflation a risk?
 
-We’re seeing a lot of discussion in the financial press about the risk of inflation in the United States given the massive stimulus from the Fed along with the multi-trillion-dollar debt-financed fiscal support programs. 
+We’re seeing a lot of discussion in the financial press about the risk of inflation in the United States given the massive stimulus from the Fed along with the multi-trillion-dollar debt-financed fiscal support programs.
 
-We don’t view inflation as a near-term risk because there is too much slack in the economy due to the hit from COVID-19. It will take a while—likely a few years at least—for the economy to get back to operating at full capacity and full employment. Until then, the slack should restrain consumer price inflation and wage inflation. 
+We don’t view inflation as a near-term risk because there is too much slack in the economy due to the hit from COVID-19. It will take a while—likely a few years at least—for the economy to get back to operating at full capacity and full employment. Until then, the slack should restrain consumer price inflation and wage inflation.
 
 It’s also worth remembering that even when the U.S. economy was at full employment in the months before the pandemic, core inflation was still below the Fed’s 2% target. Now, with the economy running below its potential, inflation is a lesser risk.
 
 ## Other risks...
 
-Besides a resurgence in the pandemic, there are several other macro risks to be aware of. We’ll name the four at the top of our list: 
+Besides a resurgence in the pandemic, there are several other macro risks to be aware of. We’ll name the four at the top of our list:
 
 1)	The November elections and policy-related uncertainty (for example, a repeal of the Trump corporate tax cuts if the incumbent party loses)
 
@@ -71,9 +71,9 @@ Besides a resurgence in the pandemic, there are several other macro risks to be 
 
 ## The Bottom Line
 
-We hold a cautiously optimistic view that even with an inevitable uptick in COVID-19 cases in coming months, the overall social policy response won’t need to be as draconian, and therefore the economic impact won’t be as bad as during this first wave. 
+We hold a cautiously optimistic view that even with an inevitable uptick in COVID-19 cases in coming months, the overall social policy response won’t need to be as draconian, and therefore the economic impact won’t be as bad as during this first wave.
 
-If that scenario plays out against a backdrop of extremely loose fiscal and monetary policy, there is a good chance we’ll get a sustainable, albeit uneven, global economic recovery. It’s unlikely to be a sharp V-shaped recovery, but something more gradual, with some sectors and industries doing much better than others. 
+If that scenario plays out against a backdrop of extremely loose fiscal and monetary policy, there is a good chance we’ll get a sustainable, albeit uneven, global economic recovery. It’s unlikely to be a sharp V-shaped recovery, but something more gradual, with some sectors and industries doing much better than others.
 
 But we should also prepare ourselves for a potential double-dip back down to the late-March market lows, most likely caused by disappointing developments on the virus/medical front.
 

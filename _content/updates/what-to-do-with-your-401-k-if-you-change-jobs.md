@@ -4,7 +4,7 @@ categories:
 - Retirement
 - Investing
 date: "2019-12-13T05:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1576262746/tie-690084_1280_br0u2p.jpg
+featured_image: /v1576262746/tie-690084_1280_br0u2p.jpg
 hero_text: ""
 keywords:
 - Personal Finance

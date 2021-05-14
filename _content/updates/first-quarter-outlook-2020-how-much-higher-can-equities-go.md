@@ -4,7 +4,7 @@ categories:
 - Economy
 - Investing
 date: "2020-01-28T16:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1581404010/rocket-launch-67643_1280_bauyzq.png
+featured_image: /v1581404010/rocket-launch-67643_1280_bauyzq.png
 hero_text: ""
 keywords:
 - Market Commentary

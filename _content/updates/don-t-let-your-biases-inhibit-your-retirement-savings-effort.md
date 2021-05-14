@@ -1,7 +1,7 @@
 ---
 categories: []
 date: "2020-08-07T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1596813545/hourglass-620397_1920_a00tpa.jpg
+featured_image: /v1596813545/hourglass-620397_1920_a00tpa.jpg
 hero_text: ""
 keywords: []
 profile: []

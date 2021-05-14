@@ -1,7 +1,7 @@
 ---
 categories: []
 date: "2019-01-01T09:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1554762639/anete-lusina-146152-unsplash_square.jpg
+featured_image: /v1554762639/anete-lusina-146152-unsplash_square.jpg
 hero_text: ""
 keywords: []
 profile: []

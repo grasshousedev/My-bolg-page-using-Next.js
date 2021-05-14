@@ -75,7 +75,7 @@ hero:
   color_options:
     bg_color: ""
     text_color: ""
-  hero_image: https://res.cloudinary.com/navalign/image/upload/v1569888935/Homepage_Image_lxp3dl.jpg
+  hero_image: /v1569888935/Homepage_Image_lxp3dl.jpg
   hero_text: |-
     # We spent years managing investments so large firms could grow and prosper. Then we built a firm so you can do the same.
 

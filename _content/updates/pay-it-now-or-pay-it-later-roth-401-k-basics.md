@@ -1,7 +1,7 @@
 ---
 categories: []
 date: "2020-12-10T05:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1607621017/money-2173148_1920_blt4rh.jpg
+featured_image: /v1607621017/money-2173148_1920_blt4rh.jpg
 hero_text: ""
 keywords: []
 profile: []

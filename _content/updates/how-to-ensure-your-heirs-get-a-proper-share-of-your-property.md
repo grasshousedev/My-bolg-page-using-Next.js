@@ -1,7 +1,7 @@
 ---
 categories: []
 date: "2020-10-09T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1602264424/dominik-lange-JpWtmyjMI30-unsplash_codwjf.jpg
+featured_image: /v1602264424/dominik-lange-JpWtmyjMI30-unsplash_codwjf.jpg
 hero_text: ""
 keywords: []
 profile: []

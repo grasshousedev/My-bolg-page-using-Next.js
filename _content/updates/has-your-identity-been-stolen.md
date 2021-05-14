@@ -1,7 +1,7 @@
 ---
 categories: []
 date: "2020-04-09T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1586527665/computer-security-lock-and-payment_ihvtgh.jpg
+featured_image: /v1586527665/computer-security-lock-and-payment_ihvtgh.jpg
 hero_text: ""
 keywords: []
 profile: []
@@ -68,6 +68,6 @@ If you suspect this may be happening, file a police report. You may have to be p
 
 ## The Bottom Line
 
-You can reduce your risk of identity theft simply by being aware of what your credit score and financial documents should look like. You should educate yourself on scams regularly, but also be aware of situational scams. Right now, we are seeing a lot of coronavirus related scams that act under the guise of helping citizens find the best resources for them during the global pandemic. 
+You can reduce your risk of identity theft simply by being aware of what your credit score and financial documents should look like. You should educate yourself on scams regularly, but also be aware of situational scams. Right now, we are seeing a lot of coronavirus related scams that act under the guise of helping citizens find the best resources for them during the global pandemic.
 
 A good rule of thumb is to not give out any information to callers, emailers, or other supposed agencies that contact you. Instead, to plenty of research, and look to government agencies for information when you have questions.

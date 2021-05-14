@@ -3,7 +3,7 @@ categories:
 - Financial Planning
 - Investing
 date: "2020-04-01T16:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1584725160/elijah-o-donnell-t8T_yUgCKSM-unsplash_x2dumd.jpg
+featured_image: /v1584725160/elijah-o-donnell-t8T_yUgCKSM-unsplash_x2dumd.jpg
 hero_text: ""
 keywords:
 - Financial Planning
@@ -29,7 +29,7 @@ In a typical market year, Wall Street will experience some amount of volatility.
 
 The [global COVID-19 pandemic](https://navalign.com/updates/video-how-the-coronavirus-is-affecting-the-global-economy/ "COVID-19 Pandemic") is definitely affecting the economy, and If history repeats itself, then acting quickly out of fear may not be the best move for investors. While plunging stock prices in March felt earthshaking to some, daily retreats of this magnitude have been seen before, will be seen again, and should be taken in stride.
 
-Most people came away from the Financial Crisis, which lasted over a year-and-a-half, with a big hit to their accounts. It was all recovered in the following years as the market and global economy returned to a new normal. We expect COVID-19 to continue putting stress on the economy for the next several weeks. Then [we will move forward](https://navalign.com/updates/video-update-on-covid-19-and-market-outlook/), and possibly recover fully within a matter of months. Nobody really knows what the new normal will look like in this recovery, but most people agree that humanity will ultimately prevail. 
+Most people came away from the Financial Crisis, which lasted over a year-and-a-half, with a big hit to their accounts. It was all recovered in the following years as the market and global economy returned to a new normal. We expect COVID-19 to continue putting stress on the economy for the next several weeks. Then [we will move forward](https://navalign.com/updates/video-update-on-covid-19-and-market-outlook/), and possibly recover fully within a matter of months. Nobody really knows what the new normal will look like in this recovery, but most people agree that humanity will ultimately prevail.
 
 ## Fear and anxiety can also cause stubbornness
 

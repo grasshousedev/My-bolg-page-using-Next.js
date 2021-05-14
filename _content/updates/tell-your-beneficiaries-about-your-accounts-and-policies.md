@@ -1,7 +1,7 @@
 ---
 categories: []
 date: "2020-12-18T05:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1608309006/daiga-ellaby-7edWO30e32k-unsplash_hicgto.jpg
+featured_image: /v1608309006/daiga-ellaby-7edWO30e32k-unsplash_hicgto.jpg
 hero_text: ""
 keywords: []
 profile: []

@@ -4,7 +4,7 @@ categories:
 - Saving
 - Wealth
 date: "2020-01-14T17:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1579028312/knowledge-1052010_1920_b5ii0t_ahmxnh.png
+featured_image: /v1579028312/knowledge-1052010_1920_b5ii0t_ahmxnh.png
 hero_text: ""
 keywords:
 - Personal Finance

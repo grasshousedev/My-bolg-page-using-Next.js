@@ -1,7 +1,7 @@
 ---
 categories: []
 date: "2020-11-20T05:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1605882081/william-warby-QJdM9E4mIwo-unsplash_dzetqt.jpg
+featured_image: /v1605882081/william-warby-QJdM9E4mIwo-unsplash_dzetqt.jpg
 hero_text: ""
 keywords: []
 profile: []

@@ -5,7 +5,7 @@ categories:
 - investing
 - personal finance
 date: "2020-03-27T07:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1585406941/Smart_Money_Show_EP4_COVER_1920x1080_nrckhb.png
+featured_image: /v1585406941/Smart_Money_Show_EP4_COVER_1920x1080_nrckhb.png
 hero_text: EP4// THE SMART MONEY SHOW
 keywords:
 - video

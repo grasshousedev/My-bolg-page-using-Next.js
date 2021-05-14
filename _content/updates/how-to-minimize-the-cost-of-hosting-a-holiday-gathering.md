@@ -3,7 +3,7 @@ categories:
 - family
 - personal finance
 date: "2019-11-11T17:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1574095167/three-egg-nogs-and-a-plate-o-cookies_u6reo3.jpg
+featured_image: /v1574095167/three-egg-nogs-and-a-plate-o-cookies_u6reo3.jpg
 hero_text: ""
 keywords:
 - family

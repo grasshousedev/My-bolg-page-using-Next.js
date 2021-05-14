@@ -3,7 +3,7 @@ categories:
 - Personal Finance
 - Saving
 date: "2019-12-09T21:46:10+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1575669221/new-years-eve-1283521_1920_yobipm.jpg
+featured_image: /v1575669221/new-years-eve-1283521_1920_yobipm.jpg
 hero_text: ""
 keywords:
 - Personal Finance

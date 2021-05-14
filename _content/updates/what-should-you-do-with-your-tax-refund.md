@@ -3,7 +3,7 @@ categories:
 - Financial Planning
 - Personal Finance
 date: "2020-02-13T17:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1581698365/stellrweb-djb1whucfBY-unsplash_yxopvj.jpg
+featured_image: /v1581698365/stellrweb-djb1whucfBY-unsplash_yxopvj.jpg
 hero_text: ""
 keywords:
 - Financial Planning

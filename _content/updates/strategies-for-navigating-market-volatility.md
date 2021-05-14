@@ -4,7 +4,7 @@ categories:
 - Investing
 - Personal Finance
 date: "2020-03-28T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1585932034/10eb68dc-b6e5-4d8c-9109-c5373d5bd90b_qznxxz.jpg
+featured_image: /v1585932034/10eb68dc-b6e5-4d8c-9109-c5373d5bd90b_qznxxz.jpg
 hero_text: ""
 keywords:
 - Financial Planning

@@ -5,7 +5,7 @@ categories:
 - investing
 - personal finance
 date: "2020-05-13T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1589404667/EP_6_cover_pfzfko.png
+featured_image: /v1589404667/EP_6_cover_pfzfko.png
 hero_text: EP6// THE SMART MONEY SHOW
 keywords:
 - video

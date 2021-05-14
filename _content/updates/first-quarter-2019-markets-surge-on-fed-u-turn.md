@@ -5,7 +5,7 @@ categories:
 - market commentary
 - news
 date: "2019-04-16T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1558670577/u-turn-on-the-road.jpg
+featured_image: /v1558670577/u-turn-on-the-road.jpg
 hero_text: ""
 keywords:
 - Economy

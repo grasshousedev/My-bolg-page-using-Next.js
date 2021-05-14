@@ -3,7 +3,7 @@ categories:
 - personal finance
 - financial planning
 date: "2020-05-07T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1588965509/Wills_hczeob.jpg
+featured_image: /v1588965509/Wills_hczeob.jpg
 hero_text: ""
 keywords:
 - personal finance
@@ -15,10 +15,10 @@ tags:
 - financial planning
 title: 'Wills: The Cornerstone of Your Estate Plan'
 ---
-### Due to the current global pandemic, your health and well-being might be top of mind. If you’re concerned about what happens to your money, home, and other property after you die, you need to do some estate planning, if you haven’t already. 
+### Due to the current global pandemic, your health and well-being might be top of mind. If you’re concerned about what happens to your money, home, and other property after you die, you need to do some estate planning, if you haven’t already.
 
-There are many tools you can use to achieve your estate planning goals, but a will is probably the most vital. Even if you're young or your estate is modest, you should always have a legally valid and up-to-date will. This is especially important if you have minor children because, in many states, your will is the only legal way you can name a guardian for them.  
-  
+There are many tools you can use to achieve your estate planning goals, but a will is probably the most vital. Even if you're young or your estate is modest, you should always have a legally valid and up-to-date will. This is especially important if you have minor children because, in many states, your will is the only legal way you can name a guardian for them.
+
 Although a will doesn't have to be drafted by an attorney to be valid, seeking an attorney's help can ensure your will accomplishes what you intend.
 
 ## Wills avoid intestacy
@@ -63,11 +63,11 @@ Probate is the court-supervised process of administering and proving a will. Pro
 
 ## Will provisions can be challenged in court
 
-Although it doesn't happen often, the validity of your will can be challenged, usually by an unhappy beneficiary or a disinherited heir. Some common claims include:   
-   
- • You lacked testamentary capacity when you signed the will   
- • You were unduly influenced by another individual when you drew up the will   
- • The will was forged or was otherwise improperly executed   
+Although it doesn't happen often, the validity of your will can be challenged, usually by an unhappy beneficiary or a disinherited heir. Some common claims include:
+
+ • You lacked testamentary capacity when you signed the will
+ • You were unduly influenced by another individual when you drew up the will
+ • The will was forged or was otherwise improperly executed
  • The will was revoked
 
 The best way to avoid challenged provisions is to make sure you properly execute your will. To do this, you may want to hire an estate attorney who can assist you in drafting your will. You will also want to explain your decision to your family. Explaining your reasons for including or excluding someone in your will can eliminate the surprise. Also, include a letter that explains your decisions.

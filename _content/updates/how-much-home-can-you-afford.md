@@ -3,7 +3,7 @@ categories:
 - Personal Finance
 - Family
 date: "2019-08-12T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1569471896/How_much_home_can_you_afford_deizez.jpg
+featured_image: /v1569471896/How_much_home_can_you_afford_deizez.jpg
 hero_text: ""
 keywords:
 - Personal Finance

@@ -1,7 +1,7 @@
 ---
 categories: []
 date: "2020-12-04T05:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1607099000/jon-tyson-jRI4-6xgPps-unsplash_kffv9k.jpg
+featured_image: /v1607099000/jon-tyson-jRI4-6xgPps-unsplash_kffv9k.jpg
 hero_text: ""
 keywords: []
 profile: []

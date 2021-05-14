@@ -5,8 +5,8 @@ content_blocks:
 - advanced_options:
     custom_classes: ""
     html_id: ""
-  block_text: "# **IMPORTANT DISCLOSURES**\n\n### [Form CRS](https://res.cloudinary.com/navalign/image/upload/v1593190863/Form_CRS_-_June_2020_qf1ozk.pdf
-    \"Form CRS\") - [Form ADV Part 2A](https://res.cloudinary.com/navalign/image/upload/v1587737119/Form_ADV_Part_2A_-_Firm_Brochure_-_03.19.2020_finalized_lkcutq.pdf
+  block_text: "# **IMPORTANT DISCLOSURES**\n\n### [Form CRS](/v1593190863/Form_CRS_-_June_2020_qf1ozk.pdf
+    \"Form CRS\") - [Form ADV Part 2A](/v1587737119/Form_ADV_Part_2A_-_Firm_Brochure_-_03.19.2020_finalized_lkcutq.pdf
     \"Form ADv Part 2A\") - [SEC Investment Adviser Public Disclosure](https://adviserinfo.sec.gov/Firm/119919)\n\nFinancial
     planning and investment management services offered through Navalign, LLC a Registered
     Investment Adviser.\n\nThe ideas and concepts presented through this website are

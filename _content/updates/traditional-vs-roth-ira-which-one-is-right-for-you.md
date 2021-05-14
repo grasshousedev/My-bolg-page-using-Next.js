@@ -5,7 +5,7 @@ categories:
 - Personal Finance
 - Saving
 date: "2019-12-20T17:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1576880509/jason-dent-AorB_cnfzye.png
+featured_image: /v1576880509/jason-dent-AorB_cnfzye.png
 hero_text: ""
 keywords:
 - Retirement

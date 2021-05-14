@@ -5,7 +5,7 @@ categories:
 - Marriage
 - Personal Finance
 date: "2020-01-23T05:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1579204049/kelli-mcclintock-wBgAVAGjzFg-unsplash_1_s5somw.jpg
+featured_image: /v1579204049/kelli-mcclintock-wBgAVAGjzFg-unsplash_1_s5somw.jpg
 hero_text: ""
 keywords:
 - Financial Planning

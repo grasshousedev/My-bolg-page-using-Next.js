@@ -1,7 +1,7 @@
 ---
 categories: []
 date: "2020-07-31T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1596229458/library-869061_1920_jkaxzj.jpg
+featured_image: /v1596229458/library-869061_1920_jkaxzj.jpg
 hero_text: ""
 keywords: []
 profile: []
@@ -28,9 +28,9 @@ It is also important to note that there are typically fees and expenses associat
 
 ## Mutual funds
 
-At one time, mutual funds were more widely used for college savings than 529 plans. Mutual funds do not impose any restrictions or penalties if you need to sell your shares before [your child is ready](https://navalign.com/updates/how-to-help-your-kids-become-money-masters/) for college. 
+At one time, mutual funds were more widely used for college savings than 529 plans. Mutual funds do not impose any restrictions or penalties if you need to sell your shares before [your child is ready](https://navalign.com/updates/how-to-help-your-kids-become-money-masters/) for college.
 
-Mutual funds also let you maintain more control over your investment decisions. For example, you can choose from a wide range of funds, move money among a company's funds or from one family of funds to another, and make other decisions as you see fit. By contrast, you can't choose your investments with a prepaid tuition plan. 
+Mutual funds also let you maintain more control over your investment decisions. For example, you can choose from a wide range of funds, move money among a company's funds or from one family of funds to another, and make other decisions as you see fit. By contrast, you can't choose your investments with a prepaid tuition plan.
 
 With a college savings plan, you may be able to choose your investment portfolio at the time you join the plan, but your ability to make subsequent investment changes is limited. Some plans may let you direct future contributions to a new investment portfolio, but it may be more difficult to redirect your existing contributions. However, states have the discretion to allow you to change the investment option for your existing contributions once per calendar year or when you change the beneficiary. Check the rules of your plan for more details.
 

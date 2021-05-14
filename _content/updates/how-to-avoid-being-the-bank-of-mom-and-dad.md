@@ -3,7 +3,7 @@ categories:
 - Family
 - Personal Finance
 date: "2019-06-24T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1561412072/adult%20children%20step-brothers.jpg
+featured_image: /v1561412072/adult%20children%20step-brothers.jpg
 hero_text: ""
 keywords:
 - Family

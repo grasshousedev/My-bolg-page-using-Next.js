@@ -4,7 +4,7 @@ categories:
 - personal finance
 - family
 date: "2020-06-23T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1592942563/sai-de-silva-YLMs82LF6FY-unsplash_xkeqc0.jpg
+featured_image: /v1592942563/sai-de-silva-YLMs82LF6FY-unsplash_xkeqc0.jpg
 hero_text: ""
 keywords:
 - financial planning

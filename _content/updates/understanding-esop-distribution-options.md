@@ -2,7 +2,7 @@
 categories:
 - Retirement
 date: "2019-05-02T13:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1556678960/mari-helin-38313-unsplash.jpg
+featured_image: /v1556678960/mari-helin-38313-unsplash.jpg
 hero_text: ""
 keywords:
 - Retirement

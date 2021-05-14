@@ -1,14 +1,14 @@
 ---
 categories: []
 date: "2019-01-01T16:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1588430464/eMoney_Dashboard_fhfjsb.png
+featured_image: /v1588430464/eMoney_Dashboard_fhfjsb.png
 hero_text: ""
 keywords: []
 profile: []
 tags: []
 title: eMoney - Privacy and Security
 ---
-## Your eMoney client website employs advanced security features and protocols to keep your data safe, private, and secure at every hour of every day, year round. 
+## Your eMoney client website employs advanced security features and protocols to keep your data safe, private, and secure at every hour of every day, year round.
 
 ### Our comprehensive security measures include password protection, Secure Socket Layer encryption, firewalls, intrusion detection, audits, inspections, and more. With each measure in place, you can be confident that your important information is safe and secure.
 

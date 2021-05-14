@@ -4,7 +4,7 @@ categories:
 - news
 - economy
 date: "2019-07-17T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1564092801/egg%20hammer%202.jpg
+featured_image: /v1564092801/egg%20hammer%202.jpg
 hero_text: ""
 keywords:
 - market commentary

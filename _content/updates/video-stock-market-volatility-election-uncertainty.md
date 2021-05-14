@@ -4,7 +4,7 @@ categories:
 - podcast
 - investing
 date: "2020-10-05T17:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1601996850/EP_9_Cover_rmkras.png
+featured_image: /v1601996850/EP_9_Cover_rmkras.png
 hero_text: EP9// THE SMART MONEY SHOW
 keywords:
 - personal finance

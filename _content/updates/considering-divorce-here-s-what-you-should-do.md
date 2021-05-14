@@ -1,14 +1,14 @@
 ---
 categories: []
 date: "2020-05-22T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1590155817/jackson-simmer-Vqg809B-SrE-unsplash_mmwpu8.jpg
+featured_image: /v1590155817/jackson-simmer-Vqg809B-SrE-unsplash_mmwpu8.jpg
 hero_text: ""
 keywords: []
 profile: []
 tags: []
 title: Considering a Divorce? Here's What You Should Do Next
 ---
-### If absence makes the heart grow fonder, the opposite might also be true. Many couples have had an overabundance of quality time due to the restrictions of Coronavirus. 
+### If absence makes the heart grow fonder, the opposite might also be true. Many couples have had an overabundance of quality time due to the restrictions of Coronavirus.
 
 While this time spent together has been great for some, it has pushed others overboard. In fact, many people are considering divorce. In China, [divorce rates are skyrocketing](http://www.yueyang.gov.cn/mlzfw/28966/28968/28974/content_1668797.html) in the wake of the Coronavirus pandemic, and we are starting to see the same trend in America.
 

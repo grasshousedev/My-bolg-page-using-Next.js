@@ -2,7 +2,7 @@
 categories:
 - Personal Finance
 date: "2019-07-25T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1564153219/funny%20couple%20cosign%20loan.jpg
+featured_image: /v1564153219/funny%20couple%20cosign%20loan.jpg
 hero_text: ""
 keywords:
 - Personal Finance
@@ -32,7 +32,7 @@ So what should you do if you’re asked to co-sign? Consider it wisely, and star
 
 5\. A co-signer must maintain an open and honest relationship with the original borrower. The co-signer will need to stay on top of payments made to manage both the relationship and personal finances.
 
-## What’s the alternative if your policy is to just say “no”? 
+## What’s the alternative if your policy is to just say “no”?
 
 Here’s a suggestion. Since a person who wants to take out the loan trusts those asked to co-sign, consider paying for the item outright. Especially in the case of children, a spouse, or a close family member. Taking this step may reduce the possible negative consequences for everyone concerned since in this case the co-signer would otherwise be the primary borrower in full control of making payments.
 

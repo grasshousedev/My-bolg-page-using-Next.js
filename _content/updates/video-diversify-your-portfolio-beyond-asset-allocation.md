@@ -5,7 +5,7 @@ categories:
 - investing
 - personal finance
 date: "2020-08-19T07:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1597949259/EP_8_Cover_tkiezh.png
+featured_image: /v1597949259/EP_8_Cover_tkiezh.png
 hero_text: EP8// THE SMART MONEY SHOW
 keywords:
 - video

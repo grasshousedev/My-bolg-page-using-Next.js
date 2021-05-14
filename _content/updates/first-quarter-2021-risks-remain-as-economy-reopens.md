@@ -6,7 +6,7 @@ categories:
 - Personal Finance
 - News
 date: "2021-04-19T15:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1619474539/walk-5118812_640_opopdh.jpg
+featured_image: /v1619474539/walk-5118812_640_opopdh.jpg
 hero_text: ""
 keywords:
 - Economy

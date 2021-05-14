@@ -1,7 +1,7 @@
 ---
 categories: []
 date: "2020-04-17T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1587144168/apartment-architecture-blue-sky-building-358636_cp2vge.jpg
+featured_image: /v1587144168/apartment-architecture-blue-sky-building-358636_cp2vge.jpg
 hero_text: ""
 keywords: []
 profile: []
@@ -14,10 +14,10 @@ When you refinance your mortgage, you take out a new home loan and use some or a
 
 ## Why refinance your mortgage?
 
-There are a variety of reasons why you may want to consider refinancing your mortgage, such as:  
- • Lowering your monthly mortgage payment by refinancing to a lower interest rate   
- • Shortening the length of your loan (e.g., from a 30-year mortgage to a 15-year mortgage) to potentially reduce interest charges over time   
- • Accessing extra cash through a cash-out refinancing to pay for home improvements, pay for college, or consolidate debt   
+There are a variety of reasons why you may want to consider refinancing your mortgage, such as:
+ • Lowering your monthly mortgage payment by refinancing to a lower interest rate
+ • Shortening the length of your loan (e.g., from a 30-year mortgage to a 15-year mortgage) to potentially reduce interest charges over time
+ • Accessing extra cash through a cash-out refinancing to pay for home improvements, pay for college, or consolidate debt
  • Refinancing your adjustable-rate mortgage (ARM) to a fixed-rate mortgage or a new ARM with better terms
 
 ## When should you refinance?
@@ -40,15 +40,15 @@ There are also disadvantages to cash-out refinancing. With a cash-out refinancin
 
 ## The costs associated with refinancing
 
-While refinancing can often save you money over the life of your mortgage loan, these savings can come at a price. Typically, you'll need to pay an assortment of up-front fees, including points and closing costs. However, some lenders offer "no points, no closing costs" refinancing, which rolls the costs into your overall loan balance or charge a higher interest rate. Typical closing costs include:  
- • Application fee   
- • Appraisal fee   
- • [Credit report](https://navalign.com/updates/credit-report-versus-credit-score-which-tells-me-more/) fee  
- • Attorney/legal fees   
- • Loan origination fee   
- • Survey costs   
- • Taxes   
- • Title search   
+While refinancing can often save you money over the life of your mortgage loan, these savings can come at a price. Typically, you'll need to pay an assortment of up-front fees, including points and closing costs. However, some lenders offer "no points, no closing costs" refinancing, which rolls the costs into your overall loan balance or charge a higher interest rate. Typical closing costs include:
+ • Application fee
+ • Appraisal fee
+ • [Credit report](https://navalign.com/updates/credit-report-versus-credit-score-which-tells-me-more/) fee
+ • Attorney/legal fees
+ • Loan origination fee
+ • Survey costs
+ • Taxes
+ • Title search
  • Title insurance
 
 ## Are there any tax advantages with refinancing?

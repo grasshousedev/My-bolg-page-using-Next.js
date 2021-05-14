@@ -5,7 +5,7 @@ categories:
 - Video
 - Podcast
 date: "2020-02-29T16:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1583086028/wuhan-coronavirus_fxnawm.jpg
+featured_image: /v1583086028/wuhan-coronavirus_fxnawm.jpg
 hero_text: EP1// THE SMART MONEY SHOW
 keywords:
 - News

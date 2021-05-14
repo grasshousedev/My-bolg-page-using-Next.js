@@ -21,9 +21,11 @@ title: '2018 in Review: Worst Year Since Great Recession'
 ---
 From a return perspective, 2018 could largely be considered the year that wasn’t. Despite a few half-hearted rallies leading into the closing day, global financial markets ended December with the worst annual returns since the financial crisis. Larger-cap U.S. stocks fell nearly 14% in the fourth quarter, wiping out year-to-date gains and ending down 4.5%. Smaller-cap stocks fared worse, falling 20% in the quarter and 11% for the year. Foreign stocks suffered through most of the year, with mid-double-digit year-end losses for both developed and emerging-market stocks (despite their relative outperformance versus U.S. stocks in the fourth quarter).
 
+<FeaturedContent>
 In addition to the equity market declines, what stands out about 2018 is the breadth of negative returns across almost every type of asset class and financial market, whether bonds, equities, or commodities. Even core investment-grade bonds were in the red. It was extremely difficult to make money in the financial markets last year.
 
 The lackluster performance of so many asset classes, culminating with the fourth quarter’s dramatic U.S. equity decline, is largely due to the uncertainty that prevailed throughout much of 2018. As the year wore on, early positive market indicators such as still-solid U.S. economic growth and declining unemployment numbers were swamped by investors’ fears surrounding ongoing U.S.-China trade tensions, political uncertainties in Europe, and continued Fed tightening, among others.
+</FeaturedContent>
 
 It was a challenging year for our portfolios, driven by sharp declines in international and emerging stock markets. In absolute terms, most investments were negative for the year. However, several of our actively managed bond funds and floating-rate loan funds posted positive returns. Our fourth quarter portfolio performance also demonstrated the risk-management and diversification benefits of our lower-risk alternative strategies as they outperformed U.S. stocks.
 

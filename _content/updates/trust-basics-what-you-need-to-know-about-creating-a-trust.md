@@ -1,14 +1,14 @@
 ---
 categories: []
 date: "2020-06-05T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1591365936/Trust_photo_esakyl.jpg
+featured_image: /v1591365936/Trust_photo_esakyl.jpg
 hero_text: ""
 keywords: []
 profile: []
 tags: []
 title: 'Trust Basics: What You Need to Know About Creating a Trust'
 ---
-### Whether you're seeking to manage your assets, control how your assets are distributed after your death, or plan for incapacity, trusts can help you accomplish your estate [planning goals](https://wealth.emaplan.com/ema/LeadGen/Welcome/560319dc-03cb-46ea-a71f-51406621ae83?ema/ria/1080financial). The power of a trust is in its versatility--many types of trusts exist, each designed for a specific purpose. 
+### Whether you're seeking to manage your assets, control how your assets are distributed after your death, or plan for incapacity, trusts can help you accomplish your estate [planning goals](https://wealth.emaplan.com/ema/LeadGen/Welcome/560319dc-03cb-46ea-a71f-51406621ae83?ema/ria/1080financial). The power of a trust is in its versatility--many types of trusts exist, each designed for a specific purpose.
 
 Although trust law is complex and establishing a trust requires the services of an experienced attorney, mastering the basics isn't hard.
 

@@ -2,7 +2,7 @@
 categories:
 - Financial Planning
 date: "2020-03-13T04:00:00+00:00"
-featured_image: https://res.cloudinary.com/navalign/image/upload/v1584108631/melting-dollar-bill-money-drips_itubmy.jpg
+featured_image: /v1584108631/melting-dollar-bill-money-drips_itubmy.jpg
 hero_text: ""
 keywords:
 - Financial Planning
@@ -12,7 +12,7 @@ tags:
 - Financial Planning
 title: The Curious Case of Good Debt vs. Bad Debt
 ---
-### You may have been told that there is a difference between good and bad debt. Depending on your [money philosophy](https://navalign.com/updates/what-s-your-money-personality/), you may think that all debt is bad debt or that some debt is normal. 
+### You may have been told that there is a difference between good and bad debt. Depending on your [money philosophy](https://navalign.com/updates/what-s-your-money-personality/), you may think that all debt is bad debt or that some debt is normal.
 
 The truth is, you are typically paying a lot of interest regardless of your debts, but some are worse than others. To better understand if there is a difference between good and bad debt, here's what you need to know.
 
