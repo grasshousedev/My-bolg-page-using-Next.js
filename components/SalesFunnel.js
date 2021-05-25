@@ -10,13 +10,13 @@ function SalesFunnel({funnel,def,setCurrent}) {
   const setShow = () => {
     setCurrent(funnel)
     setOpen(true)
-    console.log(def,open)
+    //console.log(def,open)
   }
 
 
 
   useEffect(() => {
-    console.log(def)
+    //console.log(def)
     if(!def){
       setOpen(false)
     }else{

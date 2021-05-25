@@ -27,7 +27,7 @@ export default function Notification(props) {
   const [open, setOpen] = useState(true);
   const { note } = props
 
-  console.log(note)
+  //console.log(note)
   closeNote = () => {
     setOpen(false)
   }

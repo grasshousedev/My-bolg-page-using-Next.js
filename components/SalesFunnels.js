@@ -111,7 +111,7 @@ function SalesFunnels(props) {
   const showPages = () => {
 
   }
-  console.log(current)
+  //console.log(current)
   return (
     <div>
       <p className="text-bold font-size-lg text-center mb-4">Let’s get started by finding the services best suited to your individual needs.</p>

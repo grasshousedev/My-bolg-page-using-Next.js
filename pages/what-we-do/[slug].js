@@ -32,7 +32,7 @@ export default function PostPage({ source, data, heroSource, blocks }) {
 function getContentBlocks(blocks){
   const renderedBlocks = []
   blocks.map(block => {
-    // console.log(block)
+    // //console.log(block)
     const rb = {}
     rb.template = block.template
     switch(block.template){
@@ -64,9 +64,9 @@ export const getStaticProps = async (context) => {
 
   const pageSource = await serialize(content)
   const heroSource = await serialize(data.hero.hero_text)
-  // console.log(data.content_blocks)
+  // //console.log(data.content_blocks)
   const blocks = data.content_blocks ? getContentBlocks(data.content_blocks) : 'no blocks'
-  console.log(blocks)
+  //console.log(blocks)
 
 
   return {

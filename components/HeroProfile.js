@@ -14,7 +14,7 @@ shortcodes.h1 = (props) => {
 }
 
 export default function Hero(props) {
-  //console.log(props)
+  ////console.log(props)
   return (
     <div className="relative bg-white overflow-hidden">
       <div className="mt-0 mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative z-20">
