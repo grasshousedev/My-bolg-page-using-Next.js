@@ -119,7 +119,7 @@ export default function Example() {
               </div>
               {/* Menu Icon */}
               <div className="-mr-2 -my-2 lg:hidden">
-                <Popover.Button className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-white hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
+                <Popover.Button className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-600 hover:text-white hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
                   <span className="sr-only">Open menu</span>
                   <MenuIcon className="h-6 w-6" aria-hidden="true" />
                 </Popover.Button>
@@ -209,7 +209,7 @@ export default function Example() {
                                       href={item.href}
                                       className="-m-3 p-3 flex items-center rounded-md text-base font-medium text-brand-blue-light hover:bg-gray-100"
                                     >
-                                      <item.icon className="flex-shrink-0 h-6 w-6 text-gray-400" aria-hidden="true" />
+                                      <item.icon className="flex-shrink-0 h-6 w-6 text-gray-600" aria-hidden="true" />
                                       <span className="ml-3">{item.name}</span>
                                     </a>
                                   </div>
@@ -267,7 +267,7 @@ export default function Example() {
                       />
                     </div>
                     <div className="-mr-2">
-                      <Popover.Button className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-400 hover:text-white hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
+                      <Popover.Button className="bg-white rounded-md p-2 inline-flex items-center justify-center text-gray-600 hover:text-white hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-indigo-500">
                         <span className="sr-only">Close menu</span>
                         <XIcon className="h-6 w-6" aria-hidden="true" />
                       </Popover.Button>

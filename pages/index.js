@@ -1,5 +1,6 @@
 import fs from 'fs'
 import matter from 'gray-matter'
+import Head from 'next/head'
 import Link from 'next/link'
 import path from 'path'
 import { serialize } from 'next-mdx-remote/serialize'
@@ -12,12 +13,17 @@ import RecentPosts from '../components/blocks/RecentPosts'
 import { postFilePaths, POSTS_PATH } from '../utils/mdxSections'
 import note from '../_data/notification.json'
 import VideoBlock from '../components/blocks/VideoBlock'
+import {useSelector} from 'react-redux'
+import {wrapper, State} from '../redux/store';
 
 const PAGE_DIR = '/'
 
 export default function Index({posts,source,data,note,heroSource,heroVideo}) {
   return (
     <Layout note={note}>
+      <Head>
+        <title>{data.title}</title>
+      </Head>
       <Hero
         hero={data.hero}
         heroSource={heroSource}
@@ -32,7 +38,6 @@ export default function Index({posts,source,data,note,heroSource,heroVideo}) {
 }
 
 export async function getStaticProps(context){
-
   note.processed = await serialize(note.content)
 
   const { params } = context
@@ -67,16 +72,3 @@ export async function getStaticProps(context){
     },
   }
 }
-
-// export const getStaticPaths = async () => {
-//   const paths = postFilePaths
-//     // Remove file extensions for page paths
-//     .map((path) => path.replace(/\.(md|mdx)$/, ''))
-//     // Map the path into the static paths object required by Next.js
-//     .map((slug) => ({ params: { slug } }))
-
-//   return {
-//     paths,
-//     fallback: false,
-//   }
-// }

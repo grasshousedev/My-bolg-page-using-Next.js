@@ -3,7 +3,7 @@ import { SpeakerphoneIcon, XIcon } from '@heroicons/react/outline'
 import ButtonLink from '../components/basic/ButtonLink'
 import shortcodes from '../utils/shortcodes'
 import ReactMarkdown from 'react-markdown'
-
+import {useSelector,useDispatch} from 'react-redux'
 
 function getNoteStyles(note){
   switch(note.type){
@@ -24,15 +24,18 @@ function closeNote(){
 }
 
 export default function Notification(props) {
-  const [open, setOpen] = useState(true);
+  const dispatch = useDispatch()
+  const state = useSelector(state => state);
+  console.log(state)
+  const DISMISSED = state.notification.dismissed
   const { note } = props
 
   //console.log(note)
   closeNote = () => {
-    setOpen(false)
+    dispatch({ type: 'DISMISS_NOTE' })
   }
-  return note ? (
-    <div className={`${getNoteStyles(note)}`}style={{display: open ? 'block' : 'none'}}>
+  return note && !DISMISSED ? (
+    <div className={`${getNoteStyles(note)}`}style={{display: !DISMISSED ? 'block' : 'none'}}>
       <div className="max-w-7xl mx-auto py-3 px-3 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between flex-wrap">
           <div className="w-0 flex-1 flex items-center">
@@ -63,3 +66,9 @@ export default function Notification(props) {
     </div>
   ) : ''
 }
+
+// export function mapStateToProps(state) {
+//   console.log(state)
+//   return {
+//   }
+// }

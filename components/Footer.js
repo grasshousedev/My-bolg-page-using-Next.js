@@ -72,7 +72,7 @@ export default function Example() {
           Encino, CA 91436
           </div>
           {navigation.social.map((item) => (
-            <a key={item.name} href={item.href} className="text-gray-400 hover:text-gray-500">
+            <a key={item.name} href={item.href} className="text-gray-600 hover:text-gray-500">
               <span className="sr-only">{item.name}</span>
               <item.icon className="h-6 w-6" aria-hidden="true" />
             </a>
@@ -87,7 +87,7 @@ export default function Example() {
             </div>
           ))}
         </nav>
-        <p className="mt-8 text-center text-base text-gray-400">Financial planning and investment management services offered through Navalign, LLC a Registered Investment Adviser.<br/>
+        <p className="mt-8 text-center text-base text-gray-600">Financial planning and investment management services offered through Navalign, LLC a Registered Investment Adviser.<br/>
         &copy;2019 Navalign, LLC | Disclosures | Form CRS | Privacy Policy | TD Advisor Client Login | Portfolio Tracker Login</p>
       </div>
     </footer>
