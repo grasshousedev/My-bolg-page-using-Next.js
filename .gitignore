@@ -38,3 +38,5 @@ build
 .build
 # Local Netlify folder
 .netlify
+
+functions
