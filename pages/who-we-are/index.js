@@ -53,9 +53,9 @@ export default function Index({posts,source,data,note,heroSource,pagePath}) {
                       {title}
                       <small className="block font-normal">{degrees}</small>
                     </h3>
-                    <p className="text-indigo-600">{position}</p>
+                    <p className="text-brand-secondary">{position}</p>
                   </div>
-                  <ul className="flex space-x-5 list-none">
+                  {/* <ul className="flex space-x-5 list-none">
                     <li className="list-none">
                       <a href={twitter} className="text-gray-400 hover:text-gray-500">
                         <span className="sr-only">Twitter</span>
@@ -76,7 +76,7 @@ export default function Index({posts,source,data,note,heroSource,pagePath}) {
                         </svg>
                       </a>
                     </li>
-                  </ul>
+                  </ul> */}
                 </div>
               </div>
             </li> : ''

@@ -1,8 +1,8 @@
 import { useState } from 'react';
-import { MDXRemote,MDXContent } from 'next-mdx-remote'
 import { SpeakerphoneIcon, XIcon } from '@heroicons/react/outline'
 import ButtonLink from '../components/basic/ButtonLink'
 import shortcodes from '../utils/shortcodes'
+import ReactMarkdown from 'react-markdown'
 
 
 function getNoteStyles(note){
@@ -26,6 +26,8 @@ function closeNote(){
 export default function Notification(props) {
   const [open, setOpen] = useState(true);
   const { note } = props
+
+  console.log(note)
   closeNote = () => {
     setOpen(false)
   }
@@ -38,7 +40,8 @@ export default function Notification(props) {
               <SpeakerphoneIcon className="h-6 w-6 text-white" aria-hidden="true" />
             </span>
             <span className="pl-2">
-              <MDXRemote {...note.processed} components={shortcodes}/>
+              <ReactMarkdown children={note.content}/>
+              {/* <MDXRemote {...note.processed} components={shortcodes}/> */}
             </span>
           </div>
           <div className="order-3 pl-4mt-2 flex-shrink-0 w-full sm:order-2 sm:mt-0 sm:w-auto">

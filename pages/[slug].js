@@ -16,7 +16,7 @@ const PAGE_DIR = '/'
 
 export default function PostPage({ source, data, heroSource }) {
   return (
-    <Layout>
+    <Layout note={note}>
       <Hero
         title={data.title}
         hero={data.hero}

@@ -3,9 +3,7 @@ aliases: []
 categories: []
 content_blocks:
 - block_text: |-
-    You work hard, show up to early call times, and deal with uncertain cash flow between projects. Wouldn’t it be great to have a team of financial experts on your side to understand the complexities of investing and financial planning for creative professionals.
 
-    We're here to help you build wealth and navigate financial decisions that are aligned with your life goals. The key is planning around an industry with constant volatility. We’d like to show you how you can benefit from our extensive experience of working with talented individuals in the entertainment industry.
   template: block-1
 date: "2019-03-02T08:00:00+00:00"
 featured_image: /v1546980898/icon-entertainment.svg
@@ -42,3 +40,7 @@ tags:
 - Entertainers
 title: Entertainment
 ---
+You work hard, show up to early call times, and deal with uncertain cash flow between projects. Wouldn’t it be great to have a team of financial experts on your side to understand the complexities of investing and financial planning for creative professionals.
+
+We're here to help you build wealth and navigate financial decisions that are aligned with your life goals. The key is planning around an industry with constant volatility. We’d like to show you how you can benefit from our extensive experience of working with talented individuals in the entertainment industry.
+

@@ -11,6 +11,7 @@ import ImageBlock from '../components/blocks/ImageBlock'
 import RecentPosts from '../components/blocks/RecentPosts'
 import { postFilePaths, POSTS_PATH } from '../utils/mdxSections'
 import note from '../_data/notification.json'
+import VideoBlock from '../components/blocks/VideoBlock'
 
 const PAGE_DIR = '/'
 
@@ -21,10 +22,11 @@ export default function Index({posts,source,data,note,heroSource,heroVideo}) {
         hero={data.hero}
         heroSource={heroSource}
         video={data.video}/>
+      <VideoBlock video={data.video}/>
       <LogoBlock/>
       <IconBlock/>
       <ImageBlock/>
-      <RecentPosts/>
+      <RecentPosts posts={posts}/>
     </Layout>
   )
 }
@@ -36,8 +38,9 @@ export async function getStaticProps(context){
   const { params } = context
 
   // Get Posts
-  const posts = postFilePaths(PAGE_DIR).map((filePath) => {
-    const source = fs.readFileSync(path.join(`${POSTS_PATH}`, filePath))
+  const posts = postFilePaths(`${PAGE_DIR}/updates/`).map((filePath) => {
+    console.log(`${POSTS_PATH}/updates/${filePath}`)
+    const source = fs.readFileSync(path.join(`${POSTS_PATH}/updates/`, filePath))
     const { content, data } = matter(source)
     return {
       content,

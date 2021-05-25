@@ -17,7 +17,7 @@ export default function Hero(props) {
   //console.log(props)
   return (
     <div className="relative bg-white overflow-hidden">
-      <div class="mt-0 mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative z-20">
+      <div className="mt-0 mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative z-20">
         <div className="relative z-10 py-8 bg-white sm:pb-16 md:pb-20 lg:max-w-md lg:w-full lg:pb-28 xl:max-w-2xl xl:pb-32">
           <svg
             className="hidden lg:block absolute right-3/4 inset-y-0 text-white transform w-full h-auto translate-x-full"
@@ -43,7 +43,7 @@ export default function Hero(props) {
           alt={props.hero.hero_alt}
           width={800}
           height={800}
-          className="block w-full object-cover max-h-lg xl:max-h-hero"
+          className="block w-full object-cover object-top max-h-lg xl:max-h-hero"
           transform="/w_800,h_650,c_fill,g_auto"
           layout="responsive"
         />

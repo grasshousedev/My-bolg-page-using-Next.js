@@ -70,7 +70,7 @@ hero:
   hero_text: |-
     # As a fiduciary, you are accountable for the retirement plan you provide to employees. That’s a serious responsibility. So shouldn’t the advisors you trust with your retirement plan be a fiduciary too?
 
-    <h2 class="h6">We believe they should. Successful benefit programs are designed to align with business goals and provide incentives for owners and employees. Our team of fiduciary retirement plan experts can help you provide the right type of retirement plan for your business, saving you time and money.</h2>
+    <h2 className="h6">We believe they should. Successful benefit programs are designed to align with business goals and provide incentives for owners and employees. Our team of fiduciary retirement plan experts can help you provide the right type of retirement plan for your business, saving you time and money.</h2>
   show_hero: true
   show_join_the_team_button: false
   show_meeting_button: true

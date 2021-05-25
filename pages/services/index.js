@@ -14,7 +14,7 @@ import Pagination from '../../components/basic/Pagination'
 import note from '../../_data/notification.json'
 import shortcodes from '../../utils/shortcodes'
 
-const PAGE_DIR = '/updates/'
+const PAGE_DIR = '/services/'
 export default function Index({posts,source,data,note,heroSource}) {
   const [currentPage, setCurrentPage] = useState(0);
   const [pages, setPages] = useState([]);

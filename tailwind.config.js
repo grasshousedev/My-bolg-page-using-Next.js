@@ -16,13 +16,31 @@ module.exports = {
       blue: colors.blue,
       'brand-blue': '#0f5388',
       'brand-blue-light': '#CCEBFF',
-      'brand-secondary': '#519ED6',
+      'brand-secondary': '#2B7CB6',
      },
      maxHeight: {
        'hero': '700px',
      },
-      extend: {
+     extend: {
+      fontFamily: {
+        'sans': ['Barlow', 'Helvetica', 'Arial', 'sans-serif']
       },
+      typography: (theme) => ({
+        DEFAULT: {
+          css: {
+            a: {
+              color: theme('colors.brand-secondary'),
+              '&:hover': {
+                color: theme('colors.brand-blue'),
+              },
+            },
+            h1: {
+              color: theme('colors.brand-blue'),
+            }
+          },
+        },
+      }),
+     },
   },
   variants: {
     extend: {},
@@ -32,5 +50,3 @@ module.exports = {
     // ...
   ],
 }
-// darkblue #0f5388
-// lightblue #CCEBFF

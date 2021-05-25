@@ -13,27 +13,28 @@ import { postFilePaths, POSTS_PATH } from '../../utils/mdxSections'
 import shortcodes from '../../utils/shortcodes'
 import ShareButtons from '../../components/ShareButtons'
 import ContactBlock from '../../components/ContactBlock'
-
+import note from '../../_data/notification.json'
 const PAGE_DIR = '/who-we-are/'
 
 export default function PostPage({ url, source, heroSource, data }) {
   return (
-    <Layout>
+    <Layout note={note}>
       <HeroProfile hero={data.hero}>
-        <main className="prose prose-blue relative z-20">
+        <main className="prose relative z-20">
           <article>
-            <header>
-              <h1>{data.title}</h1>
-              { data.hero.hero_text ? <div className="prose prose-blue prose-xl">
+            <header className="text-center">
+              <h1 className="text-brand-blue">{data.title}</h1>
+              { data.hero.hero_text ? <div className="prose-xl">
                 <ReactMarkdown children={data.hero.hero_text}/>
               </div> : ''}
               <ContactBlock
                 email={data.email}
                 phone={data.phone}
-                linkedIn={data.linkedin}
+                linkedin={data.linked_in}
                 facebook={data.facebook}
                 twitter={data.twitter}
                 address={data.address}
+                name={data.title}
               />
             </header>
             <div className="">

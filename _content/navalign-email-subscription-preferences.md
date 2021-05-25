@@ -106,7 +106,7 @@ A
      @media all and (min-width:320px) and (max-width:667px) { #_form_3_._inline-form._inline-style ._inline-style._button-wrapper { margin-top:20px !important; margin-left:0 !important; }
      }
     </style>
-    <form method="POST" action="https://navalign.activehosted.com/proc.php" id="_form_3_" class="_form _form_3 _inline-form  _dark" novalidate>
+    <form method="POST" action="https://navalign.activehosted.com/proc.php" id="_form_3_" className="_form _form_3 _inline-form  _dark" novalidate>
       <input type="hidden" name="u" value="3" />
       <input type="hidden" name="f" value="3" />
       <input type="hidden" name="s" />
@@ -114,61 +114,61 @@ A
       <input type="hidden" name="m" value="0" />
       <input type="hidden" name="act" value="sub" />
       <input type="hidden" name="v" value="2" />
-      <div class="_form-content">
-        <div class="_form_element _x16010847 _full_width _clear" >
-          <div class="_form-title">
+      <div className="_form-content">
+        <div className="_form_element _x16010847 _full_width _clear" >
+          <div className="_form-title">
             Update Your Email Preferences
           </div>
         </div>
-        <div class="_form_element _x49347695 _full_width " >
+        <div className="_form_element _x49347695 _full_width " >
           <input type="hidden" name="ls" value="1" />
-          <label class="_form-label">
+          <label className="_form-label">
             Please continue to send me the following communications:
           </label>
-          <div class="_row">
+          <div className="_row">
             <input type="checkbox" value="2" name="nlbox[]" >
             <span>
               Navalign - Important Client Emails
             </span>
           </div>
-          <div class="_row">
+          <div className="_row">
             <input type="checkbox" value="11" name="nlbox[]" >
             <span>
               Navalign - eMoney Client Website Emails
             </span>
           </div>
-          <div class="_row">
+          <div className="_row">
             <input type="checkbox" value="12" name="nlbox[]" >
             <span>
               Navalign - Client Onboarding Emails
             </span>
           </div>
         </div>
-        <div class="_form_element _x68893230 _full_width " >
-          <label class="_form-label">
+        <div className="_form_element _x68893230 _full_width " >
+          <label className="_form-label">
             Full Name
           </label>
-          <div class="_field-wrapper">
+          <div className="_field-wrapper">
             <input type="text" name="fullname" placeholder="Type your name" />
           </div>
         </div>
-        <div class="_form_element _x70211847 _full_width " >
-          <label class="_form-label">
+        <div className="_form_element _x70211847 _full_width " >
+          <label className="_form-label">
             Email*
           </label>
-          <div class="_field-wrapper">
+          <div className="_field-wrapper">
             <input type="text" name="email" placeholder="Type your email" required/>
           </div>
         </div>
-        <div class="_button-wrapper _full_width">
-          <button id="_form_3_submit" class="_submit" type="submit">
+        <div className="_button-wrapper _full_width">
+          <button id="_form_3_submit" className="_submit" type="submit">
             Submit
           </button>
         </div>
-        <div class="_clear-element">
+        <div className="_clear-element">
         </div>
       </div>
-      <div class="_form-thank-you" style="display:none;">
+      <div className="_form-thank-you" style="display:none;">
       </div>
     </form><script type="text/javascript">
     window.cfields = [];
@@ -242,13 +242,13 @@ A
       var _removed = false;
       var form_to_submit = document.getElementById('_form_3_');
       var allInputs = form_to_submit.querySelectorAll('input, select, textarea'), tooltips = [], submitted = false;
-    
+
       var getUrlParam = function(name) {
         var regexStr = '[\?&]' + name + '=([^&#]*)';
         var results = new RegExp(regexStr, 'i').exec(window.location.href);
         return results != undefined ? decodeURIComponent(results[1]) : false;
       };
-    
+
       for (var i = 0; i < allInputs.length; i++) {
         var regexStr = "field\\[(\\d+)\\]";
         var results = new RegExp(regexStr).exec(allInputs[i].name);
@@ -258,7 +258,7 @@ A
           allInputs[i].dataset.name = allInputs[i].name;
         }
         var fieldVal = getUrlParam(allInputs[i].dataset.name);
-    
+
         if (fieldVal) {
           if (allInputs[i].dataset.autofill === "false") {
             continue;
@@ -272,7 +272,7 @@ A
           }
         }
       }
-    
+
       var remove_tooltips = function() {
         for (var i = 0; i < tooltips.length; i++) {
           tooltips[i].tip.parentNode.removeChild(tooltips[i].tip);
@@ -482,5 +482,5 @@ A
       };
       addEvent(form_to_submit, 'submit', form_submit);
     })();
-    
+
     </script>

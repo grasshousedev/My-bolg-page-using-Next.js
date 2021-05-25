@@ -79,7 +79,9 @@ hero:
   hero_text: |-
     # We spent years managing investments so large firms could grow and prosper. Then we built a firm so you can do the same.
 
-    <h2 class="h6">Navalign is an independent financial company built from the ground up, with a focus on helping you navigate financial decisions that are aligned with your best interest. This holistic approach, combined with transparency and fiduciary ethics, creates the optimal base for your prosperity and financial peace of mind.</h2>
+    <h2 className="h6">Navalign is an independent financial company built from the ground up, with a focus on helping you navigate financial decisions that are aligned with your best interest. This holistic approach, combined with transparency and fiduciary ethics, creates the optimal base for your prosperity and financial peace of mind.</h2>
+
+    <HeroButtons/>
   show_hero: true
   show_join_the_team_button: true
   show_meeting_button: true
@@ -102,5 +104,5 @@ tags:
 - Wealth Management
 title: Home
 type: page
-video: 321661879
+video: '321661879'
 ---

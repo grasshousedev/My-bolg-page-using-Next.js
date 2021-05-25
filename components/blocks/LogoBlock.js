@@ -2,7 +2,7 @@
 export default function LogoBlock() {
   return (
     <div className="bg-brand-blue-light">
-    <div className="max-w-7xl mx-auto py-16 px-4 sm:py-20 sm:px-6 lg:px-8">
+    <div className="max-w-7xl mx-auto py-16 px-4 sm:py-20 sm:px-6 lg:px-8 text-center">
       <h2 className="text-3xl font-extrabold text-brand-blue">
         We work hard to do right by our clients. Apparently when you do, word gets out.
       </h2>

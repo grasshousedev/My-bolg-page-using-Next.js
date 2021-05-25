@@ -138,7 +138,7 @@ hero:
   hero_text: |-
     # Successful investing is about more than gains and losses; over the long term it encompasses everything from your values and your goals to your legacy.
 
-    <h2 class="h6">We believe your investment plan should align with your personal values and objectives. That’s why our fiduciary investment approach ensures that your best interest always comes first.</h2>
+    <h2 className="h6">We believe your investment plan should align with your personal values and objectives. That’s why our fiduciary investment approach ensures that your best interest always comes first.</h2>
   show_hero: true
   show_join_the_team_button: false
   show_meeting_button: true

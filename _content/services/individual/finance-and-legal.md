@@ -3,7 +3,7 @@ content_blocks:
 - block_text: <p>You track billable hours, show up for depositions, and deal with
     opposing counsel. We believe you deserve a team of financial experts who understand
     the complexities of investing and financial planning for legal practitioners like
-    you.</p><p class="Body">Let us help you build wealth and navigate financial decisions
+    you.</p><p className="Body">Let us help you build wealth and navigate financial decisions
     aligned with your life goals. We’d like to show you how you can benefit from our
     extensive experience working with attorneys and legal professionals across all
     types of practices.</p>

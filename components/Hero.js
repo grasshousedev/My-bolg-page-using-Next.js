@@ -18,7 +18,7 @@ export default function Hero(props) {
   return (
     <div className="relative bg-white overflow-hidden">
       <div className="max-w-7xl mx-auto">
-        <div className="relative z-10 py-8 bg-white sm:pb-16 md:pb-20 lg:max-w-2xl lg:w-full lg:pb-28 xl:pb-32">
+        <div className="relative z-10 pt-8 bg-white sm:pb-8 md:pb-8 lg:max-w-2xl lg:w-full">
           <svg
             className="hidden lg:block absolute -right-0 inset-y-0 w-48 text-white transform translate-x-1/2"
             height={700}
@@ -32,16 +32,11 @@ export default function Hero(props) {
           { props.heroSource ?
           (
           <div className="mt-0 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28 relative z-20">
-            <div className="sm:text-center lg:text-left">
+            <div className="sm:text-center">
               <h1>{props.title}</h1>
               <MDXRemote {...props.heroSource} components={shortcodes}/>
-              <HeroButtons/>
             </div>
           </div>) : props.children }
-          { props.video ?
-          <div className="mt-0 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28 relative z-20">
-            {/* <Vimeo video_id={props.video}/> */}
-          </div> : ''}
         </div>
       </div>
       <div className="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2 max-h-96">
@@ -50,8 +45,8 @@ export default function Hero(props) {
           alt={props.hero.hero_alt}
           width={608}
           height={510}
-          className="block w-full h-full object-cover max-h-hero"
-          transform="/w_608,h_510,c_fill,g_auto"
+          className="block w-full h-full object-cover max-h-hero object-top"
+          transform="/w_1400,h_1200,c_fill,g_auto"
           layout="responsive"
         />
       </div>

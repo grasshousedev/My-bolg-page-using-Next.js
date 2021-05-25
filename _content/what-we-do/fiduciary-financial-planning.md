@@ -37,7 +37,7 @@ content_blocks:
   text: |-
     ### **Financial Forecasting**
 
-    We think it’s important that you know the long-term impact of the many important financial decisions you are considering today. But how, there’s no crystal ball. Our team of Certified Financial Planner™professionals blend personalized service with smart technology to help organize your financial life and illustrate a clear path to achieving your goals. We’ll help you develop a plan so you know where you’re headed and the path to get there. We accomplish this by using: 
+    We think it’s important that you know the long-term impact of the many important financial decisions you are considering today. But how, there’s no crystal ball. Our team of Certified Financial Planner™professionals blend personalized service with smart technology to help organize your financial life and illustrate a clear path to achieving your goals. We’ll help you develop a plan so you know where you’re headed and the path to get there. We accomplish this by using:
 
     * Cash Flow Projections
     * Net Worth Tracking
@@ -51,7 +51,7 @@ content_blocks:
   text: |-
     ### **Investment Planning**
 
-    Asset allocation and modern portfolio theory are the foundation for a successful investment plan. Efficient portfolio design should reduce costs and utilize a diversified mix of investments across different asset classes. Our team of Chartered Financial Analyst® portfolio managers can help you develop a custom investment plan tailored to your financial goals. We have access to a myriad of investment options including: 
+    Asset allocation and modern portfolio theory are the foundation for a successful investment plan. Efficient portfolio design should reduce costs and utilize a diversified mix of investments across different asset classes. Our team of Chartered Financial Analyst® portfolio managers can help you develop a custom investment plan tailored to your financial goals. We have access to a myriad of investment options including:
 
     * Stocks
     * Bonds
@@ -67,7 +67,7 @@ content_blocks:
 
     No one should have to pay more than their fair share of taxes. And with tax laws constantly in flux, it’s becoming more difficult to plan ahead while taking them into account. That is why we collaborate with your CPA and team of trusted tax advisors to develop sound tax strategies that are in your best interest. Proactive tax planning will align current cash flow needs with long term financial goals to identify opportunities for deferring, reducing and mitigating certain tax liabilities. We help plan, using these and other methods, to align your best interest with the tax code:
 
-     
+
 
     * Retirement Savings Tax Strategies
     * Charitable Giving
@@ -95,7 +95,7 @@ content_blocks:
   text: |-
     ### **Risk Management**
 
-    We work with families and businesses across the country, so we’ve seen first-hand how important it is to protect your loved ones and all that you’ve worked hard to achieve. We can help you identify vulnerabilities, evaluate current coverage and compare options to mitigate risk. We make sure that your insurance decisions make the most sense for you and your financial goals. Your financial plan will consider some of these options: 
+    We work with families and businesses across the country, so we’ve seen first-hand how important it is to protect your loved ones and all that you’ve worked hard to achieve. We can help you identify vulnerabilities, evaluate current coverage and compare options to mitigate risk. We make sure that your insurance decisions make the most sense for you and your financial goals. Your financial plan will consider some of these options:
 
     * Property and Casualty Insurance
     * Term Life Insurance
@@ -147,7 +147,7 @@ hero:
   hero_text: |-
     # We believe financial planning is more than just numbers and investing. A financial plan should encompass your values, your goals, and your legacy.
 
-    <h2 class="h6">Personal finance should be, well, personal. And that’s why our comprehensive financial planning services are always tailored to your unique needs and focus on the human side of finance.</h2>
+    <h2 className="h6">Personal finance should be, well, personal. And that’s why our comprehensive financial planning services are always tailored to your unique needs and focus on the human side of finance.</h2>
   show_hero: true
   show_join_the_team_button: false
   show_meeting_button: true
@@ -173,3 +173,15 @@ tags:
 - Financial Planning
 title: Financial Planning
 ---
+Our team of award winning financial planners are experts in helping you prioritize your life goals to achieve the financial peace of mind you’re looking for. Unlike many other financial advisors, as a fiduciary financial planner, we succeed when you succeed.
+
+## Are you on track to achieve your financial goals?
+
+<a className="w-full max-w-sm flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white hover:text-brand-blue bg-brand-secondary hover:bg-brand-blue-light md:py-4 md:text-lg md:px-10" href="https://connect.emaplan.com/6p" target="_blank">Check Your Progress</a>
+
+1. Establish your financial goals and priorities
+1. Organize all aspects of your financial life
+1. Analyze your financial situation and resources
+1. Develop and discuss your financial recommendations
+1. Implement a plan of action to achieve your goals
+1. Review your progress and adjust your plan accordingly
