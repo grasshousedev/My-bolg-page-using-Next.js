@@ -1,6 +1,6 @@
 import Image from 'next/image'
 
-export default function CloudinaryImage({src,alt,width,height,layout,className,transform = ''}){
+export default function CloudinaryImage({src = '',alt,width,height,layout,className,transform = ''}){
   const CLOUDINARY_URL = 'https://res.cloudinary.com/navalign/image/upload';
 
   const getTransform = () => {
