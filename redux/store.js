@@ -16,9 +16,6 @@ const persistedReducer = persistReducer(persistConfig, rootReducer)
 
 const makeStore = context => {
   const store = createStore(persistedReducer)
-  const persistedStore = persistStore(store,null,a => {
-    console.log('persisted',persistedStore)
-  })
   return store
 }
 
@@ -26,6 +23,4 @@ const makeStore = context => {
 const store = createStore(persistedReducer);
 
 
-export const wrapper = createWrapper(makeStore,{debug: true},a => {
-  console.log('callback')
-});
+export const wrapper = createWrapper(makeStore,{debug: false});
