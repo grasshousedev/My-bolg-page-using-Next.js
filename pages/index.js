@@ -26,8 +26,7 @@ export default function Index({posts,source,data,note,heroSource,heroVideo}) {
       </Head>
       <Hero
         hero={data.hero}
-        heroSource={heroSource}
-        video={data.video}/>
+        heroSource={heroSource}/>
       <VideoBlock video={data.video}/>
       <LogoBlock/>
       <IconBlock/>

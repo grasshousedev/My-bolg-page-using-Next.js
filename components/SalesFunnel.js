@@ -13,6 +13,7 @@ function SalesFunnel({funnel,def,setCurrent}) {
     //console.log(def,open)
   }
 
+  console.log(funnel)
 
 
   useEffect(() => {

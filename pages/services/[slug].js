@@ -15,7 +15,7 @@ import note from '../../_data/notification.json'
 // here.
 import shortcodes from '../../utils/shortcodes'
 
-const PAGE_DIR = '/updates'
+const PAGE_DIR = '/services'
 
 export default function PostPage({ source, data, slug, url }) {
   const hero = {hero_image: data.featured_image ? data.featured_image : ''} //possibly add default image?

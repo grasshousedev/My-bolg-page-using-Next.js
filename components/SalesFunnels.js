@@ -1,5 +1,6 @@
 import React, { useState, Children } from 'react';
 import SalesFunnel from './SalesFunnel'
+import CloudinaryImage from '../components/CloudinaryImage'
 
 
 function SalesFunnels(props) {
@@ -108,18 +109,37 @@ function SalesFunnels(props) {
     trusts,
   ]
 
-  const showPages = () => {
+  // console.log(funnels)
 
+  const showFunnels = () => {
+    return funnels.map( (funnel) => {
+      console.log(funnel)
+      return funnel.children ?
+        (<SalesFunnel funnel={funnel} def={current.name === funnel.name ? true : false} setCurrent={setCurrent}/>)
+      : (
+        <div className="col-span-1 text-center">
+          <a href={funnel.href} className="block mb-4">
+            <CloudinaryImage
+              src={funnel.icon}
+              className="block w-full h-20 mx-auto object-scale-down"
+              width={40}
+              height={40}
+            />
+            {funnel.name}
+          </a>
+        </div>
+      )
+    })
   }
-  //console.log(current)
+
   return (
     <div>
       <p className="text-bold font-size-lg text-center mb-4">Let’s get started by finding the services best suited to your individual needs.</p>
       <div className="grid grid-cols-4 gap-16">
-        <SalesFunnel funnel={individual} def={current.name === individual.name ? true : false} setCurrent={setCurrent}/>
-        <SalesFunnel funnel={family} def={current.name === family.name ? true : false} setCurrent={setCurrent}/>
+        {showFunnels()}
+        {/* <SalesFunnel funnel={family} def={current.name === family.name ? true : false} setCurrent={setCurrent}/>
         <SalesFunnel funnel={business} def={current.name === business.name ? true : false} setCurrent={setCurrent}/>
-        <SalesFunnel funnel={trusts} def={current.name === trusts.name ? true : false} setCurrent={setCurrent}/>
+        <SalesFunnel funnel={trusts} def={current.name === trusts.name ? true : false} setCurrent={setCurrent}/> */}
       </div>
     </div>
   );
