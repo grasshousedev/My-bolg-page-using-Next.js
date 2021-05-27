@@ -11,6 +11,7 @@ import Hero from '../components/Hero'
 import { postFilePaths, POSTS_PATH } from '../utils/mdxSections'
 import shortcodes from '../utils/shortcodes'
 import note from '../_data/notification.json'
+import Blocks from '../components/blocks/Blocks'
 
 const PAGE_DIR = '/'
 
@@ -22,6 +23,7 @@ export default function PostPage({ source, data, heroSource }) {
         hero={data.hero}
         heroSource={heroSource}/>
         <MDXRemote {...source} components={shortcodes} />
+        <Blocks blocks={data.content_blocks}/>
     </Layout>
   )
 }

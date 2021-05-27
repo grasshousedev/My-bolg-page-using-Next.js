@@ -9,10 +9,14 @@ content_blocks:
   heading: We work hard to do right by our clients. Apparently when you do, word gets
     out.
   logos:
-  - /v1546980898/Los_Angeles_Times_logo.svg
-  - /v1549431422/IN-Logo-New-2013.png
-  - /v1546980898/The_Wall_Street_Journal_Logo.svg
-  - /v1546980898/Investopedia-logo.png
+  - name: Los Angeles Times
+    image: /v1546980898/Los_Angeles_Times_logo.svg
+  - name: Investment News
+    image: /v1549431422/IN-Logo-New-2013.png
+  - name: Wall Street Journal
+    image: /v1546980898/The_Wall_Street_Journal_Logo.svg
+  - name: Investopedia
+    image: /v1546980898/Investopedia-logo.png
   template: logo-block
 - icon_blocks:
   - icon: /v1546980898/icon-financial-planning.svg
@@ -47,8 +51,10 @@ content_blocks:
 - color_options:
     bg_color: '#CCEBFF'
     text_color: '#333333'
-  overview_text: '## Let’s get started by finding the services best suited to your
-    personal needs.'
+  text: |-
+    ## Let’s get started by finding the services best suited to your personal needs.
+
+    Start by selecting a group that best describes you.
   template: sales-funnel-block
 - color_options:
     bg_color: ""
@@ -105,4 +111,7 @@ tags:
 title: Home
 type: page
 video: '321661879'
+video_text: |-
+  ## Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet ex accumsan, aliquam leo et, luctus lectus.
+  Pellentesque molestie tempor ligula sit amet fermentum. Etiam eu rutrum nibh, sed luctus justo. Nulla semper sem velit, in gravida lacus posuere nec. Morbi molestie libero a eros tristique, nec interdum ante accumsan. Vestibulum in felis ut lorem egestas tempor. Mauris ac libero leo. Pellentesque sit amet tellus quam.
 ---

@@ -1,25 +1,47 @@
 import React from 'react'
 import Vimeo from '../shortcodes/Vimeo'
+import { MDXRemote } from 'next-mdx-remote'
+import ReactMarkdown from 'react-markdown'
 
-function VideoBlock({video}) {
+function VideoBlock({video,videoText}) {
+  console.log(videoText)
   return (
     <>
         {video ?
           <div className="max-w-7xl mx-auto py-16 px-4 sm:py-20 sm:px-6 lg:px-8 grid grid-cols-1 md:grid-cols-2 gap-8">
             <div className="flex items-center">
-              <div>
-                <h3 className="text-brand-blue text-2xl mb-4 font-bold">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet ex accumsan, aliquam leo et, luctus lectus.</h3>
-                <p>Pellentesque molestie tempor ligula sit amet fermentum. Etiam eu rutrum nibh, sed luctus justo. Nulla semper sem velit, in gravida lacus posuere nec. Morbi molestie libero a eros tristique, nec interdum ante accumsan. Vestibulum in felis ut lorem egestas tempor. Mauris ac libero leo. Pellentesque sit amet tellus quam.</p>
+              <div className="prose prose-md">
+                <ReactMarkdown
+                  children={videoText}
+                />
               </div>
             </div>
             <div className="flex items-center">
               <Vimeo video_id={video}/>
             </div>
           </div>
-        : 'no id'}
+        : ''}
 
     </>
   )
 }
 
 export default VideoBlock;
+
+const Shortcode = (props => {
+  /*
+  props will looks something like:
+    {
+      "type": "shortcode",
+      "identifier": "MailchimpForm",
+      "attributes": { "id": "chfk2" }
+    }
+  see: https://github.com/djm/remark-shortcodes
+  */
+  switch (props.identifier) {
+    case 'table':
+      return 'table'
+    default:
+      console.error('unknown shortcode')
+  }
+})

@@ -15,6 +15,7 @@ import note from '../_data/notification.json'
 import VideoBlock from '../components/blocks/VideoBlock'
 import {useSelector} from 'react-redux'
 import {wrapper, State} from '../redux/store';
+import Blocks from '../components/blocks/Blocks'
 
 const PAGE_DIR = '/'
 
@@ -26,11 +27,10 @@ export default function Index({posts,source,data,note,heroSource,heroVideo}) {
       </Head>
       <Hero
         hero={data.hero}
-        heroSource={heroSource}/>
-      <VideoBlock video={data.video}/>
-      <LogoBlock/>
-      <IconBlock/>
-      <ImageBlock/>
+        heroSource={heroSource}
+        video={data.video}
+        videoText={data.video_text ? data.video_text : ''}/>
+      <Blocks blocks={data.content_blocks}/>
       <RecentPosts posts={posts}/>
     </Layout>
   )
@@ -57,17 +57,29 @@ export async function getStaticProps(context){
   const source = fs.readFileSync(postFilePath)
 
   const { content, data } = matter(source)
-  const pageSource = await serialize(content)
+  // maybe remove? home is alwasy a landing page and never has content
+  // const pageSource = await serialize(content)
   const heroSource = await serialize(data.hero.hero_text)
-  const heroVideo = await serialize(data.hero.video_embed)
+
+  // const serializeText = async (text) => await serialize(text)
+
+  // //serialize all the content block text
+  // const serializedBlocks = []
+  // data.content_blocks.forEach(element => {
+  //   element.serialzed = element.text ? serializeText(element.text) : ''
+  //   serializedBlocks.push(element)
+  // });
+
+
+  // console.log(serializedBlocks)
+
   return {
     props: {
       note: note,
       posts: posts,
-      source: pageSource,
+      // source: pageSource,
       data: data,
       heroSource: heroSource,
-      heroVideo: heroVideo
     },
   }
 }

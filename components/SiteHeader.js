@@ -31,7 +31,7 @@ import { ChevronDownIcon } from '@heroicons/react/solid'
 
 import Link from 'next/link'
 import NavagationLink from '../components/basic/NavigationLink'
-import LogoLink from './basic/LinkLogo'
+import LinkLogo from './basic/LinkLogo'
 
 const whatWeDo = [
   {
@@ -111,10 +111,10 @@ export default function Example() {
             <div className="max-w-7xl mx-auto flex justify-between items-center px-4 py-5 sm:px-6 sm:py-4 lg:px-8 lg:justify-start md:space-x-10">
               {/** Logo **/}
               <div>
-                <LogoLink
+                <LinkLogo
                   url={'/'}
-                  text={'company-name'}
-                  img={"https://res.cloudinary.com/navalign/image/upload/q_auto:good/v1546980899/navalign-logo-top.svg"}
+                  text={'Navalign Wealth Partners'}
+                  image="https://res.cloudinary.com/navalign/image/upload/q_auto:good/v1546980899/navalign-logo-top.svg"
                 />
               </div>
               {/* Menu Icon */}

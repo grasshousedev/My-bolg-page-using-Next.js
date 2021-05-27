@@ -66,7 +66,7 @@ export default function Example() {
 				</ul>
 			</div>
         <div className="mt-8 flex justify-center space-x-6">
-          <img src="https://res.cloudinary.com/navalign/image/upload/q_auto:good/v1546980899/navalign-logo-bottom.svg"/>
+          <img alt="Navalign Wealth Partners" className="w-full max-w-xs" src="https://res.cloudinary.com/navalign/image/upload/q_auto:good/v1546980899/navalign-logo-bottom.svg"/>
           <div>
           15910 Ventura Boulevard, Suite 1605<br/>
           Encino, CA 91436

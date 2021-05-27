@@ -11,6 +11,7 @@ import { postFilePaths, POSTS_PATH } from '../../utils/mdxSections'
 import shortcodes from '../../utils/shortcodes'
 import note from '../../_data/notification.json'
 import { MDXRemote } from 'next-mdx-remote'
+import Blocks from '../../components/blocks/Blocks'
 
 const PAGE_DIR = '/what-we-do/'
 
@@ -23,6 +24,7 @@ export default function PostPage({ source, data, heroSource, blocks }) {
           <main className="prose">
           <MDXRemote {...heroSource} components={shortcodes} />
           <MDXRemote {...source} components={shortcodes} />
+          <Blocks blocks={data.content_blocks}/>
           </main>
       </Hero>
     </Layout>

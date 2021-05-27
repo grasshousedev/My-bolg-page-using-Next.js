@@ -28,6 +28,7 @@ export default function Example({posts}) {
                 className="h-48 w-full object-cover"
                 transform="/w_300,h_200,c_fill,g_auto"
                 layout="responsive"
+                ariaHidden={true}
               />
               </div>
               <div className="flex-1 bg-white p-6 flex flex-col justify-between">

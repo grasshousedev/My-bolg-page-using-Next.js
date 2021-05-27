@@ -1,6 +1,6 @@
 import Image from 'next/image'
 
-export default function CloudinaryImage({src = '',alt,width,height,layout,className,transform = ''}){
+export default function CloudinaryImage({src = '',alt,width,height,layout,className,transform = '',ariaHidden = false}){
   const CLOUDINARY_URL = 'https://res.cloudinary.com/navalign/image/upload';
 
   const getTransform = () => {
@@ -24,6 +24,7 @@ export default function CloudinaryImage({src = '',alt,width,height,layout,classN
     <picture>
       <img
         src={convertImage()}
+        aria-hidden={ariaHidden}
         alt={alt}
         width={width}
         height={height}

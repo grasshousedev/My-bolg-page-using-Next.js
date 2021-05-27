@@ -2,7 +2,7 @@ import {useEffect, useState} from 'react';
 import CloudinaryImage from '../components/CloudinaryImage'
 
 function SalesFunnel({funnel,def,setCurrent}) {
-  const [open,setOpen] = useState(false)
+  const [open,setOpen] = useState(def ? true : false)
   const [active,setActive] = useState(def)
 
   const children = funnel.children ? Object.values(funnel.children) : []
@@ -12,9 +12,6 @@ function SalesFunnel({funnel,def,setCurrent}) {
     setOpen(true)
     //console.log(def,open)
   }
-
-  console.log(funnel)
-
 
   useEffect(() => {
     //console.log(def)
@@ -38,8 +35,9 @@ function SalesFunnel({funnel,def,setCurrent}) {
           height={40}
         />
       </button>
+      {active}
       {funnel.name}
-      <div className={`transition duration-300 ease-in-out grid grid-cols-3 rounded-lg bg-white mt-8 left-1/2 transform -translate-x-1/2 p-4 w-full fixed ${active && open ? 'z-50 opacity-100' : 'z-20 opacity-0'}`}>
+      <div className={`transition duration-900 ease-in-out grid grid-cols-3 rounded-lg bg-white mt-8 left-1/2 transform -translate-x-1/2 p-4 w-full fixed ${active && open ? 'z-50 opacity-100' : 'z-20 opacity-0'}`}>
         {children.length ?
           children.map(page => {
             return (

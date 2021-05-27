@@ -172,6 +172,10 @@ slug: ""
 tags:
 - Financial Planning
 title: Financial Planning
+video: '326460785'
+video_text: |-
+  ## Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet ex accumsan, aliquam leo et, luctus lectus.
+  Pellentesque molestie tempor ligula sit amet fermentum. Etiam eu rutrum nibh, sed luctus justo. Nulla semper sem velit, in gravida lacus posuere nec. Morbi molestie libero a eros tristique, nec interdum ante accumsan. Vestibulum in felis ut lorem egestas tempor. Mauris ac libero leo. Pellentesque sit amet tellus quam.
 ---
 Our team of award winning financial planners are experts in helping you prioritize your life goals to achieve the financial peace of mind you’re looking for. Unlike many other financial advisors, as a fiduciary financial planner, we succeed when you succeed.
 
