@@ -8,7 +8,8 @@ import shortcodes from '../utils/shortcodes'
 import CloudinaryImage from '../components/CloudinaryImage'
 import HeroButtons from '../components/HeroButtons'
 import Vimeo from '../components/shortcodes/Vimeo'
-import VideoBlock from '../components/blocks/VideoBlock'
+import Block from './blocks/VideoBlock'
+import VideoBlock from './blocks/VideoBlock'
 
 shortcodes.h1 = ({children}) => {
   return <h1 className="text-4xl font-bold mb-4 text-brand-blue">{children}</h1>
@@ -18,7 +19,7 @@ export default function Hero({heroSource,children,video,videoText,title,hero}) {
   ////console.log(props)
   return (
     <>
-    <div className="relative bg-white overflow-hidden">
+    <div className="relative bg-white overflow-hidden mb-8 sm:mb-20">
       <div className="max-w-7xl mx-auto">
         <div className="relative z-10 pt-8 bg-white sm:pb-8 md:pb-8 lg:max-w-2xl lg:w-full">
           <svg
@@ -33,8 +34,8 @@ export default function Hero({heroSource,children,video,videoText,title,hero}) {
           </svg>
           { heroSource ?
           (
-          <div className="mt-0 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28 relative z-20">
-            <div className="sm:text-center">
+          <div className="mt-0 px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28 relative z-20">
+            <div className="sm:text-center prose prose-md">
               <MDXRemote {...heroSource} components={shortcodes}/>
             </div>
           </div>) : children }
@@ -53,7 +54,6 @@ export default function Hero({heroSource,children,video,videoText,title,hero}) {
         />
       </div>
     </div>
-    <VideoBlock video={video} videoText={videoText}/>
     </>
   )
 }

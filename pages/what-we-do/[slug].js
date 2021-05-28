@@ -21,11 +21,14 @@ export default function PostPage({ source, data, heroSource, blocks }) {
       <Hero
         title={data.title}
         hero={data.hero}>
-          <main className="prose">
-          <MDXRemote {...heroSource} components={shortcodes} />
-          <MDXRemote {...source} components={shortcodes} />
-          <Blocks blocks={data.content_blocks}/>
-          </main>
+            <main className="prose">
+              <div class="prose-md text-center pt-16">
+                <MDXRemote {...heroSource} components={shortcodes} />
+              </div>
+              {/* <MDXRemote {...source} components={shortcodes} /> */}
+              <hr/>
+              <Blocks blocks={data.content_blocks} landingPage={false}/>
+            </main>
       </Hero>
     </Layout>
   )
@@ -42,7 +45,7 @@ function getContentBlocks(blocks){
         rb.headingText = block.header_text
         rb.text = serialize(block.text)
         break;
-      case 'call-to-action-button':
+      case 'ema-call-to-action':
         rb.leadingText = serialize(block.leading_text)
         rb.buttonText = block.button_options.button_text
         rb.url = block.button_options.url

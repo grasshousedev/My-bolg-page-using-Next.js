@@ -9,7 +9,7 @@ content_blocks:
     aligned with their own specific retirement objectives. We’d like to show you how
     you can benefit from our wealth of experience to help you retire with confidence
     by planning ahead for generations.
-  template: block-1
+  template: prose-block
 date: "2019-03-02T08:00:00+00:00"
 featured_image: /v1546980898/icon-empty-nester.svg
 hero:

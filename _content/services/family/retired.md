@@ -6,7 +6,7 @@ content_blocks:
     You’ve worked hard your entire career and prioritized saving along the way. We believe you deserve a team of financial experts who understand the complexities of investing and financial planning for retirement.
 
     We are here to help retirees like you plan ahead to navigate those critical financial decisions so that they are aligned with your retirement goals. We’d like to show you how you can benefit from our extensive experience helping couples retire with confidence.
-  template: block-1
+  template: prose-block
 date: "2019-03-02T08:00:00+00:00"
 featured_image: /v1546980898/icon-retirement.svg
 hero:

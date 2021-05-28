@@ -6,7 +6,7 @@ content_blocks:
     You’re busy managing employees and deploying the right resources. We believe you deserve a team of financial experts who understand the complexities of investing and financial planning for business professionals like you.
 
     We see the impact we make each day by helping busy executives navigate financial decisions that are aligned with their life goals. We’d like to show you how you can benefit from our wealth of experience helping clients make sound financial decisions.
-  template: block-1
+  template: prose-block
 date: "2019-03-02T08:00:00+00:00"
 featured_image: /v1548793957/Navalign_Executive_Icon.svg
 hero:

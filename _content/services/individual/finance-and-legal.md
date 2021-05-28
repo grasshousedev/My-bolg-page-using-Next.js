@@ -7,7 +7,7 @@ content_blocks:
     aligned with your life goals. We’d like to show you how you can benefit from our
     extensive experience working with attorneys and legal professionals across all
     types of practices.</p>
-  template: block-1
+  template: prose-block
 date: "2019-02-05T08:00:00+00:00"
 featured_image: /v1546980898/icon-finance.svg
 hero:

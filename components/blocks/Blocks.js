@@ -1,8 +1,15 @@
 import React from 'react';
-import LogoBlock from './LogoBlock'
+import ButtonLink from '../basic/ButtonLink';
+import BulletPointsBlock from './BulletPointsBlock'
+import EMACallToAction from './EMACallToAction'
+import FeatureBlock from './FeatureBlock'
 import IconBlock from './IconBlock'
-import SalesFunnel from './SalesFunnelBlock'
 import ImageBlock from './ImageBlock'
+import LeadParagraph from './LeadParagraph'
+import LogoBlock from './LogoBlock'
+import ProseBlock from './ProseBlock'
+import SalesFunnel from './SalesFunnelBlock'
+import VideoBlock from './VideoBlock'
 
 const getComponentName = (template) => {
   let cName = ''
@@ -12,28 +19,68 @@ const getComponentName = (template) => {
   return cName
 }
 
-const renderBlocks = (blocks) => {
-  return blocks.map( block=> {
+const renderBlocks = (blocks,landingPage) => {
+  return  blocks.map( block=> {
     switch (block.template) {
-      case 'logo-block':
-        return <LogoBlock heading={block.heading} logos={block.logos}/>
-      case 'block-icons':
-        return <IconBlock overview={block.overview_text} iconBlocks={block.icon_blocks}/>
-      case 'sales-funnel-block':
-        return <SalesFunnel text={block.text}/>
+      case 'bullet-points-block':
+        return <BulletPointsBlock
+                landingPage={landingPage}
+                bulletPoints={block.bullet_points}
+                headerText={block.header_text}
+                headerIcon={block.header_icon}
+                />
+      case 'ema-call-to-action':
+        return <EMACallToAction
+                landingPage={landingPage}
+                text={block.leading_text}/>
+      case 'featured-block':
+        return <FeatureBlock
+                landingPage={landingPage}
+                overview={block.overview_text}
+                features={block.icon_blocks}/>
+      case 'icon-block':
+        return <IconBlock
+                landingPage={landingPage}
+                icon={block.icon}
+                text={block.text}/>
       case 'image-block':
-        return <ImageBlock text={block.text} image={block.image}/>
+        return <ImageBlock
+                landingPage={landingPage}
+                text={block.text}
+                image={block.image}/>
+      case 'lead-paragraph':
+        return <LeadParagraph
+                landingPage={landingPage}
+                text={block.text}/>
+      case 'logo-block':
+        return <LogoBlock
+                landingPage={landingPage}
+                heading={block.heading}
+                logos={block.logos}/>
+      case 'prose-block':
+        return <ProseBlock
+                landingPage={landingPage}
+                text={block.text}/>
+      case 'sales-funnel-block':
+        return <SalesFunnel
+                landingPage={landingPage}
+                text={block.text}/>
+      case 'video-block':
+        return <VideoBlock
+                landingPage={landingPage}
+                text={block.text}
+                video={block.video}/>
       default:
         return <p>{getComponentName(block.template)}</p>
     }
   })
 }
 
-function Blocks({blocks}) {
-  console.log(blocks)
+function Blocks({blocks,landingPage = true}) {
+  console.log(landingPage)
   return (
     <div id="blocks">
-      {renderBlocks(blocks)}
+      {renderBlocks(blocks,landingPage)}
     </div>
   );
 }

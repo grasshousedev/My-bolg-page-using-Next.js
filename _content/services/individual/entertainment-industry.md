@@ -4,7 +4,7 @@ categories: []
 content_blocks:
 - block_text: |-
 
-  template: block-1
+  template: prose-block
 date: "2019-03-02T08:00:00+00:00"
 featured_image: /v1546980898/icon-entertainment.svg
 hero:

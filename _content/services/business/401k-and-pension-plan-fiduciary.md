@@ -36,7 +36,7 @@ content_blocks:
     * SIMPLE IRA
     * Solo 401(k)
     * Individual Roth 401(k)
-  template: block-1
+  template: prose-block
 date: "2019-03-02T08:00:00+00:00"
 featured_image: /v1546980898/icon-401k.svg
 hero:

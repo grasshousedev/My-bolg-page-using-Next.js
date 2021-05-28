@@ -6,7 +6,7 @@ content_blocks:
     You love your family and do all that you can to provide for their well-being. We believe you deserve a team of financial experts who place your family’s best interest first and is aligned in helping you achieve financial peace of mind.
 
     Our goal is to help your family plan ahead for their legacy and to assist you in navigating financial goals together. We’d like to show you how you can benefit from our wealth of experience helping multiple generations of family clients achieve their life goals, with a purpose.
-  template: block-1
+  template: prose-block
 date: "2019-03-02T08:00:00+00:00"
 featured_image: /v1546980898/icon-families.svg
 hero:

@@ -5,7 +5,7 @@ content_blocks:
     Our fiduciary, fee-only investment services are simple to understand and completely transparent.
 
     So, whether you’re responsible for your family’s trust, managing generational wealth or coordinating a thoughtful estate plan, our fiduciary financial advisors can help.
-  template: block-1
+  template: prose-block
 date: "2019-03-02T08:00:00+00:00"
 featured_image: /v1546980898/icon-trusts.svg
 hero:

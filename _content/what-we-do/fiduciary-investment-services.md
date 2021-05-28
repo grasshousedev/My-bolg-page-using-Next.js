@@ -10,7 +10,7 @@ content_blocks:
     regulations. But we also consider technical factors, such as investor behavior
     and other trends, which can directly impact the short-term value of certain assets.
     It’s a critical and delicate balance between short-term impact and long-term rewards.
-  template: block-1
+  template: prose-block
 - button_options:
     button_text: Get Your Free Risk Number
     embed_code: ""
@@ -21,7 +21,7 @@ content_blocks:
     bg_color: ""
     text_color: ""
   leading_text: Do you know how much risk you should have in your investment portfolio?
-  template: call-to-action-button
+  template: ema-call-to-action
 - bullet_points:
   - template: bullet-point-content
     text: '## Identify Investment Objectives and Constraints'
@@ -40,7 +40,7 @@ content_blocks:
   template: bullet-points-block
 - icon: /v1546980898/icon-investment-planning.svg
   icon_animation: slide-right
-  template: icon-point
+  template: icon-block
   text: |-
     ## Investment Planning
 
@@ -54,7 +54,7 @@ content_blocks:
   title: Investment Planning
 - icon: /v1546980898/icon-manage-risk.svg
   icon_animation: slide-right
-  template: icon-point
+  template: icon-block
   text: |-
     ## Managing Risk
 
@@ -67,7 +67,7 @@ content_blocks:
   title: Managing Risk
 - icon: /v1546980898/icon-tax-management.svg
   icon_animation: slide-right
-  template: icon-point
+  template: icon-block
   text: |-
     ## Tax Managed Investing
 
@@ -79,7 +79,7 @@ content_blocks:
   title: Tax Managed Investing
 - icon: /v1546980898/icon-asset-allocation.svg
   icon_animation: slide-right
-  template: icon-point
+  template: icon-block
   text: |-
     ## Controlling Costs
 
@@ -91,7 +91,7 @@ content_blocks:
   title: Controlling Costs
 - icon: /v1546980898/icon-retirement-financial-planning.svg
   icon_animation: slide-right
-  template: icon-point
+  template: icon-block
   text: |-
     ## Retirement Accounts
 
@@ -105,7 +105,7 @@ content_blocks:
   title: Retirement Accounts
 - icon: /v1546980898/icon-fee-transparency.svg
   icon_animation: slide-right
-  template: icon-point
+  template: icon-block
   text: |-
     ## Cash Management Solutions
 
@@ -118,7 +118,7 @@ content_blocks:
   title: Cash Management Solutions
 - icon: /v1546980898/icon-investment-accounts.svg
   icon_animation: slide-right
-  template: icon-point
+  template: icon-block
   text: |-
     ## Investing Solutions for Business Owners
 

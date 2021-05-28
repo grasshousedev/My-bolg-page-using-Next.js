@@ -10,11 +10,11 @@ content_blocks:
     challenges and opportunities. It starts with questions like: How long will my
     money last? What can I do to maximize retirement benefits? Will my retirement
     investment strategy accomplish my philanthropic and legacy planning goals?'
-  template: block-1
+  template: prose-block
 - header_text: 'Financial Planning for Retirement '
   icon: /v1546980890/icon-retirement-financial-planning.svg
   icon_animation: fade-down
-  template: icon-point-top
+  template: icon-block
   text: Retire with confidence or concern, it’s your choice. Financial planning for
     retirement is more than just a report and numbers. Financial planning is a process
     that can help you achieve your ultimate financial goals to, and through retirement.
@@ -26,7 +26,7 @@ content_blocks:
 - header_text: 'Investing for Retirement '
   icon: /v1546980890/icon-retirement-investing.svg
   icon_animation: fade-down
-  template: icon-point-top
+  template: icon-block
   text: Investing for retirement is a very personal experience and therefore requires
     a tailored approach. Our team of fiduciary investment advisors has experience
     managing all types of retirement accounts and can customize an investment plan
@@ -57,7 +57,7 @@ content_blocks:
     <h2 className="h6">Many of us think that our taxes will be lower in retirement, but that may not necessarily be the case. In addition to taxes on social security and pension income, if you’re like most retirees whom took advantage of tax-deferred retirement savings program, these withdrawals will also be taxable upon distribution. Thoughtful tax diversification and distribution planning can reduce the taxes you owe in retirement. Better yet, you may want to consider how opportunities to benefit the charitable organizations and causes you care about most can also benefit your tax situation in retirement.</h2>
 
     #### There are dozens of other important questions and issues to consider. We’re happy to meet with you to explore those questions together and help you achieve financial peace of mind in retirement.
-  template: block-1
+  template: prose-block
 date: "2019-03-28T07:00:00+00:00"
 featured_image: ""
 hero:

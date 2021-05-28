@@ -4,7 +4,7 @@ categories: []
 content_blocks:
 - icon: /v1546980898/icon-fiduciary-advisor.svg
   icon_animation: slide-right
-  template: icon-point
+  template: icon-block
   text: |-
     ## Fiduciary Advisors
 
@@ -12,7 +12,7 @@ content_blocks:
   title: ""
 - icon: /v1546980898/icon-holistic-philosophy.svg
   icon_animation: slide-right
-  template: icon-point
+  template: icon-block
   text: |-
     ## Holistic Investment Philosophy
 
@@ -20,7 +20,7 @@ content_blocks:
   title: ""
 - icon: /v1546980898/icon-fee-only.svg
   icon_animation: slide-right
-  template: icon-point
+  template: icon-block
   text: |-
     ## Fee-Only Structure
 
@@ -28,7 +28,7 @@ content_blocks:
   title: ""
 - icon: /v1546980898/icon-fee-transparency.svg
   icon_animation: slide-right
-  template: icon-point
+  template: icon-block
   text: |-
     ## Transparency
 
@@ -36,7 +36,7 @@ content_blocks:
   title: ""
 - icon: /v1546980898/icon-collaboration.svg
   icon_animation: slide-right
-  template: icon-point
+  template: icon-block
   text: |-
     ## Collaboration
 
@@ -44,7 +44,7 @@ content_blocks:
   title: ""
 - icon: /v1546980898/icon-multigenerational.svg
   icon_animation: slide-right
-  template: icon-point
+  template: icon-block
   text: |-
     ## Multi-Generational
 
@@ -76,7 +76,7 @@ content_blocks:
   color_options:
     bg_color: ""
     text_color: ""
-  template: block-1
+  template: prose-block
 date: "2019-03-28T07:00:00+00:00"
 featured_image: ""
 hero:

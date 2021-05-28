@@ -6,7 +6,7 @@ content_blocks:
     You trust your spouse, and you both make valuable contributions to provide for the household. We believe you deserve a team of financial experts you can trust to help you achieve financial peace of mind together.
 
     We help you plan ahead for your life goals and achieve financial independence together. We’d like to share with you how you will benefit from our wealth of experience helping spouses navigate important financial decisions today and in the future.
-  template: block-1
+  template: prose-block
 date: "2019-03-02T08:00:00+00:00"
 featured_image: /v1546980898/icon-married-no-children.svg
 hero:

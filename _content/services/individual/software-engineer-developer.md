@@ -6,7 +6,7 @@ content_blocks:
     You work long hours and have a passion for innovation through technology. We believe you deserve a team of modern financial experts who appreciate that passion and who understand the complexities of investing and financial planning for technology professionals.
 
     We help tech founders, directors and engineers navigate financial decisions aligned with your life goals. We’d like to show you how you can benefit from our extensive experience working with professionals in tech.
-  template: block-1
+  template: prose-block
 date: "2019-03-02T08:00:00+00:00"
 featured_image: /v1546980898/icon-technology.svg
 hero:

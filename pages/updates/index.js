@@ -61,6 +61,13 @@ export default function Index({posts,source,data,note,heroSource}) {
                   </Link>
                 </li>
               ))}
+            <Pagination
+              data={sorted}
+              RenderComponent={ArticleSummaryLink}
+              title="Posts"
+              pageLimit={5}
+              dataLimit={10}
+            />
             </ul>
           </main>
           <aside className="col-span-4">

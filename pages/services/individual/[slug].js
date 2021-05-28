@@ -29,7 +29,7 @@ function getContentBlocks(blocks){
         rb.headingText = block.header_text
         rb.text = serialize(block.text)
         break;
-      case 'call-to-action-button':
+      case 'ema-call-to-action':
         rb.leadingText = serialize(block.leading_text)
         rb.buttonText = block.button_options.button_text
         rb.url = block.button_options.url
@@ -67,7 +67,7 @@ export default function PostPage({ source, data, slug, url, heroSource }) {
             <MDXRemote {...source} components={shortcodes} />
             </div>
 
-            <div className="block icon-point py-8">
+            <div className="block icon-block py-8">
               <div className="container">
                 <div className="w-15 mx-auto">
                   <img className="aos-init lazyloaded aos-animate max-w-xs mx-auto mb-8" data-src="https://res.cloudinary.com/navalign/image/upload/q_auto:good/v1546980904/icon-financial-advice.svg" alt="" data-aos="zoom-in-down" src="https://res.cloudinary.com/navalign/image/upload/q_auto:good/v1546980904/icon-financial-advice.svg"/>
@@ -84,7 +84,7 @@ export default function PostPage({ source, data, slug, url, heroSource }) {
                 </div>
               </div>
             </div>
-            <div className="block icon-point py-8">
+            <div className="block icon-block py-8">
   <div className="container">
     <div className="w-15 mx-auto">
       <img className="aos-init lazyloaded aos-animate block w-full max-w-xs mx-auto mb-8" data-src="https://res.cloudinary.com/navalign/image/upload/q_auto:good/v1546980908/icon-financial-planning.svg" alt="" data-aos="zoom-in-down" src="https://res.cloudinary.com/navalign/image/upload/q_auto:good/v1546980908/icon-financial-planning.svg"/>
@@ -103,7 +103,7 @@ export default function PostPage({ source, data, slug, url, heroSource }) {
       </div>
     </div>
   </div>
-  <div className="block icon-point py-8">
+  <div className="block icon-block py-8">
   <div className="container">
     <div className="w-15 mx-auto">
       <img className="aos-init lazyloaded aos-animate max-w-xs mx-auto mb-8" data-src="https://res.cloudinary.com/navalign/image/upload/q_auto:good/v1546980918/icon-investment-services.svg" alt="" data-aos="zoom-in-down" src="https://res.cloudinary.com/navalign/image/upload/q_auto:good/v1546980918/icon-investment-services.svg"/>

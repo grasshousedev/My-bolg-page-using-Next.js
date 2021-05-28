@@ -5,9 +5,9 @@ content_blocks:
     you’ve had to overcome to build it. You deserve a team of financial experts who
     appreciate what you’ve accomplished and who you can trust to navigate important
     financial decisions in your best interest.
-  template: block-1
+  template: prose-block
 - icon: /v1546980898/icon-multigenerational.svg
-  template: icon-point-top
+  template: icon-block
   text: |-
     ## Family Business Transition Planning
 

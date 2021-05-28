@@ -11,7 +11,7 @@ content_blocks:
 - header_text: 'Retirement Benefit Services for Employers '
   icon: /v1546980899/icon-employer-hr.svg
   icon_animation: fade-down
-  template: icon-point-top
+  template: icon-block
   text: |-
     ### Save Time
 
@@ -39,7 +39,7 @@ content_blocks:
 - header_text: Retirement Plan Services for Participants
   icon: /v1546980926/icon-plan-participants.svg
   icon_animation: fade-down
-  template: icon-point-top
+  template: icon-block
   text: |-
     ### Lower Fees
 

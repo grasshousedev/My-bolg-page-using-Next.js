@@ -6,7 +6,7 @@ content_blocks:
     You love your spouse and you’re committed to the values that inspire your life together. We believe you deserve a team of financial experts who are here to look out for your joint interests and understand financial planning for married couples.
 
     We help couples organize and manage their financial lives so that they can make better decisions, together. We’d like to show you how you can benefit from our wealth of experience helping recently married couples plan ahead to achieve their life goals.
-  template: block-1
+  template: prose-block
 date: "2019-03-02T08:00:00+00:00"
 featured_image: /v1546980898/icon-recently-married.svg
 hero:

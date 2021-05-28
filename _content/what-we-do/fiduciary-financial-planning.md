@@ -11,21 +11,22 @@ content_blocks:
     button_text: Check Your Progress
     new_window: true
     url: https://connect.emaplan.com/6p
-  leading_text: Are you on track to achieve your financial goals?
-  template: call-to-action-button
+  leading_text: |-
+    ## Are you on track to achieve your financial goals?
+  template: ema-call-to-action
 - bullet_points:
   - template: bullet-point-content
-    text: '### Establish your financial goals and priorities'
+    text: 'Establish your financial goals and priorities'
   - template: bullet-point-content
-    text: '### Organize all aspects of your financial life'
+    text: 'Organize all aspects of your financial life'
   - template: bullet-point-content
-    text: '### Analyze your financial situation and resources'
+    text: 'Analyze your financial situation and resources'
   - template: bullet-point-content
-    text: '### Develop and discuss your financial recommendations'
+    text: 'Develop and discuss your financial recommendations'
   - template: bullet-point-content
-    text: '### Implement a plan of action to achieve your goals'
+    text: 'Implement a plan of action to achieve your goals'
   - template: bullet-point-content
-    text: '### Review your progress and adjust your plan accordingly'
+    text: 'Review your progress and adjust your plan accordingly'
   color_options:
     bg_color: '#CCEBFF'
   header_icon: /v1546980898/icon-financial-planning-process.svg
@@ -33,7 +34,7 @@ content_blocks:
   template: bullet-points-block
 - icon: /v1546980898/icon-financial-forecasting.svg
   icon_animation: fade-right
-  template: icon-point
+  template: icon-block
   text: |-
     ### **Financial Forecasting**
 
@@ -47,7 +48,7 @@ content_blocks:
   title: Financial Forecasting
 - icon: /v1546980898/icon-investment-planning.svg
   icon_animation: fade-right
-  template: icon-point
+  template: icon-block
   text: |-
     ### **Investment Planning**
 
@@ -61,7 +62,7 @@ content_blocks:
   title: Investment Planning
 - icon: /v1546980898/icon-tax-planning.svg
   icon_animation: fade-right
-  template: icon-point
+  template: icon-block
   text: |-
     ### **Tax Planning**
 
@@ -77,7 +78,7 @@ content_blocks:
   title: Tax Planning
 - icon: /v1546980898/icon-retirement-financial-planning.svg
   icon_animation: fade-right
-  template: icon-point
+  template: icon-block
   text: |-
     ### **Maximize Employer and Business Owner Benefits**
 
@@ -91,7 +92,7 @@ content_blocks:
   title: Maximize Employer and Business Owner Benefits
 - icon: /v1546980898/icon-manage-risk.svg
   icon_animation: fade-right
-  template: icon-point
+  template: icon-block
   text: |-
     ### **Risk Management**
 
@@ -106,7 +107,7 @@ content_blocks:
   title: Risk Management
 - icon: /v1546980898/icon-trusts.svg
   icon_animation: fade-right
-  template: icon-point
+  template: icon-block
   text: |-
     ### **Legacy Planning**
 
@@ -120,7 +121,7 @@ content_blocks:
   title: Legacy Planning
 - icon: /v1546980898/icon-philanthropy.svg
   icon_animation: fade-right
-  template: icon-point
+  template: icon-block
   text: |-
     ### **Philanthropy**
 
@@ -136,7 +137,7 @@ content_blocks:
     financial plan. The financial planning process is personal, it’s your unique plan.
     We’d like to share with you how we help our clients achieve financial success,
     it all starts with building your financial life plan today.
-  template: block-1
+  template: prose-block
 date: "2019-03-28T07:00:00+00:00"
 featured_image: ""
 hero:
@@ -147,7 +148,7 @@ hero:
   hero_text: |-
     # We believe financial planning is more than just numbers and investing. A financial plan should encompass your values, your goals, and your legacy.
 
-    <h2 className="h6">Personal finance should be, well, personal. And that’s why our comprehensive financial planning services are always tailored to your unique needs and focus on the human side of finance.</h2>
+    Personal finance should be, well, personal. And that’s why our comprehensive financial planning services are always tailored to your unique needs and focus on the human side of finance.
   show_hero: true
   show_join_the_team_button: false
   show_meeting_button: true
@@ -181,11 +182,4 @@ Our team of award winning financial planners are experts in helping you prioriti
 
 ## Are you on track to achieve your financial goals?
 
-<a className="w-full max-w-sm flex items-center justify-center px-8 py-3 border border-transparent text-base font-medium rounded-md text-white hover:text-brand-blue bg-brand-secondary hover:bg-brand-blue-light md:py-4 md:text-lg md:px-10" href="https://connect.emaplan.com/6p" target="_blank">Check Your Progress</a>
-
-1. Establish your financial goals and priorities
-1. Organize all aspects of your financial life
-1. Analyze your financial situation and resources
-1. Develop and discuss your financial recommendations
-1. Implement a plan of action to achieve your goals
-1. Review your progress and adjust your plan accordingly
+<EMAPlan/>

@@ -2,27 +2,29 @@ import React from 'react'
 import Vimeo from '../shortcodes/Vimeo'
 import { MDXRemote } from 'next-mdx-remote'
 import ReactMarkdown from 'react-markdown'
+import BlockContainer from './BlockContainer'
+import Block from './Block'
 
-function VideoBlock({video,videoText}) {
-  console.log(videoText)
+function VideoBlock({video,text,landingPage = true}) {
   return (
-    <>
+    <Block className="">
+      <BlockContainer landingPage={landingPage}>
         {video ?
-          <div className="max-w-7xl mx-auto py-16 px-4 sm:py-20 sm:px-6 lg:px-8 grid grid-cols-1 md:grid-cols-2 gap-8">
-            <div className="flex items-center">
-              <div className="prose prose-md">
-                <ReactMarkdown
-                  children={videoText}
-                />
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+              <div className="flex items-center">
+                <div className="prose prose-md">
+                  <ReactMarkdown
+                    children={text}
+                  />
+                </div>
+              </div>
+              <div className="flex items-center">
+                <Vimeo video_id={video}/>
               </div>
             </div>
-            <div className="flex items-center">
-              <Vimeo video_id={video}/>
-            </div>
-          </div>
-        : ''}
-
-    </>
+          : ''}
+      </BlockContainer>
+    </Block>
   )
 }
 

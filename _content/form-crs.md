@@ -116,7 +116,7 @@ content_blocks:
   color_options:
     bg_color: ""
     text_color: ""
-  template: block-1
+  template: prose-block
 date: "2019-02-10T08:00:00+00:00"
 hero:
   color_options:

@@ -3,6 +3,11 @@ aliases:
 - /some-folder/home/
 categories: []
 content_blocks:
+- template: video-block
+  text: |-
+    # Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Pellentesque molestie tempor ligula sit amet fermentum. Etiam eu rutrum nibh, sed luctus justo. Nulla semper sem velit, in gravida lacus posuere nec. Morbi molestie libero a eros tristique, nec interdum ante accumsan. Vestibulum in felis ut lorem egestas tempor. Mauris ac libero leo. Pellentesque sit amet tellus quam.
+  video: '321661879'
 - color_options:
     bg_color: '#CCEBFF'
     text_color: ""
@@ -47,7 +52,7 @@ content_blocks:
     ## We’ve created a package of wealth management services specially tailored for you to achieve your goals.
 
     The way we see it, most financial goals are rarely your ultimate goals. More often they are the means to an end. As a fiduciary financial advisor, we work together to make sure your important life goals remain achievable and within reach.
-  template: block-icons
+  template: featured-block
 - color_options:
     bg_color: '#CCEBFF'
     text_color: '#333333'
@@ -85,7 +90,7 @@ hero:
   hero_text: |-
     # We spent years managing investments so large firms could grow and prosper. Then we built a firm so you can do the same.
 
-    <h2 className="h6">Navalign is an independent financial company built from the ground up, with a focus on helping you navigate financial decisions that are aligned with your best interest. This holistic approach, combined with transparency and fiduciary ethics, creates the optimal base for your prosperity and financial peace of mind.</h2>
+    Navalign is an independent financial company built from the ground up, with a focus on helping you navigate financial decisions that are aligned with your best interest. This holistic approach, combined with transparency and fiduciary ethics, creates the optimal base for your prosperity and financial peace of mind.
 
     <HeroButtons/>
   show_hero: true

@@ -6,7 +6,7 @@ content_blocks:
     You work hard, have big ideas and take the risks required to make it all happen for your business. We believe you deserve a team of financial experts who understand the complexities of investing and financial planning for business owners like you.
 
     We help entrepreneurs make smart financial decisions aligned with your life goals. We’d like to share how you can benefit from our wealth of experience helping entrepreneurs achieve a successful outcome for the time and capital they invest in their business.
-  template: block-1
+  template: prose-block
 date: "2019-03-02T08:00:00+00:00"
 featured_image: /v1548923972/icon-ent.svg
 hero:
