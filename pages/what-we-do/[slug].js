@@ -7,7 +7,7 @@ import Link from 'next/link'
 import path from 'path'
 import Layout from '../../components/Layout'
 import Hero from '../../components/Hero'
-import { postFilePaths, POSTS_PATH } from '../../utils/mdxSections'
+import { postFilePaths, CONTENT_PATH } from '../../utils/mdxSections'
 import shortcodes from '../../utils/shortcodes'
 import note from '../../_data/notification.json'
 import { MDXRemote } from 'next-mdx-remote'
@@ -62,7 +62,7 @@ function getContentBlocks(blocks){
 
 export const getStaticProps = async (context) => {
   const {params} = context
-  const postFilePath = path.join(`${POSTS_PATH}${PAGE_DIR}`, `${params.slug}.md`)
+  const postFilePath = path.join(`${CONTENT_PATH}${PAGE_DIR}`, `${params.slug}.md`)
   const source = fs.readFileSync(postFilePath)
 
   const { content, data } = matter(source)

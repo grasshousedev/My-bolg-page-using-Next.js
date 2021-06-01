@@ -9,7 +9,7 @@ import Link from 'next/link'
 import HeroProfile from '../../components/HeroProfile'
 import path from 'path'
 import Layout from '../../components/Layout'
-import { postFilePaths, POSTS_PATH } from '../../utils/mdxSections'
+import { postFilePaths, CONTENT_PATH } from '../../utils/mdxSections'
 import shortcodes from '../../utils/shortcodes'
 import ShareButtons from '../../components/ShareButtons'
 import ContactBlock from '../../components/ContactBlock'
@@ -55,7 +55,7 @@ export default function PostPage({ url, source, heroSource, data }) {
 
 export const getStaticProps = async (context) => {
   const {params} = context
-  const postFilePath = path.join(`${POSTS_PATH}${PAGE_DIR}`, `${params.slug}.md`)
+  const postFilePath = path.join(`${CONTENT_PATH}${PAGE_DIR}`, `${params.slug}.md`)
   const source = fs.readFileSync(postFilePath)
 
   const { content, data } = matter(source)

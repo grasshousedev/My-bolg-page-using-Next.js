@@ -6,7 +6,7 @@ import path from 'path'
 import Hero from '../../components/Hero'
 import Layout from '../../components/Layout'
 import ShareButtons from '../../components/ShareButtons'
-import { postFilePaths, POSTS_PATH } from '../../utils/mdxSections'
+import { postFilePaths, CONTENT_PATH } from '../../utils/mdxSections'
 import note from '../../_data/notification.json'
 
 // Custom components/renderers to pass to MDX.
@@ -49,7 +49,7 @@ export default function PostPage({ source, data, slug, url }) {
 
 export const getStaticProps = async (context) => {
   const {params} = context
-  const postFilePath = path.join(`${POSTS_PATH}${PAGE_DIR}`, `${params.slug}.md`)
+  const postFilePath = path.join(`${CONTENT_PATH}${PAGE_DIR}`, `${params.slug}.md`)
   const source = fs.readFileSync(postFilePath)
 
   const { content, data } = matter(source)

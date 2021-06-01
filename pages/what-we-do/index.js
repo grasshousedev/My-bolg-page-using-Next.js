@@ -6,7 +6,7 @@ import Hero from '../../components/Hero'
 import path from 'path'
 import { serialize } from 'next-mdx-remote/serialize'
 import Layout from '../../components/Layout'
-import { postFilePaths, POSTS_PATH } from '../../utils/mdxSections'
+import { postFilePaths, CONTENT_PATH } from '../../utils/mdxSections'
 
 import note from '../../_data/notification.json'
 import shortcodes from '../../utils/shortcodes'
@@ -46,7 +46,7 @@ export async function getStaticProps(context){
   // Get Posts
   const posts = postFilePaths(PAGE_DIR).map((filePath) => {
     //console('filePath',filePath)
-    const source = fs.readFileSync(path.join(`${POSTS_PATH}${PAGE_DIR}`, filePath))
+    const source = fs.readFileSync(path.join(`${CONTENT_PATH}${PAGE_DIR}`, filePath))
     const { content, data } = matter(source)
     return {
       content,
@@ -55,7 +55,7 @@ export async function getStaticProps(context){
     }
   })
 
-  const postFilePath = path.join(`${POSTS_PATH}${PAGE_DIR}`, `index.md`)
+  const postFilePath = path.join(`${CONTENT_PATH}${PAGE_DIR}`, `index.md`)
   const source = fs.readFileSync(postFilePath)
 
   const { content, data } = matter(source)

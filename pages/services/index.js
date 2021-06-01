@@ -5,7 +5,7 @@ import Link from 'next/link'
 import path from 'path'
 import { serialize } from 'next-mdx-remote/serialize'
 import Layout from '../../components/Layout'
-import { postFilePaths, POSTS_PATH } from '../../utils/mdxSections'
+import { postFilePaths, CONTENT_PATH } from '../../utils/mdxSections'
 import ReactPaginate from 'react-paginate'
 import {useState,useEffect} from 'react'
 import ArticleSummaryLink from '../../components/basic/ArticleSummaryLink'
@@ -86,7 +86,7 @@ export async function getStaticProps(context){
   // Get Posts
   const posts = postFilePaths(PAGE_DIR).map((filePath) => {
     //console('filePath',filePath)
-    const source = fs.readFileSync(path.join(`${POSTS_PATH}${PAGE_DIR}`, filePath))
+    const source = fs.readFileSync(path.join(`${CONTENT_PATH}${PAGE_DIR}`, filePath))
     const { content, data } = matter(source)
 
     return {
@@ -96,7 +96,7 @@ export async function getStaticProps(context){
     }
   })
 
-  const postFilePath = path.join(`${POSTS_PATH}${PAGE_DIR}`, `index.md`)
+  const postFilePath = path.join(`${CONTENT_PATH}${PAGE_DIR}`, `index.md`)
 
   const source = fs.readFileSync(postFilePath)
 

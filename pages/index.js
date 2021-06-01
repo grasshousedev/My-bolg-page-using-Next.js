@@ -7,7 +7,7 @@ import { serialize } from 'next-mdx-remote/serialize'
 import Layout from '../components/Layout'
 import Hero from '../components/Hero'
 import RecentPosts from '../components/blocks/RecentPosts'
-import { postFilePaths, POSTS_PATH } from '../utils/mdxSections'
+import { postFilePaths, CONTENT_PATH } from '../utils/mdxSections'
 import note from '../_data/notification.json'
 import VideoBlock from '../components/blocks/VideoBlock'
 import {useSelector} from 'react-redux'
@@ -40,8 +40,8 @@ export async function getStaticProps(context){
 
   // Get Posts
   const posts = postFilePaths(`${PAGE_DIR}/updates/`).map((filePath) => {
-    //console.log(`${POSTS_PATH}/updates/${filePath}`)
-    const source = fs.readFileSync(path.join(`${POSTS_PATH}/updates/`, filePath))
+    //console.log(`${CONTENT_PATH}/updates/${filePath}`)
+    const source = fs.readFileSync(path.join(`${CONTENT_PATH}/updates/`, filePath))
     const { content, data } = matter(source)
     return {
       content,
@@ -50,7 +50,7 @@ export async function getStaticProps(context){
     }
   })
 
-  const postFilePath = path.join(`${POSTS_PATH}`, `index.md`)
+  const postFilePath = path.join(`${CONTENT_PATH}`, `index.md`)
   const source = fs.readFileSync(postFilePath)
 
   const { content, data } = matter(source)

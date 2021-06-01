@@ -5,11 +5,11 @@ import Link from 'next/link'
 import path from 'path'
 import { serialize } from 'next-mdx-remote/serialize'
 import Layout from '../../components/Layout'
-import { postFilePaths, POSTS_PATH } from '../../utils/mdxSections'
 import ReactPaginate from 'react-paginate'
 import {useState,useEffect} from 'react'
 import ArticleSummaryLink from '../../components/basic/ArticleSummaryLink'
 import Pagination from '../../components/basic/PaginatedPosts'
+import { getPosts, CONTENT_PATH } from '../../utils/mdxSections'
 
 import note from '../../_data/notification.json'
 import shortcodes from '../../utils/shortcodes'
@@ -29,7 +29,7 @@ export default function Index({posts,source,data,note,heroSource}) {
     setCurrentPage(selectedPage);
   }
 
-  const pageCount = Math.ceil(data.length / PER_PAGE)
+  // const pageCount = Math.ceil(data.length / PER_PAGE)
 
   //console(posts,source,data,note)
   const sorted = posts.sort(function (a, b) {
@@ -61,32 +61,17 @@ export async function getStaticProps(context){
   // const note = await import('../_data/notification.json')
   note.processed = await serialize(note.content)
 
-  const getPostSource = async (content) => {
-    return await serialize(content)
-  }
-
-
   const { params } = context
   // Get Posts
-  const posts = postFilePaths(PAGE_DIR).map((filePath) => {
-    //console('filePath',filePath)
-    const source = fs.readFileSync(path.join(`${POSTS_PATH}${PAGE_DIR}`, filePath))
-    const { content, data } = matter(source)
+  const posts = getPosts(PAGE_DIR,CONTENT_PATH)
 
-    return {
-      content,
-      data,
-      filePath: `${PAGE_DIR}${filePath.replace(/\.(md|mdx)$/, '')}`,
-    }
-  })
-
-  const postFilePath = path.join(`${POSTS_PATH}${PAGE_DIR}`, `index.md`)
-
+  const postFilePath = path.join(`${CONTENT_PATH}${PAGE_DIR}`, `index.md`)
   const source = fs.readFileSync(postFilePath)
 
   const { content, data } = matter(source)
 
   const pageSource = await serialize(content)
+  //console(heroVideo)
   return {
     props: {
       note: note,
