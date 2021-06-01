@@ -1,4 +1,4 @@
-import fs from 'fs'
+const fs = require('fs');
 import matter from 'gray-matter'
 import { MDXRemote } from 'next-mdx-remote'
 import ReactMarkdown from 'react-markdown'

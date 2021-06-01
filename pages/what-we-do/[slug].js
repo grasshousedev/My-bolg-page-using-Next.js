@@ -1,4 +1,4 @@
-import fs from 'fs'
+const fs = require('fs');
 import matter from 'gray-matter'
 import { serialize } from 'next-mdx-remote/serialize'
 import dynamic from 'next/dynamic'
