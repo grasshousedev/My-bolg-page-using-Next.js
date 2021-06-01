@@ -89,7 +89,7 @@ export default function PaginatedPosts({ data, RenderComponent, title, pageLimit
             <Button
               key={cat}
               onClick={ e => {setFilter(cat); setCurrentPage(1)}}
-              ring={filter === cat ? true : false}
+              selected={filter === cat ? true : false}
             >
               {titleCase(cat)}
             </Button>

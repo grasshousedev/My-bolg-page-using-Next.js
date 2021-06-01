@@ -27,4 +27,3 @@ tags:
 - Certified Financial Planner
 title: Who We Are
 ---
-this is the who we are page

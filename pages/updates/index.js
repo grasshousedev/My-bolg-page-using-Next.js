@@ -15,6 +15,7 @@ import note from '../../_data/notification.json'
 import shortcodes from '../../utils/shortcodes'
 
 const PAGE_DIR = '/updates/'
+
 export default function Index({posts,source,data,note,heroSource}) {
   const [currentPage, setCurrentPage] = useState(0);
   const [pages, setPages] = useState([]);
@@ -95,16 +96,3 @@ export async function getStaticProps(context){
     },
   }
 }
-
-// export const getStaticPaths = async () => {
-//   const paths = postFilePaths
-//     // Remove file extensions for page paths
-//     .map((path) => path.replace(/\.(md|mdx)$/, ''))
-//     // Map the path into the static paths object required by Next.js
-//     .map((slug) => ({ params: { slug } }))
-
-//   return {
-//     paths,
-//     fallback: false,
-//   }
-// }
