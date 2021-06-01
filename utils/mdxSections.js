@@ -14,8 +14,8 @@ export const postFilePaths = (path = '') => {
   .filter((path) => /\.(md|mdx)$/.test(path))
 }
 
-export const getPosts = async (pageDir,contentPath) => {
-  return await postFilePaths(pageDir).map((filePath) => {
+export const getPosts = (pageDir,contentPath) => {
+  return postFilePaths(pageDir).map((filePath) => {
     //console('filePath',filePath)
     const source = fs.readFileSync(path.join(`${contentPath}${pageDir}`, filePath))
     const { content, data } = matter(source)
