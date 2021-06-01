@@ -1,7 +1,7 @@
 import React from 'react';
 import { ChevronLeftIcon, ChevronRightIcon } from '@heroicons/react/solid'
 
-function Pagination({posts,currentPage,setCurrentPage, data, RenderComponent, title, pageLimit, dataLimit, pages, filter}) {
+function Pagination({posts = [],currentPage,setCurrentPage, data, RenderComponent, title, pageLimit, dataLimit, pages, filter}) {
   const hasCat = (cats,cat) => {
     let has = false
     cats.forEach( el => el.toLowerCase().trim() === cat.toLowerCase().trim() ? has = true : null)
@@ -45,9 +45,11 @@ function Pagination({posts,currentPage,setCurrentPage, data, RenderComponent, ti
     const remainingPosts = posts.length - (start * dataLimit)
     const remainingPages = Math.floor(remainingPosts/dataLimit)+1
     const pageCount = remainingPages > pageLimit ? pageLimit : remainingPages
-    return new Array(pageCount).fill().map((_, idx) => {
+    return pageCount ?
+    new Array(pageCount).fill().map((_, idx) => {
       return (start + idx + 1) < data.length ? start + idx + 1 : null
-    });
+    }
+    ) : [];
   };
 
   return (

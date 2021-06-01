@@ -39,7 +39,7 @@ export async function getStaticProps(context){
   const { params } = context
 
   // Get Posts
-  const posts = postFilePaths(`${PAGE_DIR}/posts/`).map((filePath) => {
+  const posts = postFilePaths(`${PAGE_DIR}/posts/`,fs).map((filePath) => {
     //console.log(`${CONTENT_PATH}/posts/${filePath}`)
     const source = fs.readFileSync(path.join(`${CONTENT_PATH}/posts/`, filePath))
     const { content, data } = matter(source)

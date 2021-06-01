@@ -6,6 +6,7 @@ export default function PaginatedPosts({ data, RenderComponent, title, pageLimit
   const [pages] = useState(Math.ceil(data.length / dataLimit))
   const [currentPage, setCurrentPage] = useState(1)
   const [filter,setFilter] = useState('')
+  const posts = filter.length ? data.filter( post => post.data.categories && hasCat(post.data.categories,filter) ? true : false ) : data
 
   const hasCat = (cats,cat) => {
     let has = false
@@ -40,7 +41,6 @@ export default function PaginatedPosts({ data, RenderComponent, title, pageLimit
   }
 
 
-  const posts = filter ? data.filter( post => post.data.categories && hasCat(post.data.categories,filter) ? true : false ) : data
 
   return (
     <>
