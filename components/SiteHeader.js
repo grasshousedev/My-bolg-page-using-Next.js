@@ -103,11 +103,11 @@ export default function Example() {
   const router = useRouter()
 
   return (
-    <Popover className="relative bg-brand-blue">
+    <Popover key="SiteHeader" className="relative bg-brand-blue z-10">
       {({ open }) => (
         <>
           <div className="absolute inset-0 shadow z-30 pointer-events-none" aria-hidden="true" />
-          <div className="relative z-40">
+          <div className="relative">
             <div className="max-w-7xl mx-auto flex justify-between items-center px-4 py-5 sm:px-6 sm:py-4 lg:px-8 lg:justify-start md:space-x-10">
               {/** Logo **/}
               <div>
@@ -141,7 +141,7 @@ export default function Example() {
                         <Popover.Button
                           className={classNames(
                             open ? 'text-brand-blue-light' : 'text-white',
-                            'group bg-transparent rounded-md inline-flex items-center text`-white font-medium hover:text-brand-blue-light focus:outline-none'
+                            'focus:ring group bg-transparent rounded-md inline-flex items-center text`-white font-medium hover:text-brand-blue-light focus:outline-none'
                           )}
                         >
                           <span>What We Do</span>
