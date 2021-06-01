@@ -8,7 +8,7 @@ import Layout from '../../components/Layout'
 import ReactPaginate from 'react-paginate'
 import {useState,useEffect} from 'react'
 import ArticleSummaryLink from '../../components/basic/ArticleSummaryLink'
-import Pagination from '../../components/basic/PaginatedPosts'
+import PaginatedPosts from '../../components/basic/PaginatedPosts'
 import { getPosts, CONTENT_PATH } from '../../utils/mdxSections'
 
 import note from '../../_data/notification.json'
@@ -43,7 +43,7 @@ export default function Index({posts,source,data,note,heroSource}) {
   return (
     <Layout note={note}>
         <div  className="max-w-7xl mx-auto px-4 lg:px-8 py-4 lg:py-8 grid grid-cols-12 gap-16">
-            <Pagination
+            <PaginatedPosts
               data={sorted}
               RenderComponent={ArticleSummaryLink}
               title="Posts"
