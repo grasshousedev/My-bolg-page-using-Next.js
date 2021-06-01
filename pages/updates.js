@@ -43,7 +43,6 @@ export default function Index({posts,source,data,note,heroSource}) {
   return (
     <Layout note={note}>
         <div  className="max-w-7xl mx-auto px-4 lg:px-8 py-4 lg:py-8 grid grid-cols-12 gap-16">
-            posts.length:{posts.length}
             <PaginatedPosts
               data={sorted}
               RenderComponent={ArticleSummaryLink}
