@@ -14,7 +14,7 @@ import { getPosts, CONTENT_PATH } from '../utils/mdxSections'
 import note from '../_data/notification.json'
 import shortcodes from '../utils/shortcodes'
 
-const PAGE_DIR = '/updates/'
+const PAGE_DIR = '/posts/'
 
 export default function Index({posts,source,data,note,heroSource}) {
   const [currentPage, setCurrentPage] = useState(0);
