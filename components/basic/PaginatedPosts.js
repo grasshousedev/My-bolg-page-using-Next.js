@@ -6,13 +6,15 @@ export default function PaginatedPosts({ data, RenderComponent, title, pageLimit
   const [pages] = useState(Math.ceil(data.length / dataLimit))
   const [currentPage, setCurrentPage] = useState(1)
   const [filter,setFilter] = useState('')
-  const posts = filter.length ? data.filter( post => post.data.categories && hasCat(post.data.categories,filter) ? true : false ) : data
 
   const hasCat = (cats,cat) => {
     let has = false
     cats.forEach( el => el.toLowerCase().trim() === cat.toLowerCase().trim() ? has = true : null)
     return has
   }
+
+  const posts = filter.length ? data.filter( post => post.data.categories && hasCat(post.data.categories,filter) ? true : false ) : data
+
 
   function titleCase(str) {
     return str.toLowerCase().split(' ').map(function(word) {
