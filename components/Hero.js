@@ -19,7 +19,7 @@ export default function Hero({heroSource,children,video,videoText,title,hero}) {
   ////console.log(props)
   return (
     <>
-    <div className="relative bg-white overflow-hidden mb-8 sm:mb-20">
+    <div id="hero" className="relative bg-white overflow-hidden mb-8 sm:mb-20">
       <div className="max-w-7xl mx-auto">
         <div className="relative z-10 pt-8 bg-white sm:pb-8 md:pb-8 lg:max-w-2xl lg:w-full">
           <svg
