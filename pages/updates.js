@@ -1,4 +1,4 @@
-const fs = require('fs');
+const fs = require("fs")
 import matter from 'gray-matter'
 import { MDXRemote } from 'next-mdx-remote'
 import Link from 'next/link'
@@ -13,6 +13,7 @@ import { getPosts, CONTENT_PATH } from '../utils/mdxSections'
 
 import note from '../_data/notification.json'
 import shortcodes from '../utils/shortcodes'
+
 
 const PAGE_DIR = '/posts/'
 
@@ -57,27 +58,19 @@ export default function Index({posts,source,data,note,heroSource}) {
 
 
 export async function getStaticProps(context){
+
   // import note
   // const note = await import('../_data/notification.json')
   note.processed = await serialize(note.content)
 
   const { params } = context
   // Get Posts
-  const posts = getPosts(PAGE_DIR,CONTENT_PATH)
+  const posts = getPosts(PAGE_DIR,fs)
 
-  const postFilePath = path.join(`${CONTENT_PATH}${PAGE_DIR}`, `index.md`)
-  const source = fs.readFileSync(postFilePath)
-
-  const { content, data } = matter(source)
-
-  const pageSource = await serialize(content)
-  //console(heroVideo)
   return {
     props: {
       note: note,
       posts: posts,
-      source: pageSource,
-      data: data,
     },
   }
 }

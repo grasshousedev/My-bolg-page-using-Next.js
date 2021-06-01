@@ -1,4 +1,3 @@
-const fs = require('fs');
 import path from 'path'
 import matter from 'gray-matter'
 
@@ -7,17 +6,17 @@ import matter from 'gray-matter'
 export const CONTENT_PATH = path.join(process.cwd(), '_content')
 
 // postFilePaths is the list of all mdx files inside the CONTENT_PATH directory
-export const postFilePaths = (path = '') => {
+export const postFilePaths = (path = '',fs) => {
   return fs
   .readdirSync(`${CONTENT_PATH}${path}`)
   // Only include md(x) files
   .filter((path) => /\.(md|mdx)$/.test(path))
 }
 
-export const getPosts = (pageDir,contentPath) => {
-  return postFilePaths(pageDir).map((filePath) => {
-    //console('filePath',filePath)
-    const source = fs.readFileSync(path.join(`${contentPath}${pageDir}`, filePath))
+export const getPosts = (pageDir,fs) => {
+  console.log(fs)
+  return postFilePaths(pageDir,fs).map((filePath) => {
+    const source = fs.readFileSync(path.join(`${CONTENT_PATH}${pageDir}`, filePath))
     const { content, data } = matter(source)
     return {
       content,

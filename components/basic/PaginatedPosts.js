@@ -28,7 +28,6 @@ export default function PaginatedPosts({ data, RenderComponent, title, pageLimit
   function onlyUnique(value, index, self) {
     return self.indexOf(value) === index;
   }
-  const posts = filter ? data.filter( post => post.data.categories && hasCat(post.data.categories,filter) ? true : false ) : data
 
   const getCategories = () => {
     let cats = new Set()
@@ -40,6 +39,8 @@ export default function PaginatedPosts({ data, RenderComponent, title, pageLimit
     return [...cats].filter(onlyUnique).sort()
   }
 
+
+  const posts = filter ? data.filter( post => post.data.categories && hasCat(post.data.categories,filter) ? true : false ) : data
 
   return (
     <>
@@ -58,9 +59,10 @@ export default function PaginatedPosts({ data, RenderComponent, title, pageLimit
           />
       {/* show the posts, 10 posts at a time */}
       <div className="dataContainer">
-        {getPaginatedData().map((d, idx) => (
-          <RenderComponent key={idx} post={d} />
-        ))}
+        {getPaginatedData().map((d, idx) => {console.log(idx,d); return (
+
+          <RenderComponent key={idx} post={d}/>
+        )})}
       </div>
       <Pagination
         posts={posts}
