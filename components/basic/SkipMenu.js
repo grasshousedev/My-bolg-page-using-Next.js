@@ -1,9 +1,12 @@
 import React from 'react';
+import BlockContainer from '../blocks/BlockContainer';
 
-function SkipMenu(props) {
+function SkipMenu({directions}) {
   return (
-    <div id="skip-menu">
-      <a href="#content">Skip to Content</a>      
+    <div id="skip-menu" className="fixed w-full focus-within:z-50 bg-brand-blue-light">
+      <BlockContainer landingPage={true}>
+        <a href="#content" tabIndex="0">Skip to Content</a>
+      </BlockContainer>
     </div>
   );
 }
