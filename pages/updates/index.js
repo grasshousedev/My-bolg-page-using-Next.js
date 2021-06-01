@@ -9,7 +9,7 @@ import { postFilePaths, POSTS_PATH } from '../../utils/mdxSections'
 import ReactPaginate from 'react-paginate'
 import {useState,useEffect} from 'react'
 import ArticleSummaryLink from '../../components/basic/ArticleSummaryLink'
-import Pagination from '../../components/basic/Pagination'
+import Pagination from '../../components/basic/PaginatedPosts'
 
 import note from '../../_data/notification.json'
 import shortcodes from '../../utils/shortcodes'
@@ -41,8 +41,7 @@ export default function Index({posts,source,data,note,heroSource}) {
 
   return (
     <Layout note={note}>
-        <div  className="max-w-7xl mx-auto px-4 lg:px-8 py-4 lg:py-8 grid grid-cols-12">
-          <main className="col-span-8">
+        <div  className="max-w-7xl mx-auto px-4 lg:px-8 py-4 lg:py-8 grid grid-cols-12 gap-16">
             <Pagination
               data={sorted}
               RenderComponent={ArticleSummaryLink}
@@ -50,29 +49,6 @@ export default function Index({posts,source,data,note,heroSource}) {
               pageLimit={5}
               dataLimit={10}
             />
-            <ul>
-              {currentPageData.map((post) => (
-                <li key={post.filePath}>
-                  <Link
-                    as={`${PAGE_DIR}${post.filePath.replace(/\.md?$/, '')}`}
-                    href={`${PAGE_DIR}[slug]`}
-                  >
-                    <a>{post.data.title}</a>
-                  </Link>
-                </li>
-              ))}
-            <Pagination
-              data={sorted}
-              RenderComponent={ArticleSummaryLink}
-              title="Posts"
-              pageLimit={5}
-              dataLimit={10}
-            />
-            </ul>
-          </main>
-          <aside className="col-span-4">
-            sidebar
-          </aside>
         </div>
     </Layout>
   )
