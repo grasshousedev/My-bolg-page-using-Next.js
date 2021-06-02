@@ -32,8 +32,8 @@ export default function FeatureBlock({features,overview}) {
             </div>
             <div className="mt-12">
               <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-4">
-                {features.map((feature) => (
-                  <div key={feature.name} className="pt-6">
+                {features.map((feature,i) => (
+                  <div key={i} className="pt-6">
                     <div className="flow-root bg-gray-50 rounded-lg px-6 pb-8">
                       <div className="-mt-6">
                         <div>
@@ -45,10 +45,9 @@ export default function FeatureBlock({features,overview}) {
                             ariaHidden={true}
                           />
                         </div>
-                        <h3 className="mt-8 text-lg font-medium text-gray-900 tracking-tight">{feature.name}</h3>
-                        <p className="mt-5 text-base text-gray-500">
+                        <div className="mt-5 text-base text-gray-500 prose prose-sm">
                           <ReactMarkdown children={feature.text}/>
-                        </p>
+                        </div>
                       </div>
                     </div>
                   </div>

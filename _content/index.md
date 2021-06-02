@@ -27,7 +27,7 @@ content_blocks:
   - icon: /v1546980898/icon-financial-planning.svg
     icon_animation: fade
     text: |-
-      ## [Financial Planning](/what-we-do/fiduciary-financial-planning/ "Financial Planning")
+      ### [Financial Planning](/what-we-do/fiduciary-financial-planning/ "Financial Planning")
 
       Prioritize your financial goals and understand how decisions you are considering today can impact your future.
   - icon: /v1546980898/icon-investment-services.svg
@@ -39,13 +39,13 @@ content_blocks:
   - icon: /v1546980898/icon-retirement.svg
     icon_animation: fade
     text: |-
-      ## [Retirement Strategies](/what-we-do/retirement-planning-strategies/ "Retirement Strategies")
+      ### [Retirement Strategies](/what-we-do/retirement-planning-strategies/ "Retirement Strategies")
 
       Whether you’re 25, 45 or 65, achieving financial independence and planning for retirement is just plain smart.
   - icon: /v1546980898/icon-401k.svg
     icon_animation: fade
     text: |-
-      ## [401(k) & Pension Plans](/what-we-do/401k-and-pension-plan-fiduciary/ "401k & Financial Plans")
+      ### [401(k) & Pension Plans](/what-we-do/401k-and-pension-plan-fiduciary/ "401k & Financial Plans")
 
       We setup and manage successful retirement benefit programs for businesses of all sizes.
   overview_text: |-

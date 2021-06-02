@@ -20,10 +20,11 @@ const getComponentName = (template) => {
 }
 
 const renderBlocks = (blocks,landingPage) => {
-  return  blocks.map( block=> {
+  return  blocks.map( (block, i) => {
     switch (block.template) {
       case 'bullet-points-block':
         return <BulletPointsBlock
+                key={i}
                 landingPage={landingPage}
                 bulletPoints={block.bullet_points}
                 headerText={block.header_text}
@@ -31,47 +32,56 @@ const renderBlocks = (blocks,landingPage) => {
                 />
       case 'ema-call-to-action':
         return <EMACallToAction
+                key={i}
                 landingPage={landingPage}
                 text={block.leading_text}/>
       case 'featured-block':
         return <FeatureBlock
+                key={i}
                 landingPage={landingPage}
                 overview={block.overview_text}
                 features={block.icon_blocks}/>
       case 'icon-block':
         return <IconBlock
+                key={i}
                 landingPage={landingPage}
                 icon={block.icon}
                 text={block.text}/>
       case 'image-block':
         return <ImageBlock
+                key={i}
                 landingPage={landingPage}
                 text={block.text}
                 image={block.image}/>
       case 'lead-paragraph':
         return <LeadParagraph
+                key={i}
                 landingPage={landingPage}
                 text={block.text}/>
       case 'logo-block':
         return <LogoBlock
+                key={i}
                 landingPage={landingPage}
                 heading={block.heading}
                 logos={block.logos}/>
       case 'prose-block':
         return <ProseBlock
+                key={i}
                 landingPage={landingPage}
                 text={block.text}/>
       case 'sales-funnel-block':
         return <SalesFunnel
+                key={i}
                 landingPage={landingPage}
                 text={block.text}/>
       case 'video-block':
         return <VideoBlock
+                key={i}
                 landingPage={landingPage}
                 text={block.text}
                 video={block.video}/>
       default:
-        return <p>{getComponentName(block.template)}</p>
+        return <p key={i}>{getComponentName(block.template)}</p>
     }
   })
 }

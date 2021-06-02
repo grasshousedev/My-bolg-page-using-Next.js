@@ -6,6 +6,7 @@ export default function Example({posts}) {
   const sorted = posts.sort(function (a, b) {
     return new Date(a.data.date).getTime() - new Date(b.data.date).getTime();
   }).reverse();
+  console.log(posts[0])
   return (
     <Block>
       <BlockContainer>
@@ -23,34 +24,34 @@ export default function Example({posts}) {
             <div className="mt-12 max-w-lg mx-auto grid gap-5 lg:grid-cols-3 lg:max-w-none">
               {sorted.slice(0, 3).map((post) => (
                 <div key={post.data.title} className="flex flex-col rounded-lg shadow-lg overflow-hidden">
-                  <div className="flex-shrink-0">
-                  <CloudinaryImage
-                    src={post.data.featured_image}
-                    alt={post.data.featured_alt}
-                    width={300}
-                    height={200}
-                    className="h-48 w-full object-cover"
-                    transform="/w_300,h_200,c_fill,g_auto"
-                    layout="responsive"
-                    ariaHidden={true}
-                  />
-                  </div>
-                  <div className="flex-1 bg-white p-6 flex flex-col justify-between">
-                    <div className="flex-1">
-                      {/* <p className="text-sm font-medium text-indigo-600">
-                        <a href={post.category.href} className="hover:underline">
-                          {post.category.name}
-                        </a>
-                      </p> */}
-                      <a href={post.href} className="block mt-2">
-                        <p className="text-xl font-semibold text-gray-900">{post.data.title}</p>
-                        <p className="mt-3 text-base text-gray-500">{post.description}</p>
-                      </a>
-                    </div>
-                    <div className="mt-6 flex items-center">
-                      <time dateTime={post.datetime}>{post.date}</time>
-                    </div>
-                  </div>
+                  <a href={post.filePath} className="block">
+                    <div className="flex-shrink-0">
+                      <CloudinaryImage
+                        src={post.data.featured_image}
+                        alt={post.data.featured_alt}
+                        width={300}
+                        height={200}
+                        className="h-48 w-full object-cover"
+                        transform="/w_300,h_200,c_fill,g_auto"
+                        layout="responsive"
+                        ariaHidden={true}
+                      />
+                      </div>
+                      <div className="flex-1 bg-white p-6 flex flex-col justify-between">
+                        <div className="flex-1">
+                          {/* <p className="text-sm font-medium text-indigo-600">
+                            <a href={post.category.href} className="hover:underline">
+                              {post.category.name}
+                            </a>
+                          </p> */}
+                            <p className="text-xl font-semibold text-gray-900">{post.data.title}</p>
+                            <p className="mt-3 text-base text-gray-500">{post.description}</p>
+                        </div>
+                        <div className="mt-6 flex items-center">
+                          <time dateTime={post.datetime}>{post.date}</time>
+                        </div>
+                      </div>
+                    </a>
                 </div>
               ))}
             </div>

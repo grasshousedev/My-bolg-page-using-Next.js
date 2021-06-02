@@ -18,9 +18,9 @@ export default function LogoBlock({heading,logos}) {
             <div className="flow-root mt-8 lg:mt-10">
               <div className="-mt-4 -ml-8 flex flex-wrap justify-center lg:justify-between lg:-ml-4">
                 { logos ? logos.map(
-                  logo => {
+                  (logo, i) => {
                     return (
-                      <div className="mt-4 ml-8 flex-1 lg:ml-4">
+                      <div key={i} className="mt-4 ml-8 flex-1 lg:ml-4">
                         <CloudinaryImage
                           src={logo.image}
                           className="h-7 w-full block object-contain"

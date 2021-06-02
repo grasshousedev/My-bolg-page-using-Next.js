@@ -46,7 +46,7 @@ export async function getStaticProps(context){
     return {
       content,
       data,
-      filePath,
+      filePath: `/posts/${filePath.split('.')[0]}`,
     }
   })
 

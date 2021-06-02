@@ -31,8 +31,8 @@ export default function SalesFunnelBlock({text}) {
             </div>
             <div className="mt-12">
               <div className="grid grid-cols-1 gap-8 sm:grid-cols-2 lg:grid-cols-4 max-w-lg mx-auto">
-                {funnels.map(funnel => (
-                  <button onClick={e=> setFunnel(funnel.name)}>
+                {funnels.map((funnel,i) => (
+                  <button key={i} onClick={e=> setFunnel(funnel.name)}>
                     <CloudinaryImage
                       src={funnel.icon}
                       className="block w-auto h-20 mx-auto"

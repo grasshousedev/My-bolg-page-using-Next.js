@@ -9,14 +9,14 @@ function SalesFunnels({selected = 'default'}) {
 
 
   const showFunnels = () => {
-    return funnels.map( (funnel) => {
+    return funnels.map( (funnel, i) => {
       console.log(current.name === funnel.name)
       return funnel.children ?
         // render a funnel
-        (<SalesFunnel funnel={funnel} def={current.name === funnel.name ? true : false} setCurrent={setCurrent}/>)
+        (<SalesFunnel key={i} funnel={funnel} def={current.name === funnel.name ? true : false} setCurrent={setCurrent}/>)
       : (
         // render a link
-        <div className="col-span-1 text-center">
+        <div key={i} className="col-span-1 text-center">
           <a href={funnel.href} className="block mb-4">
             <CloudinaryImage
               src={funnel.icon}
