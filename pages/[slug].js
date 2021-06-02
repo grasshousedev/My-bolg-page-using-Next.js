@@ -12,19 +12,36 @@ import { postFilePaths, CONTENT_PATH } from '../utils/mdxSections'
 import shortcodes from '../utils/shortcodes'
 import note from '../_data/notification.json'
 import Blocks from '../components/blocks/Blocks'
-
+import ShareButtons from '../components/ShareButtons'
 const PAGE_DIR = '/'
 
-export default function PostPage({ source, data, heroSource }) {
+export default function PostPage({ source, data, url }) {
   return (
     <Layout note={note}>
-      <Hero
-        title={data.title}
-        hero={data.hero}
-        heroSource={heroSource}/>
-        <MDXRemote {...source} components={shortcodes} />
-        <Blocks blocks={data.content_blocks}/>
+      <Hero hero={data.hero}>
+      <div  className="max-w-7xl mx-auto px-4 lg:px-8 py-4 lg:py-8">
+        <main className="prose prose-brand-secondary relative z-20">
+          <article>
+            <header>
+              <h1>{data.title}</h1>
+            </header>
+            <div className="post-header">
+              {data.description && (
+                <p className="description">{data.description}</p>
+              )}
+            </div>
+            <MDXRemote {...source} components={shortcodes} />
+            <hr/>
+            <Blocks blocks={data.content_blocks} landingPage={false}/>
+            <footer>
+                <ShareButtons url={url} title={data.title}/>
+            </footer>
+          </article>
+        </main>
+      </div>
+      </Hero>
     </Layout>
+
   )
 }
 
@@ -34,15 +51,15 @@ export const getStaticProps = async (context) => {
   const source = fs.readFileSync(postFilePath)
 
   const { content, data } = matter(source)
-
   const pageSource = await serialize(content)
-  const heroSource = await serialize(data.hero.hero_text)
+
   return {
     props: {
+      slug: params.slug,
+      url: process.env.BASE_URL+PAGE_DIR+'/'+params.slug,
       note: note,
       source: pageSource,
       data: data,
-      heroSource: heroSource,
     },
   }
 }

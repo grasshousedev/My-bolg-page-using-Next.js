@@ -2,7 +2,9 @@
 aliases: []
 categories: []
 content_blocks:
-- block_text: |-
+- text: |-
+    Have you ever wondered how to best combine your financial lives? Perhaps you need help prioritizing shared financial goals and concerns? Do you have access to multiple benefit programs that you need help maximizing? There are so many questions. Our goal is to help you plan for your financial future together by providing clear and understandable financial advice that is aligned with your best interest
+
     You love your spouse and you’re committed to the values that inspire your life together. We believe you deserve a team of financial experts who are here to look out for your joint interests and understand financial planning for married couples.
 
     We help couples organize and manage their financial lives so that they can make better decisions, together. We’d like to show you how you can benefit from our wealth of experience helping recently married couples plan ahead to achieve their life goals.
@@ -17,7 +19,6 @@ hero:
   hero_text: |-
     # From high school sweethearts to newlyweds, who would have ever guessed that achieving financial success together came with so many financial decisions, opportunities and challenges.
 
-    Have you ever wondered how to best combine your financial lives? Perhaps you need help prioritizing shared financial goals and concerns? Do you have access to multiple benefit programs that you need help maximizing? There are so many questions. Our goal is to help you plan for your financial future together by providing clear and understandable financial advice that is aligned with your best interest
   show_hero: true
   show_join_the_team_button: false
   show_meeting_button: true
