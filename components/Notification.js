@@ -1,7 +1,5 @@
-import { useState } from 'react';
 import { SpeakerphoneIcon, XIcon } from '@heroicons/react/outline'
 import ButtonLink from '../components/basic/ButtonLink'
-import shortcodes from '../utils/shortcodes'
 import ReactMarkdown from 'react-markdown'
 import {useSelector,useDispatch} from 'react-redux'
 
@@ -26,7 +24,6 @@ function closeNote(){
 export default function Notification(props) {
   const dispatch = useDispatch()
   const state = useSelector(state => state);
-  console.log(state)
   const DISMISSED = state.notification.dismissed
   const { note } = props
 

@@ -1,18 +1,13 @@
-const fs = require('fs');
 import matter from 'gray-matter'
-import { MDXRemote } from 'next-mdx-remote'
 import Link from 'next/link'
 import path from 'path'
 import { serialize } from 'next-mdx-remote/serialize'
 import Layout from '../../components/Layout'
 import { postFilePaths, CONTENT_PATH } from '../../utils/mdxSections'
-import ReactPaginate from 'react-paginate'
 import {useState,useEffect} from 'react'
 import ArticleSummaryLink from '../../components/basic/ArticleSummaryLink'
 import Pagination from '../../components/basic/Pagination'
-
 import note from '../../_data/notification.json'
-import shortcodes from '../../utils/shortcodes'
 
 const PAGE_DIR = '/services/'
 export default function Index({posts,source,data,note,heroSource}) {
@@ -112,16 +107,3 @@ export async function getStaticProps(context){
     },
   }
 }
-
-// export const getStaticPaths = async () => {
-//   const paths = postFilePaths
-//     // Remove file extensions for page paths
-//     .map((path) => path.replace(/\.(md|mdx)$/, ''))
-//     // Map the path into the static paths object required by Next.js
-//     .map((slug) => ({ params: { slug } }))
-
-//   return {
-//     paths,
-//     fallback: false,
-//   }
-// }

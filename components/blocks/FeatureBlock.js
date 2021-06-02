@@ -21,7 +21,6 @@ const features = [
 ]
 
 export default function FeatureBlock({features,overview}) {
-  console.log(features)
   return (
     <Block>
       <BlockContainer>

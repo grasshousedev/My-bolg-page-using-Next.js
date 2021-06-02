@@ -6,7 +6,6 @@ export default function Example({posts}) {
   const sorted = posts.sort(function (a, b) {
     return new Date(a.data.date).getTime() - new Date(b.data.date).getTime();
   }).reverse();
-  console.log(posts[0])
   return (
     <Block>
       <BlockContainer>

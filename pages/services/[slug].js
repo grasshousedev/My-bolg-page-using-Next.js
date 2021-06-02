@@ -8,7 +8,7 @@ import Layout from '../../components/Layout'
 import ShareButtons from '../../components/ShareButtons'
 import { postFilePaths, CONTENT_PATH } from '../../utils/mdxSections'
 import note from '../../_data/notification.json'
-import ServicePoints from '../../../components/ServicePoints'
+import ServicePoints from '../../components/ServicePoints'
 
 // Custom components/renderers to pass to MDX.
 // Since the MDX files aren't loaded by webpack, they have no knowledge of how

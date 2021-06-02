@@ -87,7 +87,6 @@ const renderBlocks = (blocks,landingPage) => {
 }
 
 function Blocks({blocks,landingPage = true}) {
-  console.log(landingPage)
   return (
     <div id="blocks">
       {renderBlocks(blocks,landingPage)}
